@@ -1,12 +1,14 @@
-<div id="blog_stuff">
-  <h5>Check out the latest news in <a href="/blog.html">that blog</a> of ours.</h5>
-  <ul id="latest_posts">
-    {% for post in site.posts %}
-    <li> 
-      <h6><a href="#">{{ post.title }}</a></h6>
-      <p class="tags">In this article we'll talk about {{ post.categories | array_to_sentence_string }}.</p>
-      <p>{{ post.summary }}</p>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
+<section id="blog_stuff" class="latest_posts">
+  <header>
+    <h1>Check out the latest news in <a href="/blog.html">that blog</a> of ours.</h1>
+  </header>
+  {% for post in site.posts limit:3 %}
+  <article> 
+    <header>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    </header>
+    <p class="tags">In this article we'll talk about {{ post.categories | array_to_sentence_string }}.</p>
+    <p>{{ post.summary }}</p>
+  </article>
+  {% endfor %}
+</section>

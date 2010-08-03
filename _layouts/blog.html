@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    {% include layout/head.html %}
+  </head>
+  <body>
+    {% include layout/header.html %}
+
+    <div id="wrapper">
+    <!-- ↓ Main Content & Sidebars go here ↓ -->
+
+      <section id="content">
+      <!-- ↓ Main Content: Big, wide left column ↓ -->
+
+        {{ content }}
+
+      <!-- ↥ #content ↥ -->  
+      </section>
+
+      {% include layout/side_bars.html %}    
+
+    <!-- ↥ #wrapper ↥ -->  
+    </div>
+    
+    <footer class="layout">
+      <hr />
+
+      {% include get_in_touch.html %}
+
+      {% include validations.html %}
+
+    </footer>
+
+  </body>
+</html>

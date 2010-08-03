@@ -4,7 +4,11 @@ categories:
   - usability
   - standards
   - ruby on rails
-summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...
+summary:
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
+  incididunt ut labore et dolore magna aliqua. Sed do eiusmod tempor incididunt ut labore 
+  et dolore magna aliqua...
+layout: default
 ---
 h1. Test Post
 

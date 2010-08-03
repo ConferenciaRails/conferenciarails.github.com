@@ -185,20 +185,26 @@ header.layout div#twitter_stream blockquote {
 }
 
 
-#content h2 {
+#content h1 {
 	font-size: 32px;
 	color: #900;
   text-shadow: 1px 1px 2px #FFF;
 }
 
-#content h3 {
+#content h2 {
 	font-size: 18px;
 	margin: 20px 0px 50px 0px;
 	color: #09C;
 }
 
-#content h4 {
+#content h3 {
 	font-size: 16px;
+	margin: 30px 0px 5px 0px;
+	color: #9C0;
+}
+
+#content h4 {
+	font-size: 14px;
 	margin: 30px 0px 5px 0px;
 	color: #9C0;
 }
@@ -329,49 +335,48 @@ footer.layout {
   margin: 0 30px 0 70px; 
 }
 
-footer.layout div#blog_stuff {
+footer.layout section#blog_stuff {
   float: left;
   width: 48%;
 }
 
-footer.layout div#blog_stuff h5 {
+footer.layout section#blog_stuff header h1 {
   margin-bottom: 10px;
   color: #900;
   font-size: 18px;
 }
 
-footer.layout div#blog_stuff h5 a:hover {
+footer.layout section#blog_stuff header a:hover {
   text-decoration: underline;
 }
 
-
-footer.layout div#blog_stuff ul li {
+footer.layout section#blog_stuff article {
   margin-bottom: 15px;
 }
 
-footer.layout div#blog_stuff ul li h6 {
+footer.layout section#blog_stuff article header h2 {
   margin-bottom: 5px;
 }
 
-footer.layout div#blog_stuff ul li h6 a {
+footer.layout section#blog_stuff article header h2 a {
   position: relative; left: -4px;
   padding: 1px 4px;
   font-size: 14px;
   color: #9C0;
 }
 
-footer.layout div#blog_stuff ul li h6 a:hover {
+footer.layout section#blog_stuff article header h2 a:hover {
   color: #FFF;
   background-color: #9C0;
 }
 
 
-footer.layout div#blog_stuff ul li p {
+footer.layout section#blog_stuff article p {
   color: #333;
   line-height: 18px;
 }
 
-footer.layout div#blog_stuff ul li p.tags {
+footer.layout section#blog_stuff article p.tags {
   height: 15px;
   margin: 2px 0 2px 0; padding: 2px 0 5px 21px;
   color: #888;
@@ -379,12 +384,12 @@ footer.layout div#blog_stuff ul li p.tags {
   background: transparent url('assets/presentation/tag_green.png') no-repeat 1px 3px;
 }
 
-footer.layout div#blog_stuff ul li p.tags a {
+footer.layout section#blog_stuff article p.tags a {
   color: #444;
   font-weight: bold;
 }
 
-footer.layout div#blog_stuff ul li p.tags a:hover {
+footer.layout section#blog_stuff article p.tags a:hover {
   text-decoration: underline;
 }
 
