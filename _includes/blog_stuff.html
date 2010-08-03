@@ -1,0 +1,12 @@
+<div id="blog_stuff">
+  <h5>Check out the latest news in <a href="/blog.html">that blog</a> of ours.</h5>
+  <ul id="latest_posts">
+    {% for post in site.posts %}
+    <li> 
+      <h6><a href="#">{{ post.title }}</a></h6>
+      <p class="tags">In this article we'll talk about {{ post.categories | array_to_sentence_string }}.</p>
+      <p>{{ post.summary }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

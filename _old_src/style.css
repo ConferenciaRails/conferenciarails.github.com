@@ -1,0 +1,535 @@
+/*
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Main Style Sheet for http://www.conferenciarails.org
+ Designed & Developed by Rafael Rebolleda
+ www.rafaelrebolleda.com
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Learn, but don't steal. It's bad karma.
+ 
+ ****************************************************/
+
+/* Pretty Basic CSS Reset
+ *************************/
+* {
+  margin:0; padding:0;
+  border:0; outline:0;
+  text-decoration: none;
+  background: transparent;
+}
+
+ul, ol, li {
+  list-style: none;
+}
+
+/* Utilities & Generic Markup
+ *****************************/
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a.current {
+  font-weight: bold;
+}
+
+strong {
+  padding: 2px 4px 2px 5px;
+  background-color: #FF6;
+}
+
+hr {
+  clear: both;
+  height: 3px;
+  margin: 20px 0;
+  border: none;
+  border-bottom: 3px double #AAA;
+}
+
+.hidden {
+  display: none;   
+}
+
+.out {
+  position:absolute;
+  top: -12345px;
+}
+
+/* Body, Header & Navigation
+ ****************************/
+body {
+  background: #FFF url('_assets/presentation/background.gif') repeat-y top left;
+  font: normal 12px "Helvetica Neue", "Helvetica", "Arial", "Verdana", sans-serif;
+  color: #333;
+}
+
+div#header {
+  height: 202px;
+  margin-left: 30px;
+  background: transparent url('_assets/presentation/header.png') repeat-x top left;
+}
+
+div#header div#accessibility {
+  height: 0;
+  overflow: hidden;
+}
+
+div#header div#accessibility a#registration {
+  display: block;
+  width: 17px; height: 111px;
+  position: fixed; top: 10px; left: 6px;
+  background: transparent url('_assets/presentation/register_now.png') no-repeat top left;
+}
+
+div#header h1#logo {
+  position: absolute; top: 30px; left: 70px;
+  z-index: 100;
+}
+
+div#header h1#logo a {
+  display: block;
+  font-size: 42px;
+}
+
+div#header p#conference_date {
+  position: absolute; top: 83px; left: 70px;
+  padding: 4px 7px 3px 7px;
+  font: normal 16px "museo-1", "museo-2", "Helvetiva Neue", "Helvetica", "Arial", sans-serif;
+  color: #FFF; background: #900;
+  text-shadow: 1px 1px 1px #333;
+}
+
+div#header h2#motto {
+  width: 450px; height: 192px;
+  position: absolute; top: 5px; left: 30px;
+  background: transparent url('_assets/presentation/motto_simple.png') repeat-y top left;
+}
+
+div#header h2#motto span {
+  position: absolute; top: 110px; left: 45px;
+  font: 300 16px "museo-1", "museo-2", "Helvetiva Neue", "Helvetica", "Arial", sans-serif;;
+  color: #9C0; 
+}
+
+div#header ol#navigation {
+  width: 397px; height: 22px;
+  position: absolute; top: 0px; right: 20px;
+  padding-top: 5px;
+  background: transparent url('_assets/presentation/navigation.gif') no-repeat top left;
+}
+
+div#header ol#navigation li {
+  float: left;
+  margin-right: 6px; padding-left: 10px;
+  background: transparent url('_assets/presentation/dot.gif') no-repeat 0 6px;
+}
+
+div#header ol#navigation li.first {
+  margin-left: 20px; padding-left: 0;
+  background: none;
+}
+
+div#header ol#navigation li a {
+  display: block;
+  height: 18px;
+}
+
+div#header ol#navigation li a#nav_call_for_papers {
+  width: 93px;
+  background: transparent url('_assets/presentation/call_for_papers.gif') no-repeat top left;
+}
+
+div#header ol#navigation li a#nav_registration {
+  width: 139px;
+  background: transparent url('_assets/presentation/early_bird_registration.gif') no-repeat top left;
+}
+
+div#header ol#navigation li a#nav_blog {
+  width: 29px;
+  background: transparent url('_assets/presentation/blog.gif') no-repeat top left;
+}
+
+div#header ol#navigation li a#nav_contact {
+  width: 51px;
+  background: transparent url('_assets/presentation/contact.gif') no-repeat top left;
+}
+
+div#header div#twitter_stream {
+  width: 320px;
+  padding: 10px 0 0 30px;
+  position: absolute; top: 60px; right: 50px;
+  background: transparent url('_assets/presentation/quote.png') no-repeat top left;
+}
+
+div#header div#twitter_stream blockquote {
+  font: italic 13px "Georgia", "Times New Roman", "Times", serif;
+  line-height: 18px;
+  margin-bottom: 10px;
+}
+
+/* Main Content
+ ***************/
+div#wrapper {
+  position: relative;
+  padding-top: 25px;
+}
+
+div#content {
+  float: left;
+  margin-left: 70px;
+  width: 48%;
+}
+
+
+div#content h2 {
+	font-size: 32px;
+	color: #900;
+  text-shadow: 1px 1px 2px #FFF;
+}
+
+div#content h3 {
+	font-size: 18px;
+	margin: 20px 0px 50px 0px;
+	color: #09C;
+}
+
+div#content h4 {
+	font-size: 16px;
+	margin: 30px 0px 5px 0px;
+	color: #9C0;
+}
+
+div#content p {
+	text-align: left;
+	line-height: 18px;
+	margin-bottom: 20px;
+}
+
+
+/* Sidebars
+ ***********/
+div#side_bars {
+  float: right; position: relative; top: -52px;
+/*position: absolute; top: -27px; right: 0;*/
+  width: 397px;
+  margin-right: 20px;
+}
+
+div#side_bars h2 {
+  margin: 6px auto 17px auto;
+  height: 16px;
+}
+
+div#side_bars strong {
+  padding: 0;
+  color: #444;
+  background: none;
+}
+
+/* Wide Sidebar
+ ***************/
+div#wide_sidebar {
+  float: left;
+  width: 197px;
+  padding: 0 7px;
+  background: transparent url('_assets/presentation/wide_sidebar.png') no-repeat top left;
+}
+
+div#wide_sidebar h2 {
+  position: relative; top: -1px;
+  width: 170px; height: 20px;
+  background: transparent url('_assets/presentation/check_out_our_sponsors.gif') no-repeat top left;
+}
+
+div#wide_sidebar h3 {
+  position: relative; left: -5px;
+  margin: 15px 0 5px 0;
+}
+
+div#wide_sidebar h3 a {
+  padding: 2px 20px 2px 5px;
+	color: #900;
+}
+
+div#wide_sidebar h3 a:hover {
+  color: #FFF;
+  background: #900 url('_assets/presentation/caret.gif') no-repeat top right;
+}
+
+div#wide_sidebar p {
+  position: relative; left: -5px;
+  padding-left: 5px;
+  color: #666;
+  line-height: 18px;
+  border-left: 1px dotted #CCC;
+}
+
+div#wide_sidebar img {
+  width: 193px; height: 50px;
+  padding: 2px;
+  border: 1px solid #DDD;
+}
+
+/* Narrow Sidebar
+ *****************/
+div#narrow_sidebar {
+  float: right;
+  width: 150px;
+  padding: 0 5px 0 10px;
+  background: transparent url('_assets/presentation/narrow_sidebar.png') no-repeat top left;
+}
+
+div#narrow_sidebar h2 {
+  position: relative; top: 1px;
+  width: 69px; height: 18px;
+  margin-bottom: 22px;
+  background: transparent url('_assets/presentation/key_dates.gif') no-repeat top left;
+}
+
+div#narrow_sidebar h3 {
+  margin: 15px 0 7px 0;
+  color: #09C;
+  font-size: 8px;
+  text-transform: uppercase;
+  border-bottom: 1px solid #CCC;
+}
+
+div#narrow_sidebar h4 {
+  margin-bottom: 4px;
+  color: #333; 
+  font-size: 9px;
+  text-transform: uppercase;
+}
+
+div#narrow_sidebar h4 a {
+  position: relative; left: -3px;
+  padding: 1px 3px;
+}
+
+div#narrow_sidebar h4 a:hover {
+  color: #FFF;
+  background-color: #333;
+}
+
+div#narrow_sidebar address {
+  font-size: 9px;
+  font-style: normal;
+  color: #444;
+  line-height: 12px;
+}
+
+/* Footer
+ *********/
+div#footer {
+  clear: both;
+  margin: 0 30px 0 70px; 
+}
+
+div#footer div#blog_stuff {
+  float: left;
+  width: 48%;
+}
+
+div#footer div#blog_stuff h5 {
+  margin-bottom: 10px;
+  color: #900;
+  font-size: 18px;
+}
+
+div#footer div#blog_stuff h5 a:hover {
+  text-decoration: underline;
+}
+
+
+div#footer div#blog_stuff ul li {
+  margin-bottom: 15px;
+}
+
+div#footer div#blog_stuff ul li h6 {
+  margin-bottom: 5px;
+}
+
+div#footer div#blog_stuff ul li h6 a {
+  position: relative; left: -4px;
+  padding: 1px 4px;
+  font-size: 14px;
+  color: #9C0;
+}
+
+div#footer div#blog_stuff ul li h6 a:hover {
+  color: #FFF;
+  background-color: #9C0;
+}
+
+
+div#footer div#blog_stuff ul li p {
+  color: #333;
+  line-height: 18px;
+}
+
+div#footer div#blog_stuff ul li p.tags {
+  height: 15px;
+  margin: 2px 0 2px 0; padding: 2px 0 5px 21px;
+  color: #888;
+  border-top: 1px dotted #EEE; border-bottom: 1px dotted #EEE;
+  background: transparent url('_assets/presentation/tag_green.png') no-repeat 1px 3px;
+}
+
+div#footer div#blog_stuff ul li p.tags a {
+  color: #444;
+  font-weight: bold;
+}
+
+div#footer div#blog_stuff ul li p.tags a:hover {
+  text-decoration: underline;
+}
+
+div#footer div#the_team {
+  float: right;
+  width: 397px;
+}
+
+div#footer div#the_team h5 {
+  margin-bottom: 10px;
+  color: #900;
+  font-size: 18px;
+}
+
+div#footer div#the_team h6 {
+  margin-bottom: 25px;
+  font-size: 14px;
+  color: #9C0;
+}
+
+div#footer div#the_team h6 a {
+  padding: 2px 6px 4px 6px;
+}
+
+div#footer div#the_team h6 a:hover {
+  color: #FFF;
+  background-color: #9C0;
+}
+
+
+div#footer div#the_team ul li {
+  float: left;
+  width: 175px;
+  margin: 0 20px 20px 0;
+}
+
+div#footer div#the_team ul li img {
+  float: left;
+  width: 50px; height: 50px;
+  margin-right: 10px; padding: 2px;
+  border: 1px solid #EEE;
+}
+
+div#footer div#the_team ul li p {
+  font-size: 11px;
+}
+
+div#footer div#the_team ul li p span.title {
+  font-weight: bold;
+}
+
+/* Getting in touch
+ *******************/
+div#footer div#get_in_touch {
+  clear: both;
+}
+
+div#footer div#get_in_touch h5 {
+  margin-bottom: 15px;
+  color: #09C;
+  font-size: 18px;
+}
+
+div#footer div#get_in_touch div#addresses {
+  float: left;
+  height: 140px;
+}
+
+div#footer div#get_in_touch div#addresses ul li {
+  float: left;
+  width: 220px; height: 75px;
+}
+
+div#footer div#get_in_touch div#addresses ul li address {
+  font-size: 11px;
+  font-style: normal;
+  line-height: 14px;
+}
+
+div#footer div#get_in_touch div#addresses ul li address abbr {
+  text-decoration: none;
+  border: none;
+}
+
+div#footer div#get_in_touch div#addresses ul li address strong.city {
+  display: block;
+  padding: 0;
+  text-transform: uppercase;
+  font-weight: bold;
+  background: none;
+}
+
+div#footer div#get_in_touch div#subscription {
+  float: right;
+  width: 397px;
+}
+
+div#footer div#get_in_touch div#subscription h6 {
+  margin-bottom: 21px; padding-right: 7px;
+  font-size: 12px;
+}
+
+div#footer div#get_in_touch div#subscription fieldset {
+  border: none;
+}
+
+div#footer div#get_in_touch div#subscription input {
+  float: left;
+  width: 283px; height: 30px;
+  margin-right: 8px; padding: 7px 0 0 12px;
+  border: 3px double #DDD;
+  color: #DDD;
+  font-size: 16px;
+}
+
+div#footer div#get_in_touch div#subscription button {
+  width: 80px; height: 43px;
+  border: none;
+  color: #FFF;
+  font: normal 16px "Georgia", "Times New Roman", Times, serif;
+  background-color: #09E;
+}
+
+
+/* W3C
+ ******/
+div#footer div#validations {
+  clear: both;
+}
+
+div#footer div#validations hr {
+  margin: 0 0 10px 0;
+  border-bottom: 1px dotted #CCC;
+}
+
+div#footer div#validations h6 {
+  margin-bottom: 10px;
+  color: #9C0;
+  font-size: 12px;
+}
+
+div#footer div#validations ul {
+  margin-bottom: 20px;
+}
+
+div#footer div#validations ul li {
+  display: inline;
+  font-size: 11px;
+}
+
+div#footer div#validations ul li a {
+}
