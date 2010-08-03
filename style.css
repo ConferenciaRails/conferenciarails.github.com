@@ -335,48 +335,48 @@ footer.layout {
   margin: 0 30px 0 70px; 
 }
 
-footer.layout section#blog_stuff {
+footer.layout #blog_stuff {
   float: left;
   width: 48%;
 }
 
-footer.layout section#blog_stuff header h1 {
+footer.layout #blog_stuff header h1 {
   margin-bottom: 10px;
   color: #900;
   font-size: 18px;
 }
 
-footer.layout section#blog_stuff header a:hover {
+footer.layout #blog_stuff header h1 a:hover {
   text-decoration: underline;
 }
 
-footer.layout section#blog_stuff article {
+footer.layout #blog_stuff article {
   margin-bottom: 15px;
 }
 
-footer.layout section#blog_stuff article header h2 {
+footer.layout #blog_stuff article h2 {
   margin-bottom: 5px;
 }
 
-footer.layout section#blog_stuff article header h2 a {
+footer.layout #blog_stuff article h2 a {
   position: relative; left: -4px;
   padding: 1px 4px;
   font-size: 14px;
   color: #9C0;
 }
 
-footer.layout section#blog_stuff article header h2 a:hover {
+footer.layout #blog_stuff article h2 a:hover {
   color: #FFF;
   background-color: #9C0;
 }
 
 
-footer.layout section#blog_stuff article p {
+footer.layout #blog_stuff article p {
   color: #333;
   line-height: 18px;
 }
 
-footer.layout section#blog_stuff article p.tags {
+footer.layout #blog_stuff article p.tags {
   height: 15px;
   margin: 2px 0 2px 0; padding: 2px 0 5px 21px;
   color: #888;
@@ -384,12 +384,12 @@ footer.layout section#blog_stuff article p.tags {
   background: transparent url('assets/presentation/tag_green.png') no-repeat 1px 3px;
 }
 
-footer.layout section#blog_stuff article p.tags a {
+footer.layout #blog_stuff article p.tags a {
   color: #444;
   font-weight: bold;
 }
 
-footer.layout section#blog_stuff article p.tags a:hover {
+footer.layout #blog_stuff article p.tags a:hover {
   text-decoration: underline;
 }
 
