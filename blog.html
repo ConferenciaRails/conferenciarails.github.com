@@ -1,0 +1,9 @@
+---
+layout: blog 
+title: Conferencia Rails 2010 Blog
+---
+{% for post in site.posts limit: 10 %}
+  <article>
+    {{ post.content }}
+  </article>
+{% endfor %}
