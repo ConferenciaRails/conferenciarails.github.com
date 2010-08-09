@@ -23,23 +23,22 @@
 
 <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAXV794GofahuBqHvuJ_GuqxQOQlFoB8tQojVQzYNVQxdP1orCLBQddSYuuweubtGRkTSAJX6NeOOUHA""></script>
 <script language="JavaScript" type="text/javascript">
-  google.load('feeds', '2');
-  var display;
+  google.load('feeds', '1');
 
-  function init() {
-    var feed = new google.feeds.push.Feed('http://twitter.com/statuses/user_timeline/10043532.rss');
-    feed.includeHistoricalEntries(10);
-    feed.subscribe(displayEntry);
-  }
+  function initialize() {
+      var feed = new google.feeds.Feed("http://twitter.com/statuses/user_timeline/10043532.rss");
+      feed.load(function(result) {
+        if (!result.error) {
+            var feed = result.feed;
+            var entries = feed.entries;
+            var entry=entries[0];
+            var display = document.getElementById('latest_twitter');
+            display.innerHTML = entry.title.substring("conferenciaror: ".length);
+            alert(display.innerHTML);
+          }
+      });
+    }
+    google.setOnLoadCallback(initialize);
 
-  google.setOnLoadCallback(init);
-
-  function displayEntry(response) {
-    var feed = response.feed;
-    var entries = feed.entries;
-    entry=entries[0];
-    display = document.getElementById('latest_twitter');
-    display.innerHTML = entry.title.substring("conferenciaror: ".length);
-  }
 </script>
 
