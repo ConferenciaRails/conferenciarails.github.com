@@ -1,5 +1,5 @@
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />    
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="en" />
 
 <meta name="description" content="Conferencia Rails 2010 Oficial Web Site" />
@@ -20,4 +20,26 @@
     IE7_PNG_SUFFIX=".a.png";
   </script>
 <![endif]-->
+
+<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAXV794GofahuBqHvuJ_GuqxQOQlFoB8tQojVQzYNVQxdP1orCLBQddSYuuweubtGRkTSAJX6NeOOUHA""></script>
+<script language="JavaScript" type="text/javascript">
+  google.load('feeds', '2');
+  var display;
+
+  function init() {
+    var feed = new google.feeds.push.Feed('http://twitter.com/statuses/user_timeline/10043532.rss');
+    feed.includeHistoricalEntries(10);
+    feed.subscribe(displayEntry);
+  }
+
+  google.setOnLoadCallback(init);
+
+  function displayEntry(response) {
+    var feed = response.feed;
+    var entries = feed.entries;
+    entry=entries[0];
+    display = document.getElementById('latest_twitter');
+    display.innerHTML = entry.title.substring("conferenciaror: ".length);
+  }
+</script>
 
