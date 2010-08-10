@@ -10,7 +10,7 @@ layout: post
 ---
 h1. Call for Papers 2010
 
-For the fifth year in a row, we are pleased to announce this year’s edition of "La Conferencia Rails", to be held in Madrid, Spain, on Thursday the 30th of September and Friday the 1st of October 2010. Following the tradition we started last year, we will have a day for workshops on Wednesday September 29th.
+For the fifth year in a row, we are pleased to announce this year’s edition of "La Conferencia Rails", to be held in Madrid, Spain.
 
 This year we want to attract a more international and diverse audience so the official language of the conference will be English. Most Spanish developers are already used to attending English-only events anyway so we're not too bothered (expect plenty of loud banter in Spanish though! :-)
 
