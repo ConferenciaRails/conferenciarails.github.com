@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 52
+layout: post
+title: "\xC2\xA1\xC2\xA1Ya tenemos camiseta ganadora!!"
+wordpress_url: http://www.conferenciarails.org/?p=52
+---
+h1. ¡¡Ya tenemos camiseta ganadora!!
+
+La decisión no ha sido nada fácil, pero tras luchar contra ninjas escaladores, robots destructores y railes sinuosos, el diseño retro de la camiseta de <a href="http://twitter.com/xuanxu" target="_blank">Juanjo Bazán</a> es el ganador del concurso para la Conferencia Rails 2008.
+
+Como ya es habitual, no os la enseñamos todavía… dentro de 3 semanas todos tendremos una… :)
+
+Enhorabuena Juanjo

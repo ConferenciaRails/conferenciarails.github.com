@@ -1,0 +1,48 @@
+--- 
+wordpress_id: 34
+layout: post
+title: "Call for papers para la edici\xC3\xB3n de 2008"
+wordpress_url: http://2008.conferenciarails.org/?p=34
+---
+h1. Call for papers para la edición de 2008
+
+Os queremos invitar a todos a participar un año más en la <a title="conferencia rails hispana" href="http://www.conferenciarails.org/">conferencia rails hispana</a>
+
+<strong>Cuándo:</strong>
+Las fechas previstas para la conferencia  son los días <strong>13 y 14 de noviembre de 2008</strong>.
+
+<strong>Dónde:</strong>
+En Madrid. Un año mas la Escuela de Teleco y el DIT nos brindan todo su apoyo.
+
+<strong>Cómo:</strong>
+Teniendo en cuenta el feedback que hemos recibido de la última conferencia,  vamos a reducir el numero de ponencias y dejar aún mas espacio para el networking y las charlas de pasillo.
+
+<strong>Cuánto:</strong>
+Ya estamos buscando patrocinadores para la conferencia, y explorando la posibilidad de que algunos  de los patrocinadores pongan allí sus stands con el fin de reducir al máximo el coste de participación.  Si tu empresa está interesada en ser uno de los patrocinadores puedes ponerte en contacto con nosotros en info@conferenciarails.org
+
+Después del verano abriremos las aplicaciones de registro y os iremos contando cómo apuntarse.
+
+<strong>Qué:</strong>
+Queremos organizar 2 tipos de charlas:
+<ul>
+	<li>Sesiones técnicas (45 minutos + 15 para el turno de preguntas)</li>
+	<li>Casos de éxito (20 minutos + 10 para el turno de preguntas)</li>
+</ul>
+Si te apetece ser uno de los ponentes, necesitamos que mandes un mail con tus intenciones a la dirección sesionestecnicas@conferenciarails.org si quieres presentar una ponencia técnica, o a casosdeexito@conferenciarails.org para presentar un caso de éxito.
+
+Necesitamos saber
+<ul>
+	<li>Tu nombre</li>
+	<li>Tu e-mail</li>
+	<li>Un extracto del contenido de unas 200 palabras.</li>
+</ul>
+Además, ambos días habrá tiempo disponible para todo aquel que quiera participar con charlas/presentaciones/improvisaciones breves de hasta 10 minutos de extensión (con o sin soporte multimedia), bien porque sus ponencias no sean admitidas en el programa oficial, porque sean temas que surjan durante la propia conferencia o bien porque la extensión de la charla no justifique una presentación a tiempo completo. Añadiendo este formato de 'lighting talks' todo el que lo desee podrá tener voz en esta edición de la conferencia
+
+Las propuestas para las charlas breves no necesitan ser enviadas con antelación ya que se irán organizando sobre la marcha.
+
+<strong>Fechas importantes</strong>:
+Fecha tope para recibir propuestas de ponencias: <strong>29 de septiembre</strong>.
+Anuncio del programa de ponencias aceptadas: <strong>7 de octubre</strong>.
+Fecha tope de recepción de ponencias aceptadas: <strong>3 de noviembre</strong>.
+
+Como siempre, os iremos contando todas las novedades en el <a href="http://www.conferenciarails.org">blog de la conferencia </a>y a través de twitter mediante el usuario <a href="http://twitter.com/conferenciaror">conferenciaror</a>

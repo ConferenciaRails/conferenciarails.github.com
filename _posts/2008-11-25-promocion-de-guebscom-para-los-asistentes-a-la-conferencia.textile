@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 76
+layout: post
+title: "Promoci\xC3\xB3n de guebs.com para los asistentes a la conferencia"
+wordpress_url: http://www.conferenciarails.org/?p=76
+---
+h1. Promoción de guebs.com para los asistentes a la conferencia
+
+Recientemente guebs ( <a href="http://www.guebs.com/" target="_blank">www.guebs.com</a> ), proveedor español de hosting Rails, se ha puesto en contacto con nosotros para comunicarnos que tienen una oferta especial digirida a los asistentes a la Conferencia Rails 2008.
+
+La promoción consiste en que todo asistente a la conferencia obtendrá un descuento de 30 € si al contratar cualquiera de los planes de alojamiento de guebs introduce el cupón de descuento "conferails2008".
+
+Además, el cliente pasará a ser cliente de nivel Plata desde el principio, disfruntando así de un descuento del 15% en cualquier otro servicio de hosting que contrate en un futuro.
+
+Para beneficiarte de esta oferta no tienes más que seguir las indicaciones de la siguiente dirección:
+
+<a href="http://www.guebs.com/micro/conferails2008" target="_blank">http://www.guebs.com/micro/conferails2008</a>

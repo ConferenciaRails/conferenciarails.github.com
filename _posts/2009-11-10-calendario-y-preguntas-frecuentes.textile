@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 121
+layout: post
+title: Calendario y Preguntas Frecuentes
+wordpress_url: http://www.conferenciarails.org/?p=121
+---
+h1. Calendario y Preguntas Frecuentes
+
+Los días avanzan y ya quedan menos de veinte días para la Conferencia, así que se nos acumulan las novedades.
+
+Acabamos de publicar el calendario con los <a href="http://app.conferenciarails.org/calendar"><strong>horarios</strong></a> de la conferencia de este año (salvo sorpresas finales o cambios de última hora).
+
+Recordad que el primer día va a consistir en cuatro talleres de 2 horas cada uno, impartidos en el <a href="http://www.madridonrails.com/">Madrid on Rails</a>. Estamos organizando también (extraoficialmente) una especie de fiesta el miércoles por la noche. No os podemos adelantar aún mucho más.
+
+Jueves y viernes la Conferencia cambia de emplazamiento y nos iremos al centro "El Madroño".  Hemos actualizado la página de <a href="http://www.conferenciarails.org/preguntas-frecuentes/"><strong>Preguntas Frecuentes</strong></a> (y lo iremos haciendo en los sucesivos días) con información de cómo llegar (básicamente Metro o Renfe Cercanías, aunque la mejor opción es la línea 9 del metro, que te deja casi en la puerta).
+
+A lo largo de esta semana iremos contando más cositas (que sabemos que están en el aire) y que estamos trabajando a toda prisa para cerrar.

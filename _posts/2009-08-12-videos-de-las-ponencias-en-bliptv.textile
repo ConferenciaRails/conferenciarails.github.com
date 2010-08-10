@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 109
+layout: post
+title: Videos de las ponencias en blip.tv
+wordpress_url: http://www.conferenciarails.org/?p=109
+---
+h1. Videos de las ponencias en blip.tv
+
+Hemos creado <a href="http://conferenciarails.blip.tv/">un canal en blip.tv</a> donde podéis ver todos los videos de las ponencias de las pasadas ediciones de la <a href="http://www.conferenciarails.org/">Conferencia Rails</a>.
+
+<embed src="http://blip.tv/play/AwGZthQ" type="application/x-shockwave-flash" width="412" height="340" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+Recordad que las presentaciones de la pasada edición 2008 os las podéis descargar <a href="http://www.conferenciarails.org/2009/04/presentaciones-ponencias-2008/">aquí</a>.

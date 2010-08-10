@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 68
+layout: post
+title: Se busca
+wordpress_url: http://www.conferenciarails.org/?p=68
+---
+h1. Se busca
+
+¿Tienes un proyecto y necesitas desarrolladores? ¿Eres un programador de primera y buscas trabajo en una empresa de tu nivel? ¿Tu empresa busca nuevos talentos? ¿Necesitas ayuda para tu proyecto de software libre? ¿Buscas el programador/programadora de ojos verdes de tus sueños?
+
+Pues menos lo último (o quién sabe), lo demás lo podrás encontrar en la conferencia, porque vamos a organizar una reunión al estilo <em><a href="http://en.wikipedia.org/wiki/Speed_dating">speed dating</a></em> donde puedas contar quién eres y qué ofreces o qué necesitas, y todo el resto del mundo pueda hacer lo mismo, y que el <em>amor</em> haga el resto.
+
+Así que si estás interesado en asistir, tanto como <em>demandante</em> como como <em>oferente</em>, déjanos un comentario aquí para apuntarte. La sesión tendrá lugar el jueves a las 18:45. ¡Nos vemos allí!
+
+update: esta sesión se llevará a cabo en una sala de profesores de la universidad que está situada justo encima de una de las salas donde se realizan las ponencias. Estará indicado en el hall principal de la conferencia

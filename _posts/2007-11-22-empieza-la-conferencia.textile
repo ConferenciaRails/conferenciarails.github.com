@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 10
+layout: post
+title: Empieza la conferencia
+wordpress_url: http://www.conferenciarails.org/archivo/2007/11/22/empieza_la_conferencia/
+---
+h1. Empieza la conferencia
+
+<p>Ya hemos empezado las charlas!!</p>
+
+<p>Si todav&#237;a no est&#225;s por aqu&#237;, recuerda que tienes que acreditarte en el stand situado a la entrada de la sala principal, el sal&#243;n de actos C.</p>

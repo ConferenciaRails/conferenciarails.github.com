@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 19
+layout: post
+title: Calendario de ponencias
+wordpress_url: http://www.conferenciarails.org/archivo/2007/10/26/calendario_de_ponencias/
+---
+h1. Calendario de ponencias
+
+<p>Ya est&#225; disponible el calendario de ponencias para la Conferencia Rails 2007. Lo encontrar&#233;is en la <a href="http://ponencias.conferenciarails.org">secci&#243;n de ponencias</a> de nuestra web.</p>
+
+<p>Este a&#241;o volvemos a contar con 3 salas simult&#225;neas, con charlas que comenzar&#225;n a partir de las 10 de la ma&#241;ana y terminaran poco antes de las 8 de la tarde.</p>
+
+<p>Las acreditaciones comenzar&#225;n a las 9 de la ma&#241;ana, os pedimos puntualidad para poder comenzar r&#225;pidamente con las ponencias.</p>
+
+<p>La duraci&#243;n de todas las charlas es de 60 minutos (45 minutos + 15 minutos para el turno de preguntas), y la de los casos de estudio es de 30 minutos (20 + 10). Hemos dejado 15 minutos de pausa entre cada charla para que de tiempo a todo el mundo a ir de una sala a otra.</p>

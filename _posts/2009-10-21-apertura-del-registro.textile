@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 115
+layout: post
+title: Apertura del registro
+wordpress_url: http://www.conferenciarails.org/?p=115
+---
+h1. Apertura del registro
+
+Ya podéis apuntaros en <a href="http://app.conferenciarails.org">http://app.conferenciarails.org</a>. Para ello primero debéis registraros y, a continuación, realizar el pago por transferencia bancaria o por PayPal (novedad este año). Tened en cuenta que hasta que el pago no se realiza y confirma, la plaza no está asegurada.
+
+El precio este año es 120€ (IVA incluido). Pero, atención, el precio incluye:
+<ul>
+	<li>2 días de conferencia con ponentes como Nathaniel Talbott, David A. Black, Yehuda Katz, Obie Fernández o Scott Chacon.</li>
+	<li>Un día de talleres (HAML, Chef, Capistrano y Cucumber)</li>
+	<li>Los cafes y comidas de los días de conferencia</li>
+	<li><strong>La cena del día 26</strong></li>
+	<li>La famosa camiseta</li>
+	<li>Las chapitas para el speed-dating</li>
+</ul>
+Este año hemos cambiado la aplicación de registro, se trata de una evolución de la primera aplicación que fue mejorada para su uso en la <a href="http://euruko2009.org/">EuRuKo</a>. Gracias a todos los que han aportado a <a href="http://github.com/fguillen/ConfRoR2009">ella</a>.
+
+El numero de plazas es limitado y haremos una asignación tradicional FIFO, así que apúntate rápido.

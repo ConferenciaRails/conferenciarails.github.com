@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 21
+layout: post
+title: Fecha para el concurso de camisetas
+wordpress_url: http://www.conferenciarails.org/archivo/2007/10/22/fecha_para_el_concurso_de/
+---
+h1. Fecha para el concurso de camisetas
+
+<p>La fecha final para la recepci&#243;n de camisetas para el <a href="http://www.conferenciarails.org/archivo/2007/10/7/c%C3%A1mbiate_esa_camiseta/">concurso de camisetas</a> es justo dentro de una semana, el pr&#243;ximo lunes #29 de octubre de 2007#.</p>
+
+<p>Ya tenemos unas cuantas propuestas. &#161;An&#237;mate y env&#237;anos la tuya!</p>

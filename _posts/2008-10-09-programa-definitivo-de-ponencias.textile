@@ -1,0 +1,48 @@
+--- 
+wordpress_id: 47
+layout: post
+title: Programa definitivo de ponencias
+wordpress_url: http://www.conferenciarails.org/?p=47
+---
+h1. Programa definitivo de ponencias
+
+Tras estudiar todo el material recibido e intentar acomodar la mayor cantidad de charlas interesantes posible, las ponencias que finalmente forman parte del programa de la conferencia 2008 son las siguientes:
+
+<strong>Track técnico:</strong>
+
+Harder, Better, Faster, Stronger: Rendimiento en servidores de aplicaciones Rails
+Integración continua y Rails
+Alto rendimiento y escalabilidad en plataformas Rails
+Workflows on Rails
+Rails Hot or Not
+Buenas prácticas de desarrollo en Ruby on Rails
+Cucumber: expresando comportamiento en texto plano
+BDD desde las trincheras
+Aplicaciones Más Manejables: cómo dividir tu web en varias aplicaciones rails
+XING.faster! Speeding up our site with frontend optimiziation
+Optimización, rendimiento y escalabilidad en ActiveRecord
+Hardware Hacking en Ruby y casi en Rails
+jQuery y Rails: Take a walk on the wild side
+Typus
+EC2
+
+<strong>Casos de éxito:</strong>
+
+Cadena Ser
+Domestika.org
+Planetaki
+Hesperis.eu
+Tog
+Ideas4all
+Advergaming
+Contabilidad
+B5Map
+QueCole
+Call Center
+Iwannagothere
+
+Este año el número de propuestas recibidas casi ha doblado al de años anteriores, por lo que desde la organización queremos agradecer el esfuerzo a todos los que nos enviaron una propuesta de charla independientemente de que haya sido o no elegida finalmente para el programa.
+
+Queremos recordar también, que durante la conferencia de este año habrá tiempo reservado en la sala principal para charlas cortas (de 8 minutos+2 de preguntas) disponible para todo aquel que desee hacer una pequeña presentación sobre cualquier tema en formato <em>lighting talk</em>. Esto puede incluir cualquiera de las charlas que no hayan tenido cabida en el programa, pequeñas ponencias improvisadas o presentaciones de ideas que surjan durante la propia conferencia.
+
+Nos queda dar los últimos retoques al calendario, añadir las keynotes y  distribuir definitivamente horas y salas para todas las charlas. Esperamos tener el calendario listo muy muy pronto.

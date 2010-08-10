@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 69
+layout: post
+title: "Charlas de libre acceso: update"
+wordpress_url: http://www.conferenciarails.org/?p=69
+---
+h1. Charlas de libre acceso: update
+
+Aunque inicialmente nos parecía que habría más demanda por algunos comentarios recibidos, la realidad es que solamente tres personas se han mostrado interesadas en asistir a una charla introductoria a Rails para desarrolladores y solamente dos a la orientada a marketing/negocio.
+
+Teniendo en cuenta el esfuerzo extra que supone la preparación de las mismas, en el <a href="http://www.conferenciarails.org/2008/11/charlas-introductorias-de-libre-acceso/" target="_blank">post original</a> pedíamos al menos diez personas en cada grupo para organizar estas sesiones, finalmente no se llevarán a cabo.

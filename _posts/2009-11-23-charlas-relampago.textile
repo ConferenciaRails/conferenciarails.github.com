@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 131
+layout: post
+title: "Charlas rel\xC3\xA1mpago"
+wordpress_url: http://www.conferenciarails.org/?p=131
+---
+h1. Charlas relámpago
+
+<p>La última sesión del Jueves será la dedicada a las <a href="http://en.wikipedia.org/wiki/Lightning_Talk">Lightning Talks</a>. Para quien no lo sepa o no lo recuerde del año pasado, las <em>lightning talks</em> son el momento en que la sala principal y la audiencia de la conferencia se ponen a disposición de cualquier asistente para que nos cuente lo que quiera. Se trata de charlas de 5 minutos en las que para poder participar el único requisito es apuntarse en una pizarra (o similar) que estará disponible en el hall del centro.</p>
+
+<p>Así que si en su momento rechazamos tu propuesta de charla, o tienes un plugin que has escrito y quieres enseñarnos, o una idea para revolucionar el mundo del desarrollo de software, o lo que sea, este será tu momento.</p>
+
+<p>Además, queremos aprovechar esta sesión para dar a conocer los grupos de Ruby/Rails locales que hay en España. Si formas parte de alguno, o si estás interesado en formar uno en tu ciudad, este será el momento también para darlo a conocer al resto de la gente: cuándo y dónde os reunís, qué tipo de actividades hacéis, etc.</p>

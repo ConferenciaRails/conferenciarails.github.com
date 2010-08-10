@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 116
+layout: post
+title: Registration now open!
+wordpress_url: http://www.conferenciarails.org/?p=116
+---
+h1. Registration now open!
+
+You can now register for La Conferencia Rails 2009 at <a href="http://app.conferenciarails.org/">http://app.conferenciarails.org</a>. You have to sign up and then make the payment either by bank transfer or with PayPal.
+
+The conference fee is 120€ (taxes included). This year it includes (despite the credit crunch ;-):
+<ul>
+	<li>2 conference days with a bilingual program including talks by Nathaniel Talbott, David A. Black, Yehuda Katz, Obie Fernandez and Scott Chacon — check out the (incomplete) <a href="http://app.conferenciarails.org/talks">lineup</a>.</li>
+	<li>1 day with 4 workshops (spanish only)</li>
+	<li>Coffee-breaks and lunches on the 2 main days</li>
+	<li>Dinner party on the 26th</li>
+	<li>Our famous conference t-shirt</li>
+	<li>Your badges for speed-dating</li>
+</ul>
+We have changed the registration app, an evolution of the evolution that was used for <a href="http://euruko2009.org/">EuRuKo</a>.  Thanks to all those who have contributed to the <a href="http://github.com/fguillen/ConfRoR2009">app</a>.
+
+The number of seats is limited and we will follow an old rule: FIFO, so please register <a href="http://app.conferenciarails.org/">now</a>.

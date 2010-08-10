@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 63
+layout: post
+title: Badges 2008
+wordpress_url: http://www.conferenciarails.org/?p=63
+---
+h1. Badges 2008
+
+<p style="text-align: left;">Ya están aquí las chapas de esta edición de la Conferencia Rails.</p>
+<p style="text-align: left;">Tanto los <strong>ponentes</strong> como los <strong>asistentes</strong> pueden ya hacer alarde de su condición gracias a los <em>badges</em> listos para insertar en dónde quieras. Elige la imagen que más te convenga, hay distintos tamaños y formatos:</p>
+<p style="text-align: left;"><strong>Asistente:</strong></p>
+<p style="text-align: left;">PNGs: <a href="http://www.conferenciarails.org/wp-content/uploads/2008/11/asistente200x120.png">200x120px</a> <a href="http://www.conferenciarails.org/wp-content/uploads/2008/11/asistente300x180.png">300x180px</a> <a href="http://www.conferenciarails.org/wp-content/uploads/2008/11/asistente500x300.png">500x300px</a></p>
+<p style="text-align: left;"><strong>Ponente:</strong></p>
+<p style="text-align: left;">PNGs: <a href="http://www.conferenciarails.org/wp-content/uploads/2008/11/ponente200x120.png">200x120px</a> <a href="http://www.conferenciarails.org/wp-content/uploads/2008/11/ponente300x180.png">300x180px</a> <a href="http://www.conferenciarails.org/wp-content/uploads/2008/11/ponente500x300.png">500x300px</a></p>
+<p style="text-align: left;">También hay formato JPG (varios tamaños) tanto de <a href="http://www.flickr.com/photos/xuanxu/3001595373/sizes/o/in/pool-15199221@N00/">asistente </a>como de <a title="Badges de ponente en formato JPG" href="http://www.flickr.com/photos/xuanxu/3002431416/sizes/o/in/pool-15199221@N00/">ponente</a> en el <a href="http://www.flickr.com/groups/conferenciarails/pool/">grupo de flickr</a>.</p>
+<p style="text-align: left;"></p>
+<p style="text-align: left;">No olvides linkar la imagen a la <a title="Conferencias Rails 2008" href="http://conferenciarails.org">web oficial de la conferencia</a>.</p>
+<p style="text-align: left;">Lúcelo orgulloso en tu <strong>blog</strong>/<strong>web</strong>/<strong>tumble</strong>/<strong>flickr</strong>/<strong>facebook</strong>/<strong>redsocial-favorita, ...</strong></p>
+<p style="text-align: left;"></p>

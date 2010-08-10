@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 45
+layout: post
+title: Se busca talento. Recruiting en la conferencia Rails 2008.
+wordpress_url: http://www.conferenciarails.org/?p=45
+---
+h1. Se busca talento. Recruiting en la conferencia Rails 2008.
+
+<a title="Hacen falta programadores Rails, on Flickr" href="http://www.flickr.com/photos/xuanxu/2061498879/in/pool-conferenciarails/"><img class="alignleft" style="margin: 2px 2px; float: left;" src="http://farm3.static.flickr.com/2014/2061498879_4f6ec89868_t.jpg" width="100" height="75" alt="Hacen falta programadores Rails" /></a>
+
+Sabemos que el mercado laboral que rodea al desarrollo en Rails no está en crisis. Hay muchas empresas, emprendedores y proyectos buscando programadores, y hay rails ninjas, rails pirates y rails monkeys buscando oportunidades interesantes y no sabiendo muy bien donde mirar.
+
+Así que como novedad este año, en los dos días que dure la Conferencia Rails <strong>se va a habilitar durante unas horas un espacio dedicado exclusivamente a poner en contacto a desarrolladores en busca de trabajo o proyectos con empresas, emprendedores u otros programadores que ofrezcan trabajo o soliciten colaboración</strong>. Será una sala para fomentar el intercambio de experiencias y CVs, un lugar para el recruiting/fast dating/o como se quiera llamar :)
+
+Así que si buscas nuevos horizontes laborales o proyectos en los que colaborar trae tu curriculum. Y si buscas gente para fichar o a la que ofrecer proyectos, este año tendrás un lugar en el que esperamos te sea más fácil la búsqueda.

@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 8
+layout: post
+title: Concurso de programaci&#243;n r&#225;pida
+wordpress_url: http://www.conferenciarails.org/archivo/2007/11/22/concurso_de_programaci&#243;n_r&#225;pida/
+---
+h1. Concurso de programaci&#243;n r&#225;pida
+
+<p>Ya se ha abierto el plazo para el concurso de programaci&#243;n r&#225;pida. &#201;stas son las bases:</p>
+
+<ul>
+<li>Plazo hasta ma&#241;ana viernes a las 15:00h</li>
+<li>El tema a desarrollar en la aplicaci&#243;n ser&#225; una <em>aplicaci&#243;n para generar encuestas</em></li>
+<li>Se valorar&#225; la originalidad de la propuesta adem&#225;s de la utilidad aportada</li>
+<li>El premio ser&#225; un flamante iPod Touch de 16Gb que ser&#225; entregado el viernes antes de la keynote final</li>
+<li>El link de tu aplicaci&#243;n colgada deber&#225; ser enviado a <a href="mailto:info@conferenciarails.org">info@conferenciarails.org</a> antes del fin del plazo</li>
+<li>El concurso podr&#225; ser declarado desierto</li>
+</ul>
+
+<p>&#161;Animaos para participar!</p>

@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 111
+layout: post
+title: Call for papers 2009 (for proposals in English)
+wordpress_url: http://www.conferenciarails.org/?p=111
+---
+h1. Call for papers 2009 (for proposals in English)
+
+For the fourth year in a row, we are pleased to announce this year's edition of the Spanish Rails Conference , to be held in Madrid, Spain, on November 26th and 27th.
+
+The official language of the conference is Spanish (no translation provided), although sessions in English are welcome. Most of the attendants speak both English-with-a-funny-accent and Spanish and we are a fun tribe to be around.
+
+This conference is an excellent meeting point for everybody doing professional development with Rails in Spanish-speaking markets and a good opportunity to put a face to some of the nicknames and e-mails you see on irc and mailing lists. It's also, to the best of our knowledge, one of the oldest and largest Rails Conferences in Europe, with over two hundred attendants in each of the three past editions.
+
+Call for papers finishes by September 29th (sorry about the short notice), so if you would like to submit a proposal, don't be shy and get light on your feet! To submit a talk you must register <a href="http://app.conferenciarails.org/people/new">here</a> and then submit your proposal for a talk or a workshop <a href="http://app.conferenciarails.org/session/new">here</a>. Alternatively, you can send your proposals by email to <a class="linkification-ext" title="Linkification: mailto:info@conferenciarails.org" href="mailto:info@conferenciarails.org">info@conferenciarails.org</a>.
+
+Suggested duration is 45 minutes for a talk and 2-3 hours for a workshop. Don't feel limited about that, though. If you think you need more/less time everything is negotiable if the proposal is sound.
+
+This year we are going to be having a single track for Sessions and another track for workshops. Technical sessions, tutorials, success cases, best practices and any other talks interesting for the Rails world are welcome. We are only asking for the talks to be relevant. We'd rather not go for any contents you can read by yourself in a blog or a book, but for personal experience, insight and inspiration.
+
+The conference is organized by a group of volunteers and the price is kept at the minimum necessary to cover the expenses of infrastructure, catering and security. We are still trying to figure out the exact numbers for this year, but it will be probably in the range of the €50-80 .
+
+Stay tuned for more news since we'll be announcing the official schedule and opening the registration in the next weeks.
+
+Looking forward to seeing you there!

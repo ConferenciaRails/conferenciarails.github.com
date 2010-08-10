@@ -1,0 +1,64 @@
+--- 
+wordpress_id: 4
+layout: post
+title: Videos de las ponencias 2007 en bittorrent
+wordpress_url: http://www.conferenciarails.org/archivo/2007/12/4/videos_de_las_ponencias_por/
+---
+h1. Videos de las ponencias 2007 en bittorrent
+
+<p>Si te perdiste alguna de las ponencias, o no pudiste venir a la Conferencia, y no quieres esperar a que subamos todos los videos a google, ya te los puedes descargar por bittorrent.</p>
+
+<p>Aqu&#237; tienes la lista de torrents de todos los videos grabados, una vez hayas acabado de descargarlos, por favor, deja el bittorrent abierto un tiempo para contribuir a la distribuci&#243;n de los ficheros.</p>
+
+<p>Jueves 22</p>
+
+<p>Sala 1 </p>
+
+<ul>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/01_Rails_Hispana_2007_Sala1_Plenaria.wmv.torrent">01<em>Rails</em>Hispana<em>2007</em>Sala1_Plenaria</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/02_Rails_Hispana_2007_Sala1_Jruby_Agilidad_Empresa.wmv.torrent">02<em>Rails</em>Hispana<em>2007</em>Sala1<em>Jruby</em>Agilidad_Empresa</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/03_Rails_Hispana_2007_Sala1_Rails_desde_codigo.wmv.torrent">03<em>Rails</em>Hispana<em>2007</em>Sala1<em>Rails</em>desde_codigo</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/04_Rails_Hispana_2007_Sala1_MOW.wmv.torrent">04<em>Rails</em>Hispana<em>2007</em>Sala1_MOW</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/05_Rails_Hispana_2007_Sala1_Cache.wmv.torrent">05<em>Rails</em>Hispana<em>2007</em>Sala1_Cache</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/06_Rails_Hispana_2007_Sala1_Escalabilidad.wmv.torrent">06<em>Rails</em>Hispana<em>2007</em>Sala1_Escalabilidad</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/07_Rails_Hispana_2007_Sala1_Keynote.wmv.torrent">07<em>Rails</em>Hispana<em>2007</em>Sala1_Keynote</a></li>
+</ul>
+
+<p>Sala 2</p>
+
+<ul>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/01_Rails_Hispana_2007_Sala2_API_Identidad.wmv.torrent">01<em>Rails</em>Hispana<em>2007</em>Sala2<em>API</em>Identidad</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/02_Rails_Hispana_2007_Sala2_Action_Script_RIA.wmv.torrent">02<em>Rails</em>Hispana<em>2007</em>Sala2<em>Action</em>Script_RIA</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/03_Rails_Hispana_2007_Sala2_Diseo_Web.wmv.torrent">03<em>Rails</em>Hispana<em>2007</em>Sala2<em>Dise&#241;o</em>Web</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/04_Rails_Hispana_2007_Sala2_BDD_rSpec.wmv.torrent">04<em>Rails</em>Hispana<em>2007</em>Sala2<em>BDD</em>rSpec</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/05_Rails_Hispana_2007_Sala2_Voz_Rails.wmv.torrent">05<em>Rails</em>Hispana<em>2007</em>Sala2<em>Voz</em>Rails</a></li>
+</ul>
+
+<p>Viernes 23</p>
+
+<p>Sala 1 </p>
+
+<ul>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/01_Rails_Hispana_2007_Sala1_Plenaria_Mesa_Empresas.wmv.torrent">01<em>Rails</em>Hispana<em>2007</em>Sala1<em>Plenaria</em>Mesa_Empresas</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/02_Rails_Hispana_2007_Sala1_Programa_Rails_Lego.wmv.torrent">02<em>Rails</em>Hispana<em>2007</em>Sala1<em>Programa</em>Rails_Lego</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/03_Rails_Hispana_2007_Sala1_Caso_MTV.wmv.torrent">03<em>Rails</em>Hispana<em>2007</em>Sala1<em>Caso</em>MTV</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/04_Rails_Hispana_2007_Sala1_Caso_Tomatime.wmv.torrent">04<em>Rails</em>Hispana<em>2007</em>Sala1<em>Caso</em>Tomatime</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/05_Rails_Hispana_2007_Sala1_Caso_unvlog.wmv.torrent">05<em>Rails</em>Hispana<em>2007</em>Sala1<em>Caso</em>unvlog</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/06_Rails_Hispana_2007_Sala1_Caso_Voranet.wmv.torrent">06<em>Rails</em>Hispana<em>2007</em>Sala1<em>Caso</em>Voranet</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/07_Rails_Hispana_2007_Sala1_Caso_FacturaGem.wmv.torrent">07<em>Rails</em>Hispana<em>2007</em>Sala1<em>Caso</em>FacturaGem</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/08_Rails_Hispana_2007_Sala1_Caso_Tractis.wmv.torrent">08<em>Rails</em>Hispana<em>2007</em>Sala1<em>Caso</em>Tractis</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/09_Rails_Hispana_2007_Sala1_Gestion_ONG_RoR.wmv.torrent">09<em>Rails</em>Hispana<em>2007</em>Sala1<em>Gestion</em>ONG_RoR</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/10_Rails_Hispana_2007_Sala1_BeRuby.wmv.torrent">10<em>Rails</em>Hispana<em>2007</em>Sala1_BeRuby</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/11_Rails_Hispana_2007_Sala1_GURUnote_Rails.wmv.torrent">11<em>Rails</em>Hispana<em>2007</em>Sala1<em>GURUnote</em>Rails</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/12_Rails_Hispana_2007_Sala1_Premio_Screencast.wmv.torrent">12<em>Rails</em>Hispana<em>2007</em>Sala1<em>Premio</em>Screencast</a></li>
+</ul>
+
+<p>Sala 2</p>
+
+<ul>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/01_Rails_Hispana_2007_Sala2_APIs_Movilidad.wmv.torrent">01<em>Rails</em>Hispana<em>2007</em>Sala2<em>APIs</em>Movilidad</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/02_Rails_Hispana_2007_Sala2_Inteligencia_Artificial.wmv.torrent">02<em>Rails</em>Hispana<em>2007</em>Sala2<em>Inteligencia</em>Artificial</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/03_Rails_Hispana_2007_Sala2_Internacionalizacion.wmv.torrent">03<em>Rails</em>Hispana<em>2007</em>Sala2_Internacionalizacion</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/04_Rails_Hispana_Sala2_Contribuir_a_Rails.wmv.torrent">04<em>Rails</em>Hispana<em>Sala2</em>Contribuir<em>a</em>Rails</a></li>
+<li><a href="http://amaiac.net/conferenciarails2007/torrents/05_Rails_Hispana_Sala2_Rails_Against_The_Machine.wmv.torrent">05<em>Rails</em>Hispana<em>Sala2</em>Rails<em>Against</em>The_Machine</a></li>
+</ul>

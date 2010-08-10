@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 75
+layout: post
+title: uhh, uhh, Que viene, que viene .....
+wordpress_url: http://www.conferenciarails.org/?p=75
+---
+h1. uhh, uhh, Que viene, que viene .....
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/9ri3y2RDzUM&hl=es&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9ri3y2RDzUM&hl=es&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>

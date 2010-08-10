@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 17
+layout: post
+title: 2.weeks.from_now
+wordpress_url: http://www.conferenciarails.org/archivo/2007/11/8/2weeksfrom_now/
+---
+h1. 2.weeks.from_now
+
+<p>La preparaci&#243;n para la Conferencia Rails entra en su recta final. Dentro de dos semanas, tenemos dos d&#237;as para ver qui&#233;n y qu&#233; se est&#225; moviendo en el mercado Rails de habla hispana , estar en contacto con la comunidad y hacer nuevos contactos o reafirmar los que ya tenemos.</p>
+
+<p>Todas las ponencias han sido confirmadas y la verdad es que este a&#241;o tenemos un <a href='http://ponencias.conferenciarails.org'>cartel</a> francamente interesante: Charlas t&#233;cnicas, de integraci&#243;n, sesiones de negocio, mesas redondas&#8230; Y para rematar, contamos con una persona de primer&#237;sima fila en la escena Rails internacional que nos ayudar&#225; a cerrar como se merecen las jornadas de este a&#241;o. &#191;Todav&#237;a no sabes qui&#233;n es? Te daremos una pista, es uno de los que aparecen entre los diez primeros en el ranking de <a href='http://www.workingwithrails.com/browse/popular/people'>working with rails</a></p>
+
+<p>Desde la organizaci&#243;n estamos haciendo todo lo posible para superar el &#233;xito de la pasada edici&#243;n. Tenemos tres salas simult&#225;neas, grabaci&#243;n en video de todas las ponencias, m&#225;s tiempo entre charlas para poder hacer networking&#8230; Hemos escuchado las sugerencias que nos hicisteis, y estamos seguros de que, entre todos, vamos a conseguir una conferencia muy interesante.</p>
+
+<p>Ya nos hemos registrado casi 170 personas, &#191;Y t&#250;? &#191;Todav&#237;a no lo has hecho? &#161;No lo dejes para el &#250;ltimo momento! Recuerda que tienes que hacerlo incluso si eres uno de los ponentes.</p>
+
+<p>Y si eres de los que se han registrado pero preferiste dejar el pago para &#250;ltima hora&#8230; te recordamos que YA es la &#250;ltima hora! La fecha l&#237;mite para recibir los pagos se cierra una semana antes del evento, el 15 de Noviembre.</p>
+
+<p>&#161;Nos vemos dentro de dos semanas!</p>

@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 126
+layout: post
+title: "V\xC3\xADdeos \"Hola Conferencia Rails\""
+wordpress_url: http://www.conferenciarails.org/?p=126
+---
+h1. Vídeos "Hola Conferencia Rails"
+
+<p><a href='http://unvlog.com/conferenciaror'><img src="http://www.conferenciarails.org/wp-content/uploads/2009/11/imagen-2-300x199.png" alt="" title="Captura cuenta unvlog" width="300" height="199"  /></a></p>
+Quizá algunos no lo sepáis, pero desde la organización de la conferencia iniciamos una convocatoria entre los ponentes de este año para que grabaran un vídeo saludando al personal.
+
+Hasta ahora los hemos ido poniendo en el <a href="http://twitter.com/conferenciaror">twitter de la conferencia</a>, pero ahora, además, os los hemos puesto todos juntos en una cuenta de unvlog: <a href="http://unvlog.com/conferenciaror">http://unvlog.com/conferenciaror</a> (<a href="http://unvlog.com/conferenciaror.atom">feed</a>).
+
+Si te animas a grabar el tuyo, háznoslo saber y lo subiremos.

@@ -1,0 +1,40 @@
+--- 
+wordpress_id: 108
+layout: post
+title: Call for papers 2009
+wordpress_url: http://www.conferenciarails.org/?p=108
+---
+h1. Call for papers 2009
+
+Os queremos invitar a participar como ponentes en la conferencia rails hispana 2009. Estamos cerrando todavía las fechas definitivas pero probablemente será, como siempre, a mediados de Noviembre.
+
+Este año queremos cambiar un poco el modelo de la conferencia. Estamos muy contentos de cómo se desarrollaron las anteriores ediciones, pero creemos que podemos —y debemos— mejorar todavía más la conferencia.
+
+A lo largo de estos cuatro años las personas que trabajamos con Rails hemos evolucionado nuestra forma de trabajar y nuestros intereses, y queremos que la conferencia sea un reflejo de esto.
+
+Nos interesa recibir propuestas de charlas interesantes, sin marcar diferencia entre lo que pueda ser una charla técnica, un caso de éxito o una charla más filosófica.
+
+Lo único que pedimos es que las charlas sean relevantes y que aprovechen el hecho de que la conferencia es un evento en vivo. Es decir, preferimos no tener charlas en las que todo lo que se dice pueda encontrarse fácilmente en blogs o en libros.
+
+Ante la duda aplica este sencillo principio "<em>¿Asistiría yo a una charla que hablase sobre esto?</em>"
+
+La duración de las charlas será en general de <strong>45 + 10 minutos</strong>, pero si tienes una propuesta interesante y necesitas algo más de tiempo, podemos ser flexibles en ese sentido.
+
+Por supuesto, tendremos espacio para <em>lighting talks</em>. No necesitamos que enviéis propuestas de <em>lighting talks</em>, pero sí nos gustaría que pensaseis temas que os parezcan interesantes y que podáis defender en cinco minutos (no flexibles).
+
+Además, este año vamos a introducir <strong>talleres en paralelo a las charlas</strong>. Estamos pensando en tener talleres de 2 horas y de 3 horas de duración.
+
+Si te apetece ser uno de los ponentes —tanto para una charla como para un taller— necesitamos que te <a title="Registro" href="http://app.conferenciarails.org/people/new">registres</a> en esta aplicación y una vez activada tu cuenta accedas a las sección <a title="Enviar Charla" href="http://app.conferenciarails.org/talks/new">'Enviar Charla'</a> . Ahí podrás enviar toda la información que creas conveniente para que conozcamos tu propuesta.
+<h3>Necesitamos saber</h3>
+<ul>
+	<li>Tu nombre</li>
+	<li>Tu e-mail</li>
+	<li>El título de tu sesión/taller</li>
+	<li>Un resumen detallado del contenido. No nos vale con un párrafo porque el volumen de propuestas recibidas crece cada año y es muy difícil en ocasiones diferenciar entre dos charlas con tan poca información. No necesitamos la estructura definitiva de tu charla, pero sí una idea bastante aproximada de los temas a tratar y el enfoque que quieres darle.</li>
+	<li>Para los talleres necesitamos saber el nivel requerido de los asistentes y si hay algún tipo de requisito especial</li>
+</ul>
+Fecha tope para recibir propuestas de ponencias: 29 de septiembre.
+Anuncio del programa de ponencias aceptadas: 7 de octubre.
+
+
+Os iremos contando todas las novedades en el blog de la conferencia y a través de twitter mediante el usuario conferenciaror

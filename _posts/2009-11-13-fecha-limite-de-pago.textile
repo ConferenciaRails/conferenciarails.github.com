@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 123
+layout: post
+title: "Fecha l\xC3\xADmite de pago"
+wordpress_url: http://www.conferenciarails.org/?p=123
+---
+h1. Fecha límite de pago
+
+<em>(non Spanish speakers, please read below)</em>
+
+La fecha de la conferencia se acerca y, para poder formalizar la reserva definitiva con nuestros proveedores,  necesitamos saber el número exacto de asistentes con el que contamos y pagarles en su caso los anticipos que nos solicitan.
+
+Por este motivo, el día <strong>20 de Noviembre</strong> necesitamos haber recibido en nuestra cuenta los pagos de todos los asistentes. Si te has registrado pero todavía no has realizado tu pago, es el momento de hacerlo. Ten en cuenta que para que nos llegue el día 20 es posible que tengas que pagar uno o dos días antes. Y si todavía no te has registrado, <a href="http://app.conferenciarails.org">¿a qué esperas?</a>
+
+Si ya has realizado tu pago y pasados un par de días no ves que esté confirmado, puedes ponerte en contacto con nosotros en info at conferenciarails.org para que podamos revisarlo (a veces los datos de registro no coinciden con los del pago, por ejemplo si tu entrada te la paga una empresa o si utilizaste otro e-mail)
+
+<em>This post is a reminder about the payment deadline for attendees. In order to arrange the reservations with our providers, we need to have the money transfer to our account no later than November 20th. If you have any doubts, feel free to contact us (info at conferenciarails.org)</em>

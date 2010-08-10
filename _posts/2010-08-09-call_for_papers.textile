@@ -2,52 +2,29 @@
 title: Call for Papers 
 categories:
   - conference 
-summary:
+excerpt:
   For the fifth year in a row, we are pleased to announce this year’s edition of "La Conferencia Rails",
   to be held in Madrid, Spain, on Thursday the 30th of September and Friday the 1st of October 2010.
   Following the tradition we started last year, we will have a day for workshops on Wednesday September 29th.
-layout: blog 
+layout: post 
 ---
-h1. Call for Papers
+h1. Call for Papers 2010
 
-For the fifth year in a row, we are pleased to announce this year’s edition of "La Conferencia Rails", 
-to be held in Madrid, Spain, on Thursday the 30th of September and Friday the 1st of October 2010.
-Following the tradition we started last year, we will have a day for workshops on Wednesday September 29th.
+For the fifth year in a row, we are pleased to announce this year’s edition of "La Conferencia Rails", to be held in Madrid, Spain, on Thursday the 30th of September and Friday the 1st of October 2010. Following the tradition we started last year, we will have a day for workshops on Wednesday September 29th.
 
-This year we want to attract a more international and diverse audience so the official language of the
-conference will be English. Most Spanish developers are already used to attending English-only events anyway 
-so we're not too bothered (expect plenty of loud banter in Spanish though! :-)
+This year we want to attract a more international and diverse audience so the official language of the conference will be English. Most Spanish developers are already used to attending English-only events anyway so we're not too bothered (expect plenty of loud banter in Spanish though! :-)
 
-In this edition we would also like to have more women presenting proposals. We all know brilliant women 
-working with Rails and related technologies, but for some reason we hardly receive any talk proposals 
-from women. The Rails community has always taken a lead in how web development should be done, and we think
-we can also take a lead on showing technical conferences can have a much bigger participation of women. For this
-reason, we would like to encourage women to submit their talks to our call for papers and finish with the typical
-men-only conference schedules. We kindly ask all of you working with women in your development teams to forward
-this call for papers to them.
+In this edition we would also like to have more women presenting proposals. We all know brilliant women working with Rails and related technologies, but for some reason we hardly receive any talk proposals from women. The Rails community has always taken a lead in how web development should be done, and we think we can also take a lead on showing technical conferences can have a much bigger participation of women. For this reason, we would like to encourage women to submit their talks to our call for papers and finish with the typical men-only conference schedules. We kindly ask all of you working with women in your development teams to forward this call for papers to them.
 
-The conference will be an excellent meeting point for everybody doing professional development with Rails in
-the Spanish and European communities and a great opportunity to put a face to some of the nicknames and e-mails
-you see on irc and mailing lists. It’s also, to the best of our knowledge, one of the oldest and largest Rails
-Conferences in Europe, with over two hundred attendants in each of the four past editions.
+The conference will be an excellent meeting point for everybody doing professional development with Rails in the Spanish and European communities and a great opportunity to put a face to some of the nicknames and e-mails you see on irc and mailing lists. It’s also, to the best of our knowledge, one of the oldest and largest Rails Conferences in Europe, with over two hundred attendants in each of the four past editions.
 
-Our "call for papers" finishes on the 1st of September (sorry about the short notice), so if you would like to
-submit a proposal, don’t be shy and be light on your feet! Please send your proposals by email to
-<a href="mailto:info@conferenciarails.org">info@conferenciarails.org</a>.
+Our "call for papers" finishes on the 1st of September (sorry about the short notice), so if you would like to submit a proposal, don’t be shy and be light on your feet! Please send your proposals by email to <a href="mailto:info@conferenciarails.org">info@conferenciarails.org</a>.
 
-The suggested talk duration is 35 minutes plus 10 minutes for questions. The workshops/rumbles will have a more 
-flexible format, lasting up to 2 hours. If you feel you might need a bit longer please don't hesitate to get in
-touch, everything is negotiable if the proposal is sound!
+The suggested talk duration is 35 minutes plus 10 minutes for questions. The workshops/rumbles will have a more flexible format, lasting up to 2 hours. If you feel you might need a bit longer please don't hesitate to get in touch, everything is negotiable if the proposal is sound!
 
-In contrast to previous years, we will only have a single track of sessions and there will be space for parallel
-gatherings, workshops, tutorials, success cases, best practices and any other spontaneous meetings. Talks should
-be relevant to, but not necessarilly about, Ruby on Rails. We're really interested in hearing about alternate ways
-of doing things, personal experiences, insights and inspiration. So if you'd like to tell us why your favourite
-document database is best, or why we should develop entirely in jQuery, we'd love to hear from you!
+In contrast to previous years, we will only have a single track of sessions and there will be space for parallel gatherings, workshops, tutorials, success cases, best practices and any other spontaneous meetings. Talks should be relevant to, but not necessarilly about, Ruby on Rails. We're really interested in hearing about alternate ways of doing things, personal experiences, insights and inspiration. So if you'd like to tell us why your favourite document database is best, or why we should develop entirely in jQuery, we'd love to hear from you!
 
-The conference is organized by a group of volunteers and the price is kept at the minimum necessary to cover
-the infrastructure and catering expenses. We are still trying to figure out the exact numbers, but hope the
-final price will be in the €120 range with an extra discount for early birds.
+The conference is organized by a group of volunteers and the price is kept at the minimum necessary to cover the infrastructure and catering expenses. We are still trying to figure out the exact numbers, but hope the final price will be in the €120 range with an extra discount for early birds.
 
 Stay tuned for more news as we’ll be announcing the official schedule in the next few weeks.
 

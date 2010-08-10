@@ -6,7 +6,7 @@
   <article> 
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p class="tags">In this article we'll talk about {{ post.categories | array_to_sentence_string }}.</p>
-    <p>{{ post.summary }}</p>
+    <p>{{ post.excerpt }}</p>
   </article>
   {% endfor %}
 </section>

@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 77
+layout: post
+title: Videos de la Conferencia Rails 2008
+wordpress_url: http://www.conferenciarails.org/?p=77
+---
+h1. Videos de la Conferencia Rails 2008
+
+Si te perdiste alguna de las charlas que te interesaban porque estabas en la otra sala ahora puedes aprovechar para verlas en video.
+
+Gracias a la gente de <a href="http://isabel.dit.upm.es/">Isabel</a>, por grabar todas las charlas, además de hacer streaming en directo.
+
+<a href="http://isabel.dit.upm.es/component/option,com_docman/task,cat_view/gid,128/Itemid,74/">Videos de la Conferencia Rails 2008 en la página de Isabel</a>
+
+<a href="http://video.google.es/videosearch?q=conferencia+rails+2008#">En Google Video</a> (no están todos)
+
+<a href="http://amaiac.net/conferenciarails2008">Mirror</a>
