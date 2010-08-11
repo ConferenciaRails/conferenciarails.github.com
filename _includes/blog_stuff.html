@@ -3,10 +3,13 @@
     <h1>Check out the latest news in <a href="/blog.html">that blog</a> of ours.</h1>
   </header>
   {% for post in site.posts limit:3 offset:1 %}
-  <article> 
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="tags">In this article we'll talk about {{ post.categories | array_to_sentence_string }}.</p>
-    <p>{{ post.excerpt }}</p>
-  </article>
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if year == '2010' %}
+    <article> 
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="tags">In this article we'll talk about {{ post.categories | array_to_sentence_string }}.</p>
+      <p>{{ post.excerpt }}</p>
+    </article>
+    {% endif %}
   {% endfor %}
 </section>

@@ -1,0 +1,17 @@
+---
+layout: post 
+title: Conferencia Rails 2008 Archive
+---
+<h1>Archive of posts from La Conferencia Rails 2008</h1>
+<ul>
+  {% for post in site.posts %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if year == '2008' %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: '%Y-%m-%d' }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<a href="2009.html">View posts from 2009</a>
+<a href="2007.html">View posts from 2007</a>
+
