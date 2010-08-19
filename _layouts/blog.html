@@ -13,18 +13,8 @@
       <section id="content">
       <!-- ↓ Main Content: Big, wide left column ↓ -->
         <article>
-          <h1>{{ page.title }}</h1>
-          <p class="tags">
-            {{ page.date | date: '%A %B %e, %Y' }}.
-            {% if page.categories.length > 0 %}
-              In this article we'll talk about 
-              {% for category in page.categories %}
-                <a href="#">{{ category }}</a>{% if forloop.rindex == 1 %}.{% elsif forloop.rindex == 2 %} and {% else %}, {% endif %}
-              {% endfor %}
-            {% endif %}
-          </p>
           {{ content }}
-        </aritle>
+        </article>
       <!-- ↥ #content ↥ -->  
       </section>
 
@@ -32,7 +22,7 @@
 
     <!-- ↥ #wrapper ↥ -->  
     </div>
-    
+
     <footer class="layout">
       <hr />
 
@@ -41,6 +31,5 @@
       {% include validations.html %}
 
     </footer>
-
   </body>
 </html>

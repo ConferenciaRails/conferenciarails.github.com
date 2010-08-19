@@ -4,8 +4,6 @@ layout: post
 title: Charlas introductorias de libre acceso
 wordpress_url: http://www.conferenciarails.org/?p=54
 ---
-h1. Charlas introductorias de libre acceso
-
 La Conferencia Rails pretende ser no solamente un punto de encuentro para la comunidad que gira en torno a Ruby on Rails, sino también un mecanismo para divulgar y dar a conocer este framework.
 
 Con este objetivo, desde la organización de la Conferencia Rails queremos ofrecer la posibilidad de celebrar dos sesiones introductorias a Ruby on Rails:

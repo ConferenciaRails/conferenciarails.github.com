@@ -4,8 +4,6 @@ layout: post
 title: Notas de prensa
 wordpress_url: http://www.conferenciarails.org/?p=130
 ---
-h1. Notas de prensa
-
 No habíamos comentado nada acerca de la nota de prensa sobre la Conferencia de este año, en la que queremos remacar que el evento este año (recordad que es la <strong>cuarta edición</strong> ya) es más grande tanto en volumen de personas, como en invitados y asistentes de fuera de España.
 
 Podéis echarles un ojo y enlazarlas en vuestros blogs. Aquí están los archivos: <a href="http://www.conferenciarails.org/wp-content/uploads/2009/11/notadeprensa09.odt">Nota de Prensa ODT</a> y <a href="http://www.conferenciarails.org/wp-content/uploads/2009/11/notadeprensa09.pdf">Nota de Prensa PDF</a>.

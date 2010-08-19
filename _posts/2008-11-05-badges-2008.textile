@@ -4,8 +4,6 @@ layout: post
 title: Badges 2008
 wordpress_url: http://www.conferenciarails.org/?p=63
 ---
-h1. Badges 2008
-
 <p style="text-align: left;">Ya están aquí las chapas de esta edición de la Conferencia Rails.</p>
 <p style="text-align: left;">Tanto los <strong>ponentes</strong> como los <strong>asistentes</strong> pueden ya hacer alarde de su condición gracias a los <em>badges</em> listos para insertar en dónde quieras. Elige la imagen que más te convenga, hay distintos tamaños y formatos:</p>
 <p style="text-align: left;"><strong>Asistente:</strong></p>

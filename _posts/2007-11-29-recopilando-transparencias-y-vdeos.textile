@@ -4,8 +4,6 @@ layout: post
 title: Recopilando transparencias y v&#237;deos
 wordpress_url: http://www.conferenciarails.org/archivo/2007/11/29/recopilando_transparencias_y_v&#237;deos/
 ---
-h1. Recopilando transparencias y v&#237;deos
-
 <p>Estamos recopilando el material de todas las ponencias, tanto presentaciones como sus correspondientes c&#243;digos de ejemplo, y los v&#237;deos que se grabaron para las salas 1 y 2.</p>
 
 <p>En los pr&#243;ximos d&#237;as (esperamos que para la semana que viene) lo tendremos colgado de la web, para su libre descarga.</p>

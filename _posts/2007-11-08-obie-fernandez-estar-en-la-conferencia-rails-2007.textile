@@ -4,8 +4,6 @@ layout: post
 title: Obie Fernandez estar&#225; en la Conferencia Rails 2007
 wordpress_url: http://www.conferenciarails.org/archivo/2007/11/8/obie_fernandez_estar&#225;_en_la/
 ---
-h1. Obie Fernandez estar&#225; en la Conferencia Rails 2007
-
 <p><img src="http://ponencias.conferenciarails.org/autor/avatar/49/obie_fernandez.jpg" width="150" align="right" hspace="5" />Ya est&#225; confirmada la presencia de Obie Fernandez en la Conferencia Rails!</p>
 
 <p>Obie nos hablar&#225; de las <a href="http://ponencias.conferenciarails.org/charlas/ver/54">novedades de la versi&#243;n 2.0 de Rails</a>, el viernes 23 de noviembre a las 18:45 en la sala 1.</p>

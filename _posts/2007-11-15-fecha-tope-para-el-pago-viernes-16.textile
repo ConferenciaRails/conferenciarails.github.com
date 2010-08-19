@@ -4,8 +4,6 @@ layout: post
 title: "Fecha tope para el pago: viernes 16"
 wordpress_url: http://www.conferenciarails.org/archivo/2007/11/15/fecha_tope_para_el_pago_viernes/
 ---
-h1. Fecha tope para el pago: viernes 16
-
 <p>Si todav&#237;a no has realizado el pago para asistir a la Conferencia Rails 2007, a&#250;n est&#225;s a tiempo!</p>
 
 <p>La fecha TOPE para el pago por transferencia es ma&#241;ana VIERNES 16 DE NOVIEMBRE. Te recomendamos que para agilizar el proceso, hagas el ingreso directamente en cualquier oficina de La Caixa (las transferencias tardan de 2 a 3 d&#237;as en llegar as&#237; que ya no te queda tiempo).</p>

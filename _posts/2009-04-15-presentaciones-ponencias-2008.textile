@@ -4,8 +4,6 @@ layout: post
 title: Presentaciones de las ponencias de 2008
 wordpress_url: http://www.conferenciarails.org/?p=79
 ---
-h1. Presentaciones de las ponencias de 2008
-
 Hemos recopilado muchas de las presentaciones de las ponencias de la Conferencia Rails 2008. A continuación os adjuntamos enlaces tanto al video como a la presentación en PDF. Si eres uno de los ponentes y ves que no tenemos tu presentación, mándanos un correo a info@conferenciarails.org.
 
 <h3>Apertura y keynotes</h3>

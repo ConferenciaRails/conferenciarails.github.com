@@ -4,8 +4,6 @@ layout: post
 title: "Fecha l\xC3\xADmite de pago para la conferencia 2008"
 wordpress_url: http://www.conferenciarails.org/?p=51
 ---
-h1. Fecha límite de pago para la conferencia 2008
-
 Os informamos de que la fecha límite para el pago de la conferencia es el día <strong>5 de noviembre</strong>. Esto quiere decir que el <strong>día 5</strong> debe estar en nuestra cuenta, así que si pagais por transferencia tened en cuenta que es habitual que pasen 1-2 días hasta que se haga efectiva.
 
 El motivo de tener los pagos una semana antes del inicio de la conferencia es porque necesitamos confirmar previamente con los diferentes proveedores (catering, cena, camisetas, etc...) el número de asistentes final.

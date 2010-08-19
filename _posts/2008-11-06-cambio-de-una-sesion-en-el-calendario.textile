@@ -4,8 +4,6 @@ layout: post
 title: "Cambio de una sesi\xC3\xB3n en el calendario"
 wordpress_url: http://www.conferenciarails.org/?p=64
 ---
-h1. Cambio de una sesión en el calendario
-
 La presentación del caso de éxito Hesperis.eu a cargo de Lleïr Borràs, que estaba programada para el Jueves a las 13:15, se ha cancelado por un imprevisto que le ha surgido al ponente.
 
 En su lugar hemos programado el caso de éxito "<a href="http://app.conferenciarails.org/charlas/ver/99">Ruby on Rails como elemento clave para el desarrollo de una software factory</a>", a cargo de <a href="http://app.conferenciarails.org/autores/lista#88">Orlando M. López</a>

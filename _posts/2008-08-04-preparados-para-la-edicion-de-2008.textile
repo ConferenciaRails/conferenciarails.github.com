@@ -4,8 +4,6 @@ layout: post
 title: "Preparados para la edici\xC3\xB3n de 2008"
 wordpress_url: http://2008.conferenciarails.org/?p=35
 ---
-h1. Preparados para la edición de 2008
-
 Ya estamos trabajando en los preparativos de la edición de este año.
 
 En breve publicaremos fechas, lugar, call for papers, etc...

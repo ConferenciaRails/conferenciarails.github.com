@@ -4,8 +4,6 @@ layout: post
 title: Chapas para asistentes y ponentes
 wordpress_url: http://www.conferenciarails.org/archivo/2007/11/19/chapas_para_asistentes_y_ponentes/
 ---
-h1. Chapas para asistentes y ponentes
-
 <p><img src="http://www.conferenciarails.org/images/badges/asistente.png" />
 Ya tenemos listas las chapas para que las luzcas en tu blog. Las tenemos en dos sabores, una para asistentes y otra para ponentes. A cuanta m&#225;s gente llegue el software libre mejor y si es Rails pues estupendo 
 &#161;Ser&#225;s el m&#225;s chulo de la blogosfera!</p>

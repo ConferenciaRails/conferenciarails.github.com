@@ -4,8 +4,6 @@ layout: post
 title: Programa definitivo de ponencias
 wordpress_url: http://www.conferenciarails.org/?p=47
 ---
-h1. Programa definitivo de ponencias
-
 Tras estudiar todo el material recibido e intentar acomodar la mayor cantidad de charlas interesantes posible, las ponencias que finalmente forman parte del programa de la conferencia 2008 son las siguientes:
 
 <strong>Track técnico:</strong>

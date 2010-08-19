@@ -4,8 +4,6 @@ layout: post
 title: Libros en la conferencia
 wordpress_url: http://www.conferenciarails.org/archivo/2007/11/12/libros_en_la_conferencia/
 ---
-h1. Libros en la conferencia
-
 <p><a href="http://www.cocodrilolibros.com"><img src="http://www.conferenciarails.org/themes/conferencia_rails/images/cocodrilo.jpg" width="140" align="right" hspace="6" /></a>  Al igual que en la edici&#243;n anterior de la conferencia, este a&#241;o contaremos tambi&#233;n con la colaboraci&#243;n de la <a href="http://www.cocodrilolibros.com">libreria Cocodrilo</a>, especializada en libros y publicaciones de inform&#225;tica. </p>
 
 <p>Dispondr&#225;n durante los dos d&#237;as de la conferencia de un stand en el que podremos adquirir libros de Ruby y de Rails con descuento especial para los asistentes.</p>

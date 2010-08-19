@@ -4,8 +4,6 @@ layout: post
 title: "Se confirman las fechas: 22 y 23 de noviembre"
 wordpress_url: http://www.conferenciarails.org/archivo/2007/9/19/se_confirman_las_fechas_22/
 ---
-h1. Se confirman las fechas: 22 y 23 de noviembre
-
 <p>Se confirman las fechas: la Conferencia Rails 2007 tendr&#225; lugar el
 pr&#243;ximo <strong>22 y 23 de noviembre</strong>, en la Universidad Polit&#233;cnica de Madrid.</p>
 

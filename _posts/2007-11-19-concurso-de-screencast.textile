@@ -4,8 +4,6 @@ layout: post
 title: Concurso de screencast
 wordpress_url: http://www.conferenciarails.org/archivo/2007/11/19/concurso_de_screencast/
 ---
-h1. Concurso de screencast
-
 <p>Al igual que el a&#241;o pasado, en esta edici&#243;n de la Conferencia Rails Hispana contamos con un concurso de screencasts. En esta ocasi&#243;n queremos facilitar la labor de los participantes dando m&#225;s tiempo para preparar los videos, y por eso anunciamos <strong>abierto el concurso</strong> desde hoy mismo!.
 Estas son las bases:</p>
 

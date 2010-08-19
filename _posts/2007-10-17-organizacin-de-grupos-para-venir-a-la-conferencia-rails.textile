@@ -4,8 +4,6 @@ layout: post
 title: Organizaci&#243;n de grupos para venir a la Conferencia Rails
 wordpress_url: http://www.conferenciarails.org/archivo/2007/10/17/organizaci&#243;n_de_grupos_para_venir/
 ---
-h1. Organizaci&#243;n de grupos para venir a la Conferencia Rails
-
 <p>Igor, desde Bilbao, nos ha sugerido que abramos este post para ayudar a gente que, como &#233;l, vaya a venir a la Conferencia Rails desde fuera de  Madrid, de modo que se puedan organizar grupos que compartan gastos de viaje y/o estancia.</p>
 
 <p>As&#237; que aqu&#237; abrimos este post para que los interesados en organizar estos grupos se puedan poner en contacto&#8230; <strong>indica desde qu&#233; ciudad vas a venir</strong> y deja alg&#250;n <strong>dato de contacto</strong>.</p>

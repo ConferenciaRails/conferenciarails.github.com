@@ -4,8 +4,6 @@ layout: post
 title: Quedada no oficial pre-conferencia
 wordpress_url: http://www.conferenciarails.org/?p=70
 ---
-h1. Quedada no oficial pre-conferencia
-
 <pre>Nos han pasado esta convocatoria de una quedada que se está organizando para esta misma tarde
 con la gente que ha venido para la conferencia.
 

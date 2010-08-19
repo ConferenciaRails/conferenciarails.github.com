@@ -4,8 +4,6 @@ layout: post
 title: Calendario de ponencias
 wordpress_url: http://www.conferenciarails.org/archivo/2007/10/26/calendario_de_ponencias/
 ---
-h1. Calendario de ponencias
-
 <p>Ya est&#225; disponible el calendario de ponencias para la Conferencia Rails 2007. Lo encontrar&#233;is en la <a href="http://ponencias.conferenciarails.org">secci&#243;n de ponencias</a> de nuestra web.</p>
 
 <p>Este a&#241;o volvemos a contar con 3 salas simult&#225;neas, con charlas que comenzar&#225;n a partir de las 10 de la ma&#241;ana y terminaran poco antes de las 8 de la tarde.</p>

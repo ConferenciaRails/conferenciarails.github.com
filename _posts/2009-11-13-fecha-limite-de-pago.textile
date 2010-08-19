@@ -4,8 +4,6 @@ layout: post
 title: "Fecha l\xC3\xADmite de pago"
 wordpress_url: http://www.conferenciarails.org/?p=123
 ---
-h1. Fecha límite de pago
-
 <em>(non Spanish speakers, please read below)</em>
 
 La fecha de la conferencia se acerca y, para poder formalizar la reserva definitiva con nuestros proveedores,  necesitamos saber el número exacto de asistentes con el que contamos y pagarles en su caso los anticipos que nos solicitan.

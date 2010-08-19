@@ -4,8 +4,6 @@ layout: post
 title: Call for papers 2009
 wordpress_url: http://www.conferenciarails.org/?p=108
 ---
-h1. Call for papers 2009
-
 Os queremos invitar a participar como ponentes en la conferencia rails hispana 2009. Estamos cerrando todavía las fechas definitivas pero probablemente será, como siempre, a mediados de Noviembre.
 
 Este año queremos cambiar un poco el modelo de la conferencia. Estamos muy contentos de cómo se desarrollaron las anteriores ediciones, pero creemos que podemos —y debemos— mejorar todavía más la conferencia.

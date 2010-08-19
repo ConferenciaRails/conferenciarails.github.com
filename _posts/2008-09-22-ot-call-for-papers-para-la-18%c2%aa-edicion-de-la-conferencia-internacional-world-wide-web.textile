@@ -4,8 +4,6 @@ layout: post
 title: "[OT] Call for papers para la 18\xC2\xAA edici\xC3\xB3n de la conferencia Internacional World Wide Web"
 wordpress_url: http://www.conferenciarails.org/?p=44
 ---
-h1. [OT] Call for papers para la 18ª edición de la conferencia Internacional World Wide Web
-
 Uno de los socios de la conferencia Rails, <a href="http://www.dit.upm.es/" target="_blank">el DIT de la Universidad Politécnica de Madrid</a>, que nos cede cada año sus instalaciones, va a ser el anfitrión de la <a href="http://www2009.org" target="_blank">18ª edición de la International World Wide Web Conference</a>, que se celebrará en Abril de 2009.
 Es una buena oportunidad para poder tomarle el pulso a la Web actual y ver hacia dónde se va a ir moviendo. En este momento se encuentra abierto su <a href="http://www2009.org/calls.html" target="_blank">Call For Papers</a>, así que si quieres participar en el congreso, te animamos a visitar <a href="http://www2009.org" target="_blank">su web.</a>
 

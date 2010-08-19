@@ -4,8 +4,6 @@ layout: post
 title: Propuestas de ponencias
 wordpress_url: http://www.conferenciarails.org/archivo/2007/8/15/propuestas_de_ponencias/
 ---
-h1. Propuestas de ponencias
-
 <p>El call for papers ha tenido &#233;xito y hasta la fecha hemos recibido 25 propuestas de ponencias. Aqu&#237; ten&#233;is un resumen de los temas que estamos considerando incluir en la Conferencia Rails 2007:</p>
 
 <p><a href="/paginas/propuestas_de_ponencias">Propuestas de ponencias para la Conferencia Rails 2007</a></p>

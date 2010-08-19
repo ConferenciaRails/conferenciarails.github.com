@@ -4,8 +4,6 @@ layout: post
 title: Cena del jueves 22
 wordpress_url: http://www.conferenciarails.org/archivo/2007/10/4/cena_del_jueves_22/
 ---
-h1. Cena del jueves 22
-
 <p>La Conferencia Rails es mucho m&#225;s que unas cuantas charlas sobre tecnolog&#237;a o negocios. Es sobre todo un punto de encuentro para que los que trabajamos con Rails podamos conocernos, compartir experiencias, establecer colaboraciones.. Y qu&#233; mejor manera de estrechar lazos que en una cena informal en la primera jornada de las conferencias.</p>
 
 <p>Todav&#237;a no sabemos el men&#250; -probablemente ser&#225; tipo cocktail, aunque abundante- pero ya tenemos el sitio. Se llama Abascal 43 y est&#225; en la calle Jos&#233; Abascal 43, en Madrid.</p>

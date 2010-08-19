@@ -4,8 +4,6 @@ layout: post
 title: "Call for papers para la edici\xC3\xB3n de 2008"
 wordpress_url: http://2008.conferenciarails.org/?p=34
 ---
-h1. Call for papers para la edición de 2008
-
 Os queremos invitar a todos a participar un año más en la <a title="conferencia rails hispana" href="http://www.conferenciarails.org/">conferencia rails hispana</a>
 
 <strong>Cuándo:</strong>

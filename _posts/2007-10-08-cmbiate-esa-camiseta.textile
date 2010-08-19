@@ -4,8 +4,6 @@ layout: post
 title: C&#225;mbiate esa camiseta!
 wordpress_url: http://www.conferenciarails.org/archivo/2007/10/7/c&#225;mbiate_esa_camiseta/
 ---
-h1. C&#225;mbiate esa camiseta!
-
 <p>Sabemos que has llevado la misma desde que viniste a la Conferencia Rails Hispana en noviembre del a&#241;o pasado.</p>
 
 <p>La de este a&#241;o est&#225; a la vuelta de la esquina (22 y 23 de noviembre), y no queremos repetirnos (DRY!).</p>

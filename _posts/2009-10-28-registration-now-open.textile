@@ -4,8 +4,6 @@ layout: post
 title: Registration now open!
 wordpress_url: http://www.conferenciarails.org/?p=116
 ---
-h1. Registration now open!
-
 You can now register for La Conferencia Rails 2009 at <a href="http://app.conferenciarails.org/">http://app.conferenciarails.org</a>. You have to sign up and then make the payment either by bank transfer or with PayPal.
 
 The conference fee is 120€ (taxes included). This year it includes (despite the credit crunch ;-):

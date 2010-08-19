@@ -4,8 +4,6 @@ layout: post
 title: Evolucionando
 wordpress_url: http://www.conferenciarails.org/?p=112
 ---
-h1. Evolucionando
-
 Uno de los retos que nos planteamos este año es que la conferencia refleje como, en estos cuatro años desde la primera edición, la comunidad Ruby y Rails ha crecido y evolucionado. En este espíritu, hemos introducido algunos cambios importantes que os anunciamos ahora.
 
 En primer lugar el <strong>emplazamiento</strong>. Para poder superar el límite de 200 personas que imponía la escuela de teleco, hemos aceptado una oferta que nos hizo el ayuntamiento. Se trata del centro "El Madroño" en Vicálvaro (<a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Calle+de+Villardondiego,+36+28032+Madrid&sll=40.405065,-3.608193&sspn=0.031045,0.038409&ie=UTF8&hq=&hnear=Calle+de+Villardondiego,+36,+28032+Madrid,+Spain&t=h&z=17">mapa</a>). Allí alojaremos durante el 26 y el 27 de Noviembre los dos tracks de charlas. Podremos ser más gente que otros años y estar más cómodos. Además una de las salas es el anfiteatro del centro lo cual abre nuevas posibilidades. Por cierto, el centro está muy bien comunicado (linea 9 de metro al lado) y se llega más rápido de lo que uno se cree.

@@ -1,16 +1,13 @@
 ---
-layout: post 
+layout: blog 
 title: Conferencia Rails 2007 Archive
 ---
-<h1>Archive of posts from La Conferencia Rails 2007</h1>
-<ul>
-  {% for post in site.posts %}
-    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% if year == '2007' %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: '%Y-%m-%d' }}</li>
-    {% endif %}
-  {% endfor %}
-</ul>
 
-<hr />
-<a href="2008.html">View archived posts from 2008</a>
+<h1>La Conferencia Rails 2007 Archive</h1>
+
+{% assign year = '2007' %}
+{% include posts/archive_for_year.html %}
+
+<p class="archiveLinks">
+  <a href="2008.html">View archived posts from 2008</a>
+</p>

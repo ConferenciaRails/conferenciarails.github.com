@@ -4,8 +4,6 @@ layout: post
 title: Call for papers 2009 (for proposals in English)
 wordpress_url: http://www.conferenciarails.org/?p=111
 ---
-h1. Call for papers 2009 (for proposals in English)
-
 For the fourth year in a row, we are pleased to announce this year's edition of the Spanish Rails Conference , to be held in Madrid, Spain, on November 26th and 27th.
 
 The official language of the conference is Spanish (no translation provided), although sessions in English are welcome. Most of the attendants speak both English-with-a-funny-accent and Spanish and we are a fun tribe to be around.

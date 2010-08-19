@@ -4,8 +4,6 @@ layout: post
 title: Cena del jueves
 wordpress_url: http://www.conferenciarails.org/?p=67
 ---
-h1. Cena del jueves
-
 Si te has apuntado a la cena del jueves, atento porque esta información te interesa:
 
 <strong># Lugar de la cena</strong>

@@ -4,8 +4,6 @@ layout: post
 title: "\xC2\xBFEchas de menos alguna propuesta de ponencia?"
 wordpress_url: http://www.conferenciarails.org/?p=42
 ---
-h1. ¿Echas de menos alguna propuesta de ponencia?
-
 Nos están solicitando que abramos una puerta para recibir <strong>demandas de ponencias</strong>, esto es, un sitio donde cada uno, anónimamente o no, pueda sugerir un tema para una ponencia siendo de libre elección del resto de nosotros el animarse a presentarse como ponente.
 
 Esta propuesta no es muy ortodoxa pero siendo de mentes experimentadoras la aceptamos y abrimos este post para que cada uno de vosotros que tengáis alguna espinilla con Rails la expongáis en los comentarios.

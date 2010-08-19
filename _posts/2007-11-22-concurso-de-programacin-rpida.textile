@@ -4,8 +4,6 @@ layout: post
 title: Concurso de programaci&#243;n r&#225;pida
 wordpress_url: http://www.conferenciarails.org/archivo/2007/11/22/concurso_de_programaci&#243;n_r&#225;pida/
 ---
-h1. Concurso de programaci&#243;n r&#225;pida
-
 <p>Ya se ha abierto el plazo para el concurso de programaci&#243;n r&#225;pida. &#201;stas son las bases:</p>
 
 <ul>

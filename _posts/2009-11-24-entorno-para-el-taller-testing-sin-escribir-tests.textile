@@ -4,8 +4,6 @@ layout: post
 title: Entorno para el taller "Testing sin escribir tests..."
 wordpress_url: http://www.conferenciarails.org/?p=132
 ---
-h1. Entorno para el taller "Testing sin escribir tests..."
-
 Si tenéis pensado asistir al taller de "Testing sin escribir tests con Cucumber y Mundo Pepino" puedes ir preparando tu máquina con el entorno que se utilizará.
 
 Lo primero será instalar la gema de mundo-pepino:

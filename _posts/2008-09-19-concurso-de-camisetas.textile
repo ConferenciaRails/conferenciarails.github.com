@@ -4,8 +4,6 @@ layout: post
 title: Concurso de Camisetas
 wordpress_url: http://www.conferenciarails.org/?p=43
 ---
-h1. Concurso de Camisetas
-
 <div class="entry">Año nuevo, camiseta nueva... y como siempre queremos que el diseño venga de mano de uno de vosotros. Quedan apenas dos meses y es el momento de ir  decidiendo cuál va a ser la camiseta de moda de la temporada otoño-invierno en la comunidad Rails hispana.
 
 Anímate y mándanos tu diseño. Si es el seleccionado para esta edición de la conferencia, además de tener el honor de ver tu creación en los lomos de mucha gente, te regalaremos la taza oficial (la misma que los ponentes), un pack de 5 camisetas y un libro técnico.

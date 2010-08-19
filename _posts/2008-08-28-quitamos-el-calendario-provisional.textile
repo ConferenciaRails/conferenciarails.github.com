@@ -4,8 +4,6 @@ layout: post
 title: Quitamos el calendario provisional
 wordpress_url: http://www.conferenciarails.org/?p=41
 ---
-h1. Quitamos el calendario provisional
-
 Hemos decidido quitar el calendario hasta que no se haya cerrado el
 plazo de recepción de ponencias.  Estabamos usando el calendario para
 ir preparando las ponencias finales, pero ha habido gente que lo ha

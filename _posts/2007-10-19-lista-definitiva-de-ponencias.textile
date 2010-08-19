@@ -4,8 +4,6 @@ layout: post
 title: Lista definitiva de ponencias
 wordpress_url: http://www.conferenciarails.org/archivo/2007/10/19/lista_definitiva_de_ponencias/
 ---
-h1. Lista definitiva de ponencias
-
 <p><em>&#191;Cu&#225;ndo, cu&#225;ndo?</em> Si, es cierto: nos hemos retrasado un poquito este a&#241;o en decidir la lista de ponencias definitivas, entre las propuestas recibidas.</p>
 
 <p>Y es que no ha sido nada f&#225;cil: recibimos cerca de 50 propuestas, y sencillamente no hab&#237;a sitio para tantas. Hab&#237;a que recortar, y ha sido duro tener que rechazar algunas propuestas verdaderamente interesantes.</p>

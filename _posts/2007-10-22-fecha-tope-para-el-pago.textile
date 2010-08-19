@@ -4,8 +4,6 @@ layout: post
 title: Fecha tope para el pago
 wordpress_url: http://www.conferenciarails.org/archivo/2007/10/22/fecha_tope_para_el_pago/
 ---
-h1. Fecha tope para el pago
-
 <p>Para asistir a la Conferencia Rails 2007 es necesario apuntarse (tanto si eres asistente como ponente), y realizar el pago antes de la fecha tope, que es el <em>15 de noviembre de 2007</em>.</p>
 
 <p>Por favor, para facilitarnos la organizaci&#243;n, realiza el pago en cuanto puedas, no lo dejes para el &#250;ltimo d&#237;a. :)</p>

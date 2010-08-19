@@ -46,8 +46,6 @@ module Jekyll
         File.open("_posts/#{name}", "w") do |f|
           f.puts data
           f.puts "---"
-          f.puts "h1. #{title}"
-          f.puts ""
           f.puts content
         end
       end

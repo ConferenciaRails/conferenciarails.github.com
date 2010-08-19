@@ -4,8 +4,6 @@ layout: post
 title: Segundo call for papers
 wordpress_url: http://www.conferenciarails.org/archivo/2007/9/19/segundo_call_for_papers/
 ---
-h1. Segundo call for papers
-
 <p>La Conferencia Rails 2007 sigue en marcha!</p>
 
 <p>Tras la pausa estival, volvemos a la acci&#243;n. Ya tenemos <strike>casi</strike> a punto la nueva web donde iremos informando del progreso de la preparaci&#243;n de las jornadas, pero mientras tanto haremos un llamamiento a trav&#233;s de esta lista de correo para buscar m&#225;s participantes.</p>

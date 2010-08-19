@@ -4,8 +4,6 @@ layout: post
 title: Cambio del lugar de la cena oficial
 wordpress_url: http://www.conferenciarails.org/archivo/2007/11/20/lugar_de_la_cena/
 ---
-h1. Cambio del lugar de la cena oficial
-
 <strong>Este post es del 2.007</strong>
 
 Sois tantos los que os habéis apuntado a la cena/cocktail del jueves(114!), que hemos tenido que buscar un local más grande, donde no pasemos apreturas. Por eso, cambiamos de sitio y tenemos confirmada ya la cena, a las 21:30, en:

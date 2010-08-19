@@ -189,11 +189,16 @@ header.layout div#twitter_stream blockquote {
 	font-size: 32px;
 	color: #900;
   text-shadow: 1px 1px 2px #FFF;
+  -moz-text-shadow: 1px 1px 2px #FFF;
+  -webkit-text-shadow: 1px 1px 2px #FFF;
+}
+#content h1 a {
+  color: #900;
 }
 
 #content h2 {
 	font-size: 18px;
-	margin: 20px 0px 50px 0px;
+	margin: 10px 0px 20px 0px;
 	color: #09C;
 }
 
@@ -215,6 +220,35 @@ header.layout div#twitter_stream blockquote {
 	margin-bottom: 20px;
 }
 
+#content article p.tags {
+  height: 15px;
+  margin: 2px 0 2px 0; padding: 2px 0 5px 21px;
+  color: #888;
+  border-top: 1px dotted #EEE; border-bottom: 1px dotted #EEE;
+  background: transparent url('assets/presentation/tag_green.png') no-repeat 1px 3px;
+}
+
+#content ul.archiveList {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+#content ul.archiveList li {
+  margin: 5px 0px;
+  font-size: 1.2em;
+  margin-left: 90px;
+}
+#content ul.archiveList li span.date {
+  display: block;
+  position: absolute;
+  margin-left: -90px;
+}
+#content ul.archiveList li a:hover {
+  text-decoration: underline;
+}
+#content p.archiveLinks a {
+  margin-right: 20px;
+  color: #0099CC;
+}
 
 /* Sidebars
  ***********/

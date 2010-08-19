@@ -4,8 +4,6 @@ layout: post
 title: Videos de las ponencias 2007 en bittorrent
 wordpress_url: http://www.conferenciarails.org/archivo/2007/12/4/videos_de_las_ponencias_por/
 ---
-h1. Videos de las ponencias 2007 en bittorrent
-
 <p>Si te perdiste alguna de las ponencias, o no pudiste venir a la Conferencia, y no quieres esperar a que subamos todos los videos a google, ya te los puedes descargar por bittorrent.</p>
 
 <p>Aqu&#237; tienes la lista de torrents de todos los videos grabados, una vez hayas acabado de descargarlos, por favor, deja el bittorrent abierto un tiempo para contribuir a la distribuci&#243;n de los ficheros.</p>

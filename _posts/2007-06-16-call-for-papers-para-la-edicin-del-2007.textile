@@ -4,8 +4,6 @@ layout: post
 title: Call for Papers para la edici&#243;n del 2007
 wordpress_url: http://www.conferenciarails.org/archivo/2007/6/15/call_for_papers_2007/
 ---
-h1. Call for Papers para la edici&#243;n del 2007
-
 <p>&#161;Se abre el plazo para la presentaci&#243;n de ponencias!</p>
 
 <p>A todos los interesados en acudir como ponentes a la Conferencia Rails 2007, escribid a <strong>ponencias@conferenciarails.org</strong> con la propuesta de charla, que debe incluir:</p>

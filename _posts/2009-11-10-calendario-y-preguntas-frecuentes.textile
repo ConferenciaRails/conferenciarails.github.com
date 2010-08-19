@@ -4,8 +4,6 @@ layout: post
 title: Calendario y Preguntas Frecuentes
 wordpress_url: http://www.conferenciarails.org/?p=121
 ---
-h1. Calendario y Preguntas Frecuentes
-
 Los días avanzan y ya quedan menos de veinte días para la Conferencia, así que se nos acumulan las novedades.
 
 Acabamos de publicar el calendario con los <a href="http://app.conferenciarails.org/calendar"><strong>horarios</strong></a> de la conferencia de este año (salvo sorpresas finales o cambios de última hora).

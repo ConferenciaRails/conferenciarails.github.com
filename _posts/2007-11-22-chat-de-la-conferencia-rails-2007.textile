@@ -4,8 +4,6 @@ layout: post
 title: Chat de la Conferencia Rails 2007
 wordpress_url: http://www.conferenciarails.org/archivo/2007/11/22/chat_de_la_conferencia_rails/
 ---
-h1. Chat de la Conferencia Rails 2007
-
 <p>Si quieres chatear en directo con el resto de asistentes a la Conferencia Rails 2007 (y con los invitados del mundo exterior), p&#225;sate por&#8230;</p>
 
 <p><a href="http://www.lingr.com/room/conferenciarails2007">www.lingr.com/room/conferenciarails2007</a></p>

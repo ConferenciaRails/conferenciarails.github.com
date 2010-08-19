@@ -4,8 +4,6 @@ layout: post
 title: "Informaci\xC3\xB3n t\xC3\xA9cnica para ponentes"
 wordpress_url: http://www.conferenciarails.org/?p=66
 ---
-h1. Información técnica para ponentes
-
 Algunos nos habéis preguntado por la resolución óptima para las presentaciones. Para poderse guardar y transmitir por el sistema Isabel, la resolución se ajusta automáticamente a 800x600. Si os queréis asegurar de que el resultado será óptimo, podéis probar con esa resolución vuestra presentación.
 
 En cuanto a formato, la forma preferida es un PDF/PowerPoint/OpenOffice que se copia en el servidor de Isabel y que se controla mediante un cliente que manejáis vosotros desde la mesa del ponente.

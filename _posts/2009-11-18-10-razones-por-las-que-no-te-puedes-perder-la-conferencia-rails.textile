@@ -4,8 +4,6 @@ layout: post
 title: 10 razones por las que no te puedes perder la Conferencia Rails
 wordpress_url: http://www.conferenciarails.org/?p=124
 ---
-h1. 10 razones por las que no te puedes perder la Conferencia Rails
-
 <ol class="large">
 	<li>Por los <strong>dos días de charlas</strong> y <strong><a href="http://app.conferenciarails.org/calendar">el programa de lujo</a></strong></li>
 	<li>Por el <strong>día extra</strong> con el <a href="http://app.conferenciarails.org/calendar"><strong>track de talleres</strong></a></li>

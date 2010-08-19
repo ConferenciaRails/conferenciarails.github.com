@@ -4,8 +4,6 @@ layout: post
 title: Ofertas en hoteles en Madrid durante la conferencia 2008
 wordpress_url: http://www.conferenciarails.org/?p=46
 ---
-h1. Ofertas en hoteles en Madrid durante la conferencia 2008
-
 Nuestros amigos de <a href="http://www.hotelsearch.com/">HotelSearch.com</a> están negociando ofertas con algunos hoteles en Madrid para aquellos que vengáis desde fuera y necesitéis alojamiento durante la Conferencia Rails 2008.
 
 Aunque todavía no sabemos las condiciones, esperamos estar en disposición de anunciarlas en este blog a lo largo de la semana que viene, nos parece interesante que sepáis que va a existir esta opción por si estáis planeando ya reservar vuestro viaje.

@@ -4,8 +4,6 @@ layout: post
 title: Empezamos
 wordpress_url: http://www.conferenciarails.org/archivo/2007/11/22/empezamos/
 ---
-h1. Empezamos
-
 <p>Ya est&#225; la conferencia en marcha!. Algunos datos &#250;tiles:</p>
 
 <ul>
