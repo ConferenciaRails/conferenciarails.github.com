@@ -1,0 +1,16 @@
+---
+title: Registration now open!
+categories:
+  - conference 
+excerpt:
+  Catch the early bird tickets until midnight on the 8th of October!
+layout: post 
+---
+h2. Registration for the "Conferencia Rails 2010" is now open! Be quick as the early bird tickets will only be available until midnight on the 8th of October.
+
+The registration fee includes access to the conference, coffee breaks, lunch for thursday and friday, the thursday evening tapas and fiesta, and a cool T-shirt. The fees are 140€ for the early birds and 175€ after the 8th of October (prices including VAT).
+
+Workshops on the 3rd of November are included too, but due to their interactive nature we have to limit the number of attendants. We'll create another ticket to have an idea for numbers after we've released the schedule.
+
+We'll be announing which talks we've chosen very soon, but there isn't much time left for the early bird registrations so please don't miss the chance to get your ticket now!
+
