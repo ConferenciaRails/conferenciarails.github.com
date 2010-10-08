@@ -287,7 +287,7 @@ div#wide_sidebar h2 {
 
 div#wide_sidebar h3 {
   position: relative; left: -5px;
-  margin: 15px 0 5px 0;
+  margin: 5px 0 5px 0;
 }
 
 div#wide_sidebar h3 a {
@@ -300,6 +300,7 @@ div#wide_sidebar h3 a:hover {
   background: #900 url('assets/presentation/caret.gif') no-repeat top right;
 }
 
+/*
 div#wide_sidebar p {
   position: relative; left: -5px;
   padding-left: 5px;
@@ -307,12 +308,54 @@ div#wide_sidebar p {
   line-height: 18px;
   border-left: 1px dotted #CCC;
 }
+*/
 
 div#wide_sidebar img {
   width: 193px; height: 50px;
   padding: 2px;
   border: 1px solid #DDD;
 }
+
+#wide_sidebar .anchor {
+  position: relative;
+  height: 100px;
+}
+#wide_sidebar .sponsor {
+  position: absolute;
+  float: left;
+  top: 0px;
+  left: 0px;
+  z-index: 100;
+  width: 200px;
+}
+#wide_sidebar .sponsor .name {
+  float: left;
+  width: 200px;
+}
+#wide_sidebar .sponsor p {
+  display: none;
+  float: left;
+  color: #666;
+  padding: 5px 0px;
+}
+
+#wide_sidebar .sponsor:hover {
+  background-color: #fff;
+  padding: 5px 10px;
+  top: -6px;
+  left: -11px;
+  border: 1px solid #999;
+  z-index: 200;
+  width: 390px;
+  -moz-box-shadow: 1px 4px 9px #666;
+  -moz-border-radius: 5px;
+}
+#wide_sidebar .sponsor:hover p {
+  display: block;
+  padding-left: 10px;
+  width: 180px;
+}
+
 
 /* Narrow Sidebar
  *****************/
