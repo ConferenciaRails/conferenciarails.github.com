@@ -336,7 +336,7 @@ div#wide_sidebar img {
   display: none;
   float: left;
   color: #666;
-  padding: 5px 0px;
+  padding: 5px 0px 8px 0px;
 }
 
 #wide_sidebar .sponsor:hover {
@@ -347,8 +347,12 @@ div#wide_sidebar img {
   border: 1px solid #999;
   z-index: 200;
   width: 390px;
-  -moz-box-shadow: 1px 4px 9px #666;
+  -moz-box-shadow: 1px 4px 6px #666;
   -moz-border-radius: 5px;
+  -webkit-box-shadow: 1px 4px 6px #666;
+  -webkit-border-radius: 5px;
+  box-shadow: 1px 4px 6px #666;
+  border-radius: 5px;
 }
 #wide_sidebar .sponsor:hover p {
   display: block;
