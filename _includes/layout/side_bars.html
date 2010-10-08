@@ -3,7 +3,9 @@
 
   {% include side_bars/sponsors.html %}
 
-  {% include side_bars/key_dates.html %}
+  {% if page.name != 'programme' %}
+    {% include side_bars/key_dates.html %}
+  {% endif %}
 
 <!-- ↥ sidebars ↥ -->  
 </aside>

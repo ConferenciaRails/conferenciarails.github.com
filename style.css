@@ -250,6 +250,8 @@ header.layout div#twitter_stream blockquote {
   color: #0099CC;
 }
 
+
+
 /* Sidebars
  ***********/
 #side_bars {
@@ -269,6 +271,7 @@ header.layout div#twitter_stream blockquote {
   color: #444;
   background: none;
 }
+
 
 /* Wide Sidebar
  ***************/
@@ -343,7 +346,7 @@ div#wide_sidebar img {
   background-color: #fff;
   padding: 5px 10px;
   top: -6px;
-  left: -11px;
+  left: -211px;
   border: 1px solid #999;
   z-index: 200;
   width: 390px;
@@ -624,3 +627,15 @@ footer.layout div#validations ul li {
 
 footer.layout div#validations ul li a {
 }
+
+/**** PROGRAMME EXCEPTIONS ****/
+
+body.programme #content {
+  width: 600px;
+}
+
+body.programme #side_bars {
+  width: 210px;
+}
+
+
