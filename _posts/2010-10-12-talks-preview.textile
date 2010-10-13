@@ -24,7 +24,6 @@ h3. some of the talks
 * - "Neo4j: using graph databases with ruby on rails", by Pablo Delgado
 * - "Geospatial capabilities in Ruby", by Javier de la Torre & Fernando Blat
 * - "HTML5 WebSockets, Ruby and NodeJS", by Pedro Palazón
-* - "The Real Time Web", by Sergio Gil Pérez de la Manga
 * - "Rails is not Enough", by Javier Ramírez
 * - "Meet CouchDB", by Esti Álvarez
 
