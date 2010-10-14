@@ -13,26 +13,26 @@ h2. We are still waiting for confirmation of a couple of talks, and we will be a
 
 h3. some of the talks
 
-* - "Make your models lose weight with the CQRS Diet", by Luismi Cavallé
-* - "Mechanics, Myths, and Mints: Swallowing the Pair Programming Pill", by Jim Remsik
-* - "Evented development with node.js and Ruby", by Christian Amor Kvalheim
-* - "Documenting from the trenches", by Xavier Noria
-* - "Simple Data visualization with Javascript", by Eli Kroumova
-* - "Derailed Cucumber (or Cucumber outside Rails)", by Alan Kennedy & Borja Arias
-* - "To localise or not to localise, that is the question", by Carlos Henández & Elizabeth Sánchez
-* - "Dexy, a new approach to documenting your software", by Ana Nelson
-* - "Neo4j: using graph databases with ruby on rails", by Pablo Delgado
-* - "Geospatial capabilities in Ruby", by Javier de la Torre & Fernando Blat
-* - "HTML5 WebSockets, Ruby and NodeJS", by Pedro Palazón
-* - "Rails is not Enough", by Javier Ramírez
-* - "Meet CouchDB", by Esti Álvarez
+ * - "Make your models lose weight with the CQRS Diet", by Luismi Cavallé
+ * - "Mechanics, Myths, and Mints: Swallowing the Pair Programming Pill", by Jim Remsik
+ * - "Evented development with node.js and Ruby", by Christian Amor Kvalheim
+ * - "Documenting from the trenches", by Xavier Noria
+ * - "Simple Data visualization with Javascript", by Eli Kroumova
+ * - "Derailed Cucumber (or Cucumber outside Rails)", by Alan Kennedy & Borja Arias
+ * - "To localise or not to localise, that is the question", by Carlos Henández & Elizabeth Sánchez
+ * - "Dexy, a new approach to documenting your software", by Ana Nelson
+ * - "Neo4j: using graph databases with ruby on rails", by Pablo Delgado
+ * - "Geospatial capabilities in Ruby", by Javier de la Torre & Fernando Blat
+ * - "HTML5 WebSockets, Ruby and NodeJS", by Pedro Palazón
+ * - "Rails is not Enough", by Javier Ramírez
+ * - "Meet CouchDB", by Esti Álvarez
 
 h3. full list of workshops
 
-* - "Improv*ing Teamwork for Techies", by Jessie Shternshus
-* - "Markup with style using Compass and the 960 framework", by Juanjo Andrés Prado
-* - "Process AUtomation workshops", by Jorge Dias
-* - "Caching: Speed up your application", by Jordi Romero
+ * - "Improv*ing Teamwork for Techies", by Jessie Shternshus
+ * - "Markup with style using Compass and the 960 framework", by Juanjo Andrés Prado
+ * - "Process AUtomation workshops", by Jorge Dias
+ * - "Caching: Speed up your application", by Jordi Romero
 
 
 h3. tickets still available
