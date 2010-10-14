@@ -638,4 +638,32 @@ body.programme #side_bars {
   width: 210px;
 }
 
+/**** TALK PAGE & BIO ****/
 
+#content div.avatar{
+  margin: .5em;
+  float: left;
+  width: 80px;  
+  height: 80px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px; 
+  -webkit-box-shadow: -3px -3px 6px rgba(0,0,0,.60);
+  -moz-box-shadow: -3px -3px 6px rgba(0,0,0,.60);  
+  box-shadow: -3px -3px 6px rgba(0,0,0,.60);  
+}
+
+div#fxn{ background: url('http://www.gravatar.com/avatar/7223c62b7310e164eb79c740188abbda') no-repeat top left; }
+
+section#content h2.brief{ 
+  text-align: justify;
+}
+
+section#content p.bio{ 
+  margin-left: 100px;
+  text-align: justify;
+}
+section#content p.bio span#name{ 
+  font-weight: bold;
+  color: #900;
+}
