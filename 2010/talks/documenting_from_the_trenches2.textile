@@ -12,6 +12,7 @@ profile:
   name: Xavier Noria
   twitter: fxn
   url: http://www.hashref.com/
+  avatar: http://www.gravatar.com/avatar/7223c62b7310e164eb79c740188abbda 
   description: |
     He spends most of his spare time working in Open Source projects, writing code, docs, helping in mailing lists or IRC, etc.
 
