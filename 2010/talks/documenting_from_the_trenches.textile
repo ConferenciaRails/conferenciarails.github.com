@@ -21,10 +21,18 @@ We'll also explain what is docrails, what's going on in this aspect of the Rails
 
 </div>
 <div class="bio">
+<div class="card">
+<div class="avatar" id="fxn"></div>
+<div class="speaker-links">
 
-!http://www.gravatar.com/avatar/7223c62b7310e164eb79c740188abbda!
+* "Home page":http://www.hashref.com/
+* "@fxn":http://www.twitter.com/fxn
 
-<span class="name">Xavier Noria</span> spends most of his spare time working in Open Source projects, writing code, docs, helping in mailing lists or IRC, etc.
+</div>
+</div>
+h3. Xavier Noria
+
+He spends most of his spare time working in Open Source projects, writing code, docs, helping in mailing lists or IRC, etc.
 
 He has been into Perl for some years and is a CPAN author, former leader of Barcelona.pm, and teach a Perl semester at the University of Barcelona.
 
@@ -34,11 +42,4 @@ Also honored to have been presented a Ruby Hero Award in RailsConf 2010, held in
 
 </div>
 
-<div class="speaker-links">
 
-h2. Xavier on the web
-
-* "Xavi's home page":http://www.hashref.com/
-* "Xavi's twitter":http://www.twitter.com/fxn
-
-</div>

@@ -640,33 +640,37 @@ body.programme #side_bars {
 
 /**** TALK PAGE & BIO ****/
 
-section#content .brief p { 
-  color: #0099cc;
-  font-size: 18px;
+section#content .brief p {
+  font-size: 14px;
   margin: 10px 0 20px;
-  font-weight: bold;
 }
 section#content .bio p {
-  margin-left: 100px;
   text-align: justify;
+  padding-right: 25%;
+}
+section#content .bio div.speaker-links a{
+  color: #9C0
+}
+section#content .bio div.speaker-links a:hover {
+  background-color: #9C0;
+  color:white;
 }
 
-section#content .bio img {
-  float: left;
-  margin-left: -100px;
+section#content .bio img, section#content .bio .card{
+  float: right;
+  width: 20%;
+}
+section#content .bio img, section#content .bio div.avatar{
   width: 80px;
   height: 80px;
-  /*
-  -webkit-border-radius: 15px;
-  -moz-border-radius: 15px;
-  border-radius: 15px;
-  */
+  margin-bottom:1em;
   -webkit-box-shadow: 3px 3px 6px rgba(0,0,0,.60);
-  -moz-box-shadow: 3px 3px 6px rgba(0,0,0,.60);  
-  box-shadow: 3px 3px 6px rgba(0,0,0,.60);  
+  -moz-box-shadow: 3px 3px 6px rgba(0,0,0,.60);
+  box-shadow: 3px 3px 6px rgba(0,0,0,.60);
 }
 
-section#content .bio span.name{ 
-  font-weight: bold;
-  color: #900;
+section#content div.avatar#fxn {
+  background: url('http://www.gravatar.com/avatar/7223c62b7310e164eb79c740188abbda') no-repeat top left; 
 }
+
+
