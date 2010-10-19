@@ -313,7 +313,7 @@ div#wide_sidebar p {
 }
 */
 
-div#wide_sidebar img {
+#wide_sidebar img {
   width: 193px; height: 50px;
   padding: 2px;
   border: 1px solid #DDD;
@@ -331,6 +331,14 @@ div#wide_sidebar img {
   z-index: 100;
   width: 200px;
 }
+/*
+#wide_sidebar .anchor.alternative {
+  height: 140px;
+}
+#wide_sidebar .anchor.alternative img {
+  height: 93px;
+}
+*/
 #wide_sidebar .sponsor .name {
   float: left;
   width: 200px;
