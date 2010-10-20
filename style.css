@@ -331,6 +331,9 @@ div#wide_sidebar p {
   z-index: 100;
   width: 200px;
 }
+#wide_sidebar .anchor.vizzuality img {
+  border: 1px solid #fff
+}
 /*
 #wide_sidebar .anchor.alternative {
   height: 140px;
