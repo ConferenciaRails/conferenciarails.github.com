@@ -8,9 +8,9 @@ excerpt:
 layout: post
 ---
 
-h2. Here you have the final Schedule
+h2. Here you are the final Schedule
 
-We hope you like what we have prepared, we have made our best you give you the most awesome conference possible.
+We hope you like what we have prepared. We have made our best you give you the most awesome conference possible. 
 
 |_(times). |_(day track).Wednesday 3rd                           |_(day track).Thursday 4th                                   |_(day track).Friday 5th                                     |
 |_.     |(workshop).WORKSHOPS                                    |(secondary).DAY 1                                           |(secondary).DAY 2                                           |
