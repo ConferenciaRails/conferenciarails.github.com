@@ -26,5 +26,5 @@ We hope you like what we have prepared, we have made our best you give you the m
 |16:30  |  %(speakers)Jessie Shternshus%   	                     | Derailed Cucumber %(speakers)Alan Kennedy & Borja Arias%   | Documenting From The Trenches %(speakers)Xavier Noria%     |
 |17:30  | Process Automation                                     | CQRS Diet %(speakers)Luismi Cavallé%                       | Simple Data Visualization with JS %(speakers)Eli Kroumova% |
 |18:30  | %(speakers)Jorge Dias%                                 | Lightning Talks		                                      | Rails is not Enough %(speakers)Javier Ramírez%             |
-|19:30  | "#rejectconf":https://rejectconf.jottit.com/           |_.                                                          |_. Party!                                                   |
+|19:30  | "#rejectconf":https://rejectconf.jottit.com/           |_. Party!                                                   |_.                                                          |
 
