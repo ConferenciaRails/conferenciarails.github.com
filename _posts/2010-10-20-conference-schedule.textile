@@ -21,10 +21,16 @@ We hope you like what we have prepared, we have made our best you give you the m
 |11:30	|_. Break                                                | To Localise or not to Localise, that is the question %(speakers)Elizabeth Sánchez, Carlos Hernández% | Swallowing the Pair Programming Pill %(speakers)Jim 'Big Tiger' Remsik% |
 |12:30  | Compass and the 960 Framework                          |_. Coffee Break                                             |_. Coffee Break                                             |
 |13:00  | %(speakers)Juanjo Andrés Prado%                        | Meet CouchDB %(speakers)Esti Álvarez%                      | Neo4j %(speakers)Pablo A. Delgado%                         |
-|14:00  | Pause for meal                                         | Node.js & Ruby %(speakers)Christian Kvalheim%              | HTML5 WebSockets & Ruby %(speakers)Pedro Palazón%          |
+|14:00  |_. Pause for meal                                         | Node.js & Ruby %(speakers)Christian Kvalheim%              | HTML5 WebSockets & Ruby %(speakers)Pedro Palazón%          |
 |15:00  | Improving Teamwork For Techies                         |_. Lunch                                                    |_.	Lunch                                                  |
 |16:30  |  %(speakers)Jessie Shternshus%   	                     | Derailed Cucumber %(speakers)Alan Kennedy & Borja Arias%   | Documenting From The Trenches %(speakers)Xavier Noria%     |
 |17:30  | Process Automation                                     | CQRS Diet %(speakers)Luismi Cavallé%                       | Simple Data Visualization with JS %(speakers)Eli Kroumova% |
 |18:30  | %(speakers)Jorge Dias%                                 | Lightning Talks		                                      | Rails is not Enough %(speakers)Javier Ramírez%             |
-|19:30  | "#rejectconf":https://rejectconf.jottit.com/           |_. Party!                                                   |_.                                                          |
+|evening  | unofficial "#rejectconf":https://rejectconf.jottit.com/           |_. Supper & Party!                                                   |_.                                                          |
+
+h2. more details to come
+
+We know you want to know more about the talks and the speakers, so we are already working in the information pages for every talk/workshop. We will be updating the schedule above with links to the corresponding pages within the next few days.
+
+Also, if you are wondering how to get to Thursday's  supper/party don't worry. We have arranged for some buses to take us there directly from the conference venue.
 
