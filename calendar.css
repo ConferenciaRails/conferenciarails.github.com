@@ -34,7 +34,7 @@ th.day {
 table {
   table-layout:fixed;
   border-spacing:4px;
-  
+
 }
 
 .times { width:7%; }
@@ -134,9 +134,10 @@ a.title:hover {
 }
 
 .speakers {
+  color: black;
   display:block;
   font-weight:normal;
-  font-style:italic;
+  font-style:normal;
   margin-top:2px;
 }
 
@@ -154,5 +155,4 @@ img.avatar {
   -moz-box-shadow: 0px 0px 3px #444;
   -webkit-box-shadow: 0px 0px 3px #444;
 }
-
 
