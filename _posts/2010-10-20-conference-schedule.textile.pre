@@ -1,0 +1,17 @@
+---
+title: Talks preview
+categories:
+  - conference
+excerpt:
+  Catch the early bird tickets until midnight on the 8th of October!
+layout: post
+---
+
+h2. Here you have the final Schedule
+
+|_(times). |_(day track).Wednesday 3rd                                |_(day track).Thursday 4                               |_(day track).Friday 5                                                    |
+|_.        |(workshop).WORKSHOPS                                      |(secondary).DAY 1                                     |(secondary).DAY 2                                                        |
+|8:00      |_.                                                        |_. IDs and Coffee & Breakfast                         |_.                                                                       |
+|9:00      |_.                                                        |_. Welcome                                            |_. IDs and Coffee & Breakfast                                            |
+|9:30      | Speed up your application via caching <br />Jordi Romero | How do I do what I do? (and why) %.speakers Raúl Murciano% | Powerful UX <br /> Lori M. Olson                                  |
+|10:30     |                                                          | Dexy <br /> Ana Nelson                               | Geospatial capabilities in Ruby <br/> Javier de la Torre, Fernando Blat |

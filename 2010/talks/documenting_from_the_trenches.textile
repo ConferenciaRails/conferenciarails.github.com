@@ -6,40 +6,27 @@ categories:
 excerpt:
   Xavier's talk
 layout: 
-  page
+  talk
+
+profile:
+  name: Xavier Noria
+  twitter: fxn
+  url: http://www.hashref.com/
+  avatar: http://www.gravatar.com/avatar/7223c62b7310e164eb79c740188abbda 
+  description: |
+    He spends most of his spare time working in Open Source projects, writing code, docs, helping in mailing lists or IRC, etc.
+
+    He has been into Perl for some years and is a CPAN author, former leader of Barcelona.pm, and teach a Perl semester at the University of Barcelona.
+
+    He has been around Rails since 2005 and is a Rails committer, member of the Rails Documentation Team, and the guy behind Rails Contributors.
+
+    Also honored to have been presented a Ruby Hero Award in RailsConf 2010, held in Baltimore, and to be the president of the Spanish Ruby Users Group, which organised the European Ruby Conference 2009 (EuRuKo 2009), held in Barcelona.
+
 ---
-
-h1. Documenting from the trenches
-
-<div class="brief">
 
 This is a talk about documentation, why is it important, why is it hard, we'll discuss some myths and reflect about this topic.
 
 Ruby is a very dynamic language, this complicates things quite a bit, we'll see specific issues depicted with examples from the Rails API.
 
 We'll also explain what is docrails, what's going on in this aspect of the Rails project, ideas for the future, and how people can contribute to the Rails documentation.
-
-</div>
-<div class="bio">
-<div class="card">
-<div class="avatar" id="fxn"></div>
-<div class="speaker-links">
-
-* "Home page":http://www.hashref.com/
-* "@fxn":http://www.twitter.com/fxn
-
-</div>
-</div>
-h3. Xavier Noria
-
-He spends most of his spare time working in Open Source projects, writing code, docs, helping in mailing lists or IRC, etc.
-
-He has been into Perl for some years and is a CPAN author, former leader of Barcelona.pm, and teach a Perl semester at the University of Barcelona.
-
-He has been around Rails since 2005 and is a Rails committer, member of the Rails Documentation Team, and the guy behind Rails Contributors.
-
-Also honored to have been presented a Ruby Hero Award in RailsConf 2010, held in Baltimore, and to be the president of the Spanish Ruby Users Group, which organised the European Ruby Conference 2009 (EuRuKo 2009), held in Barcelona.
-
-</div>
-
 

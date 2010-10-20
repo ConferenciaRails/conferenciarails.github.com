@@ -1,0 +1,29 @@
+---
+title: A process automation workshop
+categories:
+  - conference
+  - talk
+excerpt:
+  Jorge's workshop
+layout: 
+  talk
+
+profile:
+  name: Jorge Dias
+  twitter: dias_jorge
+  url: http://mrdias.com/
+  avatar: http://www.gravatar.com/avatar/84687433fbeed3d44d0298b7032f9780
+  description: |
+    Jorge is Venezuelan and has a Computer Engineering degree from Universidad Simón Bolívar. 
+    
+    After graduation he worked for some consulting companies as a J2EE developer in the insurance and banking industry. 
+    
+    Thanks to a friend he met Ruby on Rails back in 2007 and immediately felt in love with it. He dropped the suit and started working with ruby full time since then. 
+    
+    He's a big fan of Behaviour Driven Development and always looking for ways to improve the quality of his work.
+
+---
+
+During the workshop the assistants will understand the motivations to create your own tools and how fun it can be. Examples would be provided of some tools I've developed through the years to help me work better. Automating git workflows, several useful rails tasks, a command line tool to use "Redmine" and also some examples on how to automate the use of gitorious and/or other sites using tools like "Mechanize", "Httparty", etc.
+
+The idea is that after the workshop, the assistants will see all the opportunities that the shell has to offer to us and how it can help us become better programmers. We should not just take tools for granted and as something we merely use but  we should create our own tools and see it as an opportunity to improve our abilities as craftsmen. Like painters create their own colors to make their beautiful paints, we should create our own tools to help us create that beautiful code we all love

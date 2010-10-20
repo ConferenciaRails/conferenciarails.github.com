@@ -1,0 +1,26 @@
+---
+title: 
+categories:
+  - conference
+  - talk
+excerpt:
+  Eli's talk
+layout: 
+  talk
+
+profile:
+  name: Eli Kroumova
+  twitter: _elika
+  url: http://www.efaber.net/
+  avatar: http://www.gravatar.com/avatar/46a180afb16df18586bc011ee3ac61b7
+  description: |
+    A couple of paragraph's as author bio.
+
+---
+
+Creating useful and usable visual representation of a set of data is in general a difficult task involving knowledge of math, programming and probably some statistics and design.
+
+Nevertheless, on the web there are many situations where we only need a simple chart to represent our data. When this is the case we can use any of the plenty of JavaScript libraries available out there for rendering numerical data into interactive visualization.
+
+In this talk we will see how to use two of these libraries, Raphaël (http://raphaeljs.com/) and ProtoVis(http://vis.stanford.edu/protovis/) to convert a table with numbers into interactive chart. Both libraries use a SVG object to represent the data but differ in the way this object is created.
+

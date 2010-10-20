@@ -1,0 +1,22 @@
+---
+title: 
+categories:
+  - conference
+  - talk
+excerpt:
+  Author's talk|workshop
+layout: 
+  talk
+
+profile:
+  name: Author Name
+  twitter: twittername
+  url: http://www.author.com/
+  avatar: http://www.gravatar.com/avatar/<email_md5_hash>
+  description: |
+    A couple of paragraph's as author bio.
+
+---
+
+The text of the proposal.
+

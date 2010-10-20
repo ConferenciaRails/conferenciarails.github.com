@@ -672,13 +672,4 @@ section#content .bio img, section#content .bio div.avatar{
   width: 80px;
   height: 80px;
   margin-bottom:1em;
-  -webkit-box-shadow: 3px 3px 6px rgba(0,0,0,.60);
-  -moz-box-shadow: 3px 3px 6px rgba(0,0,0,.60);
-  box-shadow: 3px 3px 6px rgba(0,0,0,.60);
 }
-
-section#content div.avatar#fxn {
-  background: url('http://www.gravatar.com/avatar/7223c62b7310e164eb79c740188abbda') no-repeat top left; 
-}
-
-
