@@ -21,6 +21,7 @@ We hope you like what we have prepared, we have made our best you give you the m
 |11:30	|_. Break                                                | To Localise or not to Localise, that is the question %(speakers)Elisabeth Sánchez, Carlos Hernández% | Swallowing the Pair Programming Pill %(speakers)Jim 'Big Tiger' Remsik% |
 |12:30  | Compass and the 960 Framework                          |_. Coffee Break                                             |_. Coffee Break                                             |
 |13:00  | %(speakers)Juanjo Andrés Prado%                        | Meet CouchDB %(speakers)Esti Alvarez%                      | Neo4j %(speakers)Pablo A. Delgado%                         |
+|14:00  | Pause for meal                                         | Node.js & Ruby %(speakers)Christian Kvalheim%              | HTML5 WebSockets & Ruby %(speakers)Pedro Palazón%          |
 |15:00  | Improving Teamwork For Techies                         |_. Lunch                                                    |_.	Lunch                                                  |
 |16:30  |  %(speakers)Jessica Shtemshus%   	                     | Derailed Cucumber %(speakers)Alan Kennedy & Borja Arias%   | Documenting From The Trenches %(speakers)Xavier Noria%     |
 |17:30  | Process Automation                                     | CQRS Diet %(speakers)Luismi Cavallé%                       | Simple Data Visualization with JS %(speakers)Eli Kroumova% |
