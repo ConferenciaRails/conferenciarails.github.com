@@ -12,21 +12,21 @@ h2. Here you are the final Schedule
 
 We hope you like what we have prepared. We have made our best you give you the most awesome conference possible. 
 
-|_(times). |_(day track).Wednesday 3rd                           |_(day track).Thursday 4th                                   |_(day track).Friday 5th                                     |
-|_.     |(workshop).WORKSHOPS                                    |(secondary).DAY 1                                           |(secondary).DAY 2                                           |
-|8:00   |_.                                                      |_. IDs and Coffee & Breakfast                               |_.                                                          |
-|9:00   |_.                                                      |_. Welcome                                                  |_. IDs and Coffee & Breakfast                               |
-|9:30   | Speed up your application via caching                  | How do I do what I do? (and why) %(speakers)Raúl Murciano% | Powerful UX %(speakers)Lori M. Olson%                      |
-|10:30  | %(speakers)Jordi Romero%                               | Dexy %(speakers)Ana Nelson%                                | Geospatial capabilities in Ruby %(speakers)Javier de la Torre, Fernando Blat% |
-|11:30	|_. Break                                                | To Localise or not to Localise, that is the question %(speakers)Elizabeth Sánchez, Carlos Hernández% | Swallowing the Pair Programming Pill %(speakers)Jim 'Big Tiger' Remsik% |
-|12:30  | Compass and the 960 Framework                          |_. Coffee Break                                             |_. Coffee Break                                             |
-|13:00  | %(speakers)Juanjo Andrés Prado%                        | Meet CouchDB %(speakers)Esti Álvarez%                      | Neo4j %(speakers)Pablo A. Delgado%                         |
-|14:00  |_. Pause for lunch                                         | Node.js & Ruby %(speakers)Christian Kvalheim%              | HTML5 WebSockets & Ruby %(speakers)Pedro Palazón%          |
-|15:00  | Improving Teamwork For Techies                         |_. Lunch                                                    |_.	Lunch                                                  |
-|16:30  |  %(speakers)Jessie Shternshus%   	                     | Derailed Cucumber %(speakers)Alan Kennedy & Borja Arias%   | Documenting From The Trenches %(speakers)Xavier Noria%     |
-|17:30  | Process Automation                                     | CQRS Diet %(speakers)Luismi Cavallé%                       | Simple Data Visualization with JS %(speakers)Eli Kroumova% |
-|18:30  | %(speakers)Jorge Dias%                                 | Lightning Talks		                                      | Rails is not Enough %(speakers)Javier Ramírez%             |
-|evening  | unofficial "#rejectconf":https://rejectconf.jottit.com/           |_. Supper & Party!                                                   |_.                                                          |
+|_(times). |_(day track).Wednesday 3rd                                       |_(day track).Thursday 4th                                              |_(day track).Friday 5th                                                                                 |
+|_.     |(workshop).WORKSHOPS                                                |(secondary).DAY 1                                                      |(secondary).DAY 2                                                                                       |
+|8:00   |_.                                                                  |_. IDs and Coffee & Breakfast                                          |_.                                                                                                      |
+|9:00   |_.                                                                  |_. Welcome                                                             |_. IDs and Coffee & Breakfast                                                                           |
+|9:30   | Speed up your application via caching                              | How do I do what I do? (and why) %(speakers)Raúl Murciano%            | Powerful UX %(speakers)Lori M. Olson%                                                                  |
+|10:30  | %(speakers)Jordi Romero%                                           | Dexy %(speakers)Ana Nelson%                                           | Geospatial capabilities in Ruby %(speakers)Javier de la Torre, Fernando Blat%                          |
+|11:30	|_. Break                                                            | To Localise or not to Localise, that is the question %(speakers)Elizabeth Sánchez, Carlos Hernández% | Swallowing the Pair Programming Pill %(speakers)Jim 'Big Tiger' Remsik% |
+|12:30  | Compass and the 960 Framework                                      |_. Coffee Break                                                        |_. Coffee Break                                                                                         |
+|13:00  | %(speakers)Juanjo Andrés Prado%                                    | "Meet CouchDB":2010/talks/meet_couch_db.html %(speakers)Esti Álvarez% | Neo4j %(speakers)Pablo A. Delgado%                                                                     |
+|14:00  |_. Pause for lunch                                                  | Node.js & Ruby %(speakers)Christian Kvalheim%                         | HTML5 WebSockets & Ruby %(speakers)Pedro Palazón%                                                      |
+|15:00  | Improving Teamwork For Techies                                     |_. Lunch                                                               |_. Lunch                                                                                                |
+|16:30  |  %(speakers)Jessie Shternshus%   	                                 | Derailed Cucumber %(speakers)Alan Kennedy & Borja Arias%              | "Documenting From The Trenches":2010/talks/documenting_from_the_trenches.html %(speakers)Xavier Noria% |
+|17:30  | "Process Automation":2010/talks/a_process_automation_workshop.html | CQRS Diet %(speakers)Luismi Cavallé%                                  | Simple Data Visualization with JS %(speakers)Eli Kroumova%                                             |
+|18:30  | %(speakers)Jorge Dias%                                             | Lightning Talks		                                                 | Rails is not Enough %(speakers)Javier Ramírez%                                                         |
+|evening  |_. unofficial "#rejectconf":http://rejectconf.jottit.com/         |_. Supper & Party!                                                     |_.                                                                                                      |
 
 h2. more details to come
 

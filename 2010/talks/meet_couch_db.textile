@@ -1,0 +1,36 @@
+---
+title: Meet CouchDB
+categories:
+  - conference
+  - talk
+excerpt:
+  Esti's talk|workshop
+layout: 
+  talk
+
+profile:
+  name: Esti Álvarez
+  twitter: esti
+  url: http://www.efaber.net/
+  avatar: http://www.gravatar.com/avatar/4239a6aeac547b6eed7a442700e592ef
+  description: |
+    Esti Álvarez is software developer and partner at eFaber, an open source based technology consulting company that is proudly turning 10 years old in 2010. 
+
+    eFaber's activity consist mainly of developing web applications with Ruby on Rails and being updated of new technologies that come up, that's why they are now using CouchDB and digging into the world of mobile applications development, among another hundreds of things.
+
+    When she's not working, she's usually either taking pictures, hacking, exercising at the gym or tweeting as @esti
+
+    In her previous life she was a physicist, who played with Christallography and X-Ray diffraction, so she can safely be called an "intruder" in the Meneame slang ;-)
+
+---
+
+Relational databases are great when you have a well defined, consistent and pre-designed set of data or at least you have the possibility of changing it at your will. 
+
+In other words, when you are Ed Harris in "The Truman Show" and you can manage all the characters in your play and all the relationships among them to achieve the behaviour you need. But your web application is probably not a close ecosystem anymore; you are probably harnessing the power of the cloud using data from a third party, or you want to combine it with data comming from other sources, like a legacy CRM, which probably don't fit in the schema you had prepared for them.
+
+Replication and data decentralization is another issue that presents non-trivial challenges in relational databases. For example, as mobile devices become more popular, you may want to have part of your application work in those devices with the security that everything will be synchronized correctly.
+
+CouchDB is a non-relational Document Oriented Database that promisses to solve all these problems. It allows you to store a relatively large amount of unstructured data emphasizing in scalability, consistency and replication, in exchange of some performance punishment, all told.
+
+In this talk we will give an overview of CouchDB and the alternatives to integrate it with our Rails application and explain scenarios when we might need it. We will also show a real use case where we combine web server access logs, live video-streaming server logs and tweets to determine in real time what's hot and what's not during a live streamed interview.
+
