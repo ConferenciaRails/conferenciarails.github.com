@@ -1,0 +1,24 @@
+---
+title: Make your models lose weight with the CQRS Diet
+categories:
+  - conference
+  - talk
+excerpt:
+  Luis Miguel Cavallé's talk|workshop
+layout:
+  talk
+
+profile:
+  name: Luis Miguel
+  twitter: cavalle
+  url: http://www.lmcavalle.com
+  avatar: http://www.gravatar.com/avatar/8a8d65bb7cec6df5ee7383532145b400
+  description: |
+    A couple of paragraph's as author bio.
+
+---
+
+Command-Query Responsibility Segregation (CQRS) is an architectural pattern that promises to improve the maintainability, performance and scalability of your applications by helping to separate concerns in your system.
+
+This pattern, along with Event Sourcing and other Domain-Driven Design ideas, is gaining increased popularity, particularly among developers building solutions for rich / complex domains.
+

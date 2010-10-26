@@ -1,0 +1,30 @@
+---
+title: Rails is not enough
+categories:
+  - conference
+  - talk
+excerpt:
+  Javier Ramirez's talk|workshop
+layout:
+  talk
+
+profile:
+  name: Javier Ramirez
+  twitter: supercoco9
+  url: http://www.author.com/
+  avatar: http://www.gravatar.com/avatar/64daf88568a1db6a39dc9e6657e3e095
+  description: |
+    A couple of paragraph's as author bio.
+
+---
+
+We rails people tend to think of Rails as the center-piece of web development. The same thing can be said of .net, Spring/Java Server Faces, Drupal, Python or name-your-web-framework-of-choice-here people.
+
+Web frameworks are just a component of web applications, and if you want to succeed you better know the miriads of other components beyond your rockstar code.
+
+In my session I will talk about things you must take into account and tools/techniques you should master if you want to make a difference in web development.
+
+I want to talk about topics like web standards, SEO, analytics, content delivery networks, caching, compressing, queuing, knowing your http, deploy automation, backup and emergency plans, clustering, dividing and scaling, graceful degradation in the event of heavy traffic, knowing your users and having a conversation with them, monitoring the health of your application, deciding what to develop and what to throw away, testing your hypothesis
+
+Obviously I wouldn't cover any of those topics deeply, and maybe I wouldn't even cover them all; I just want to put Rails in perspective and help developers remember than the web is much bigger than your framework, and that there are a lof of other things to think of when thinking of making the next-freaking-web.
+
