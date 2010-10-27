@@ -115,24 +115,22 @@ header.layout h2#motto span {
   color: #9C0; 
 }
 
+
 header.layout nav ol {
   width: 397px; height: 22px;
   position: absolute; top: 0px; right: 20px;
   padding-top: 5px;
   background: transparent url('assets/presentation/navigation.gif') no-repeat top left;
 }
-
 header.layout nav ol li {
   float: left;
-  margin-right: 30px; padding-left: 30px;
+  margin-right: 20px; padding-left: 20px;
   background: transparent url('assets/presentation/dot.gif') no-repeat 0 6px;
 }
-
 header.layout nav ol li.first {
-  margin-left: 20px; padding-left: 30px;
+  margin-left: 20px; padding-left: 10px;
   background: none;
 }
-
 header.layout nav ol li a {
   display: block;
   height: 18px;
@@ -142,21 +140,24 @@ header.layout nav ol li a#nav_call_for_papers {
   width: 93px;
   background: transparent url('assets/presentation/call_for_papers.gif') no-repeat top left;
 }
-
 header.layout nav ol li a#nav_registration {
   width: 75px;
   background: transparent url('assets/presentation/early_bird_registration.gif') no-repeat top -61px;
 }
-
+header.layout nav ol li a#nav_schedule {
+  width: 58px;
+  background: transparent url('assets/presentation/schedule.gif') no-repeat top left;
+}
 header.layout nav ol li a#nav_blog {
   width: 29px;
   background: transparent url('assets/presentation/blog.gif') no-repeat top left;
 }
-
 header.layout nav ol li a#nav_contact {
   width: 51px;
   background: transparent url('assets/presentation/contact.gif') no-repeat top left;
 }
+
+
 
 header.layout div#twitter_stream {
   width: 320px;
