@@ -144,8 +144,8 @@ header.layout nav ol li a#nav_call_for_papers {
 }
 
 header.layout nav ol li a#nav_registration {
-  width: 139px;
-  background: transparent url('assets/presentation/early_bird_registration.gif') no-repeat top left;
+  width: 75px;
+  background: transparent url('assets/presentation/early_bird_registration.gif') no-repeat top -61px;
 }
 
 header.layout nav ol li a#nav_blog {
