@@ -11,7 +11,7 @@ h2. The workshops last year were a great success, we'd like to try and have a re
 
 The link to registration for each of the workshops is here:
 
-http://conferenciarails.stagehq.com/events/468/booking/new:"Register for the Conferencia Rails 2010 Workshops".
+"Register for the Conferencia Rails 2010 Workshops":http://conferenciarails.stagehq.com/events/468/booking/new.
 
 Please add a ticket for each of the workshops you'd like to attend. Due to the limited space, we do ask you to only reserve a space if you're sure you can make it.
 
