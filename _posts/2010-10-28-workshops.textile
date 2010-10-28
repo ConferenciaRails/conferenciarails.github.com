@@ -1,0 +1,21 @@
+---
+title: Workshop Registration
+categories:
+  - conference
+excerpt:
+  Workshop places are limited, so please register if you'd like to go this year.
+layout: post
+---
+
+h2. The workshops last year were a great success, we'd like to try and have a repeat this year. Unfortunately space is limited so we kindly ask you to register with "StageHQ":http://stagehq.com again to have an idea for the number of people in each workshop.
+
+The link to registration for each of the workshops is here:
+
+http://conferenciarails.stagehq.com/events/468/booking/new:"Register for the Conferencia Rails 2010 Workshops".
+
+Please add a ticket for each of the workshops you'd like to attend. Due to the limited space, we do ask you to only reserve a space if you're sure you can make it.
+
+We regret to inform that Jordi Romero had to cancel his workshop on "Speeding up your application via caching" due to a sudden surge of work at "Teambox":http://www.teambox.com. Jordi will be missed, but we're glad to hear their Rails startup is going well! Given the short amount of time remaining we've decided to leave this space blank and start a little bit later. (If you have a workshop already prepared that you think others would enjoy, please "get in touch":mailto:info@conferenciarails.org ASAP!)
+
+We look forward to seeing you in the workshops next week, and let us know if you have any problems registering.
+
