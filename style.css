@@ -660,6 +660,9 @@ section#content .bio p {
   text-align: justify;
   padding-right: 25%;
 }
+section#content .bio a:hover,section#content .brief a:hover {
+    text-decoration: underline;
+}
 section#content .bio div.speaker-links a{
   color: #9C0
 }
