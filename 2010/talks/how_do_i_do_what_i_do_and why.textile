@@ -1,0 +1,39 @@
+---
+title: How do I do what I do? (and why)
+categories:
+  - conference
+  - talk
+excerpt:
+  Raul Murciano's talk
+layout:
+  talk
+
+profile:
+  name: Raul Murciano
+  twitter: happywebcoder
+  url: http://raul.murciano.net/
+  avatar: http://www.gravatar.com/avatar/348246701cfdb2130b842fd839751a18
+  description: |
+    <!-- A couple of paragraph's as author bio. -->
+
+---
+
+I always love to see how other people work: we all have small tips and habits that help us to work less, better, and to be happier in our daily work.
+
+Thinking that other people may find it interesting too, with this talk I'd like to share what my daily workflow is and why I'm doing things this way, including aspects like:
+
+   * Development process
+   * Coding workflow
+   * Working remotely
+   * Being a freelance
+   * Clients & team relationship
+   * Productivity tips
+   * Toolchain
+   * Dealing with online & offline worlds
+   * Personal & professional development
+   * Life/work balance
+
+I also published as a gist, so people can suggest more topics: http://gist.github.com/604195
+
+Hope you like it!
+

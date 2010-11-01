@@ -31,8 +31,22 @@
             </ul>
           </div>
           </div>
+          <div class="bio">
             <h3>{{ page.profile.name }}</h3>
             {{ page.profile.description | textilize }}
+          </div>
+          <div class="card">
+            <img src="{{page.profile.avatar2}}" />
+            <br clear="both" />
+          <div class="speaker-links">
+            <ul>
+              <li><a href="{{ page.profile.url2 }}">Home Page</a></li>
+              <li><a href="http://twitter.com/{{ page.profile.twitter2 }}">@{{ page.profile.twitter2 }}</a></li>
+            </ul>
+          </div>
+          </div>
+            <h3>{{ page.profile.name2 }}</h3>
+            {{ page.profile.description2 | textilize }}
           </div>
         </article>
       <!-- ↥ #content ↥ -->

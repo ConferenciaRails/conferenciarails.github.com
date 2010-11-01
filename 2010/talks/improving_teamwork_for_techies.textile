@@ -1,0 +1,43 @@
+---
+title: Improv*ing Teamwork for Techies
+categories:
+  - conference
+  - workshop
+excerpt:
+  Jessie Shternshus's workshop
+layout:
+  talk
+
+profile:
+  name: Jessie Shternshus
+  twitter: theimproveffect
+  url: http://www.improveffect.com/
+  avatar: http://www.gravatar.com/avatar/8ab4800b02b7db38d660adab5fedd353
+  description: |
+    As the founder and owner of The IMPROV EFFECT, Jessie weds her lifelong passion for and expertise in improvisational acting with the fast paced demands of the corporate world. In her classes and workshops she helps people become better listeners, team players, leaders, and communicators. Her physically engaging and playful workshops are relevant to all fields of life; among her students you can find college professors, engineers, computer programmers, and advertisers. Jessie has trained and taught improvisation techniques in New York City, Tampa, and Jacksonville, as well as studied film and television acting at NYU. Throughout her career she has worked with companies such as CBS, Paramount Pictures, MTV and Sesame Workshop.
+
+---
+
+h3. Description:
+
+This original and experiential workshop is a journey through the principles of improvisational acting and its real-world life-changing applications.  See, practice and understand how to become a better team member by learning to:
+
+* Hone your listening skills
+* Embrace changes
+* Express your ideas without worring about your inner critic
+* Create an open and creative environment
+* Bring humor to your work
+
+Join us to find out why improv is becoming the hottest trend in the business!
+
+h3. Why this topic:
+
+When you stop to think about it, working with Ruby on Rails is a lot like improv acting:
+
+Teamwork and collaboration stand at the base.  Being able to bounce ideas from one head to another is a must, as well as being open to change.  Creativity is key.
+
+By learning and practicing some improv acting exercises – and with the right briefing and debriefing – developers can better understand and improve the essential skills for productive collaboration.
+
+The unlikely marriage of improv training and Ruby on Rail already proved itself to be extremely successful and beneficial in international conferences and businesses. This workshop is perfect for Conferencia Rails.
+References available upon request.
+
