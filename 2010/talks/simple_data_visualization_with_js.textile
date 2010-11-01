@@ -14,8 +14,7 @@ profile:
   url: http://www.efaber.net/
   avatar: http://www.gravatar.com/avatar/46a180afb16df18586bc011ee3ac61b7
   description: |
-    <!-- A couple of paragraph's as author bio. -->
-
+      I am working as a web developer since more than 12 years ago. I have started with PHP/FI then I have worked with Perl and after joining the eFaber team I have been developing web applications using openACS and Ruby on Rails.
 ---
 
 Creating useful and usable visual representation of a set of data is in general a difficult task involving knowledge of math, programming and probably some statistics and design.

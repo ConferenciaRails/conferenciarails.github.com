@@ -1,0 +1,32 @@
+---
+title: Node.js & Ruby
+categories:
+  - conference
+  - talk
+excerpt:
+  Christian Kvalheim's talk
+layout:
+  talk
+
+profile:
+  name: Christian Kvalheim
+  twitter: christkv
+  url: http://christiankvalheim.com/
+  avatar: http://www.gravatar.com/avatar/a132807512f576d8b2394a7a8b0379a0
+  description: |
+      I have been coding since the days of C64 and then slowly migrating up the stack of abstraction to those high level languages we have all come to love. Recently I find myself migrating down the stack again towards the machine when I got fascinated by evented programming using node.js and ruby.
+
+      I'm currently team lead for Xing's Spanish office based in Barcelona and when I'm not doing managerial stuff I'm digging into ideas around optimizing our application platform. I have also published "a mongodb driver for node.js":http://github.com/christkv/node-mongodb-native and I'm currently trying my hand at writing a distributed file system in google go. Before this I got a ton of years behind me doing ruby, java, erlang etc.
+
+---
+
+The idea is to give an introduction to evented development using node.js and then focus on how to accomplish this using ruby.
+
+The outline would look like this
+
+* Contrast and Compare evented development against thread based development
+* Introduce node.js and why it's causing a stir
+* Introduce eventmachine
+* Talk about a practical stack to deploy a rails app and how the parts hook together
+* Round out the presentation with Pro's and Con's
+

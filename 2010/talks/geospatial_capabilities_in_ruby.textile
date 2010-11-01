@@ -1,0 +1,29 @@
+---
+title: Geospatial capabilities in Ruby
+categories:
+  - conference
+  - talk
+excerpt:
+  Javier de la Torre and Fernando Blat's talk
+layout:
+  talk2
+
+profile:
+  name: Javier de la Torre
+  name2: Fernando Blat
+  twitter: jatorre
+  twitter2: ferblape
+  url: http://www.vizzuality.com
+  url2: http://www.inwebwetrust.net
+  avatar: http://a1.twimg.com/profile_images/1151342293/jatorre_japan_times_twitter_bigger.jpg
+  avatar2: http://www.gravatar.com/avatar/89e7c8b162c71e9905fbfe7d2ec376dc
+  description: |
+
+  description2: |
+
+---
+
+In the last 2 years there has been a great development on geospatial technologies. Every new project now needs to geolocate their users, their features, etc. Twitter is geolocated, Foursquare is geolocated, Facebook is geolocated, your application can be too!
+
+In the Ruby world there is a lot of geospatial projects available: GeoRuby, Fusion Tables, GeoCouch, etc. We will be presenting some of this technologies and how to apply it to a Ruby on Rails project. ProtectedPlanet.net will be used as an example on how to use Rails to save the planet with a bit of geospatial technology.
+

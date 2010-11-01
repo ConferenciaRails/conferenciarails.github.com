@@ -1,0 +1,35 @@
+---
+title: Neo4j
+categories:
+  - conference
+  - talk
+excerpt:
+  Pablo A. Delgado's talk
+layout:
+  talk
+
+profile:
+  name: Pablo A. Delgado
+  twitter: twittername
+  url: http://pablete.org/
+  avatar: http://www.gravatar.com/avatar/957f5fbad5778d75d82ab0fd693aada7
+  description: |
+      Pablo Delgado is software engineer currently working at XING. He previously worked at Google. He studied Mathematics in the University of London.
+      He has over +10 years experience with high-traffic websites. Current Interests include: graph algorithms, machine learning, data processing with Hadoop
+---
+
+from neo4j website:
+''Neo4j is a graph database. It is an embedded, disk-based, fully transactional Java persistence engine that stores data structured in graphs rather than in tables. A graph (mathematical lingo for a network) is a flexible data structure that allows a more agile and rapid style of development.''
+
+Neo4j allows you to map objects to nodes and relations, that is a more natural fit than mapping them to relational tables.
+Modeling with elements of a graph is substantially faster for semi­structured data (Recall that semi­structured data is data that has few mandatory but many optional attributes).
+
+Neo4j is a powerful graph database/engine that every rails developer should know.
+
+In this talk we will cover:
+
+* An overview of the technology of graph databases (particularly neo4j database)
+* How to model your world with nodes, relationships and properties.
+* How to use neo4j with jruby, neo4j-rails for ruby on rails and neo4j-rest JSON REST API/
+* Implement simple functionality for your social network site: members degrees of separation, connection path between two members, members you should know.
+

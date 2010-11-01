@@ -14,7 +14,15 @@ profile:
   url: http://kusor.tumblr.com/
   avatar: http://www.gravatar.com/avatar/a50221eef2cced62d98bdac3755e655d
   description: |
-   <!-- A couple of paragraph's as author bio.-->
+      I'm Director, Software Engineering at Joyent [http://joyent.com], working daily with Ruby since 2006 and, actually, recovering past love
+      for JavaScript due to "NodeJS":http://nodejs.org .
+
+      In the past, I worked as web developer for some Spanish companies, and contributed open source code to Textpattern CMS, being one of
+      the first members of its development team.
+
+      I live and work remotely from Murcia, Spain, with occasional oversea trips to visit teammates.
+
+      Apart of all this computers related stuff, I also like comics, playmobile and, specially, lay at the Mediterranean beaches with my girlfriend.
 
 ---
 

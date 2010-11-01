@@ -1,0 +1,36 @@
+---
+title: Powerful UX, not just for desktop apps any more
+categories:
+  - conference
+  - talk
+excerpt:
+  Lori Olson's talk
+layout:
+  talk
+
+profile:
+  name: Lori Olson
+  twitter: wndxlori
+  url: http://blog.dragonsharp.com
+  avatar: http://www.gravatar.com/avatar/b36ea58289890176b6170e382b3194fe
+  description: |
+      Tried Ruby/Rails as an alternative to further Java development 5 years ago and _never_ looked back.  I've been a software developer for over 20 years, working in object-oriented programming and design for 17 years.  One of the founders of the Calgary Ruby User Society, she has been designing and implementing web applications using Ruby on Rails, primarily for Labrador Technologies, for the last 5 years. Prior to joining Labrador, Lori worked for a variety of companies and industries, including Halliburton, IBM, IHS, and Shell Canada. She is a Sun Certified Java Programmer with over 8 years of Java, Swing, and J2EE experience.  Some of her particular areas of interest include optimizing software development processes, usage centered design, and web mapping.
+
+      Lori has frequently presented topics of interest at the Calgary Ruby User Society, and has spoken at the CodeRage and COSSFEST conferences on Ruby on Rails mapping topics, in addition to speaking at RailsConf.
+
+---
+
+h3. Description
+
+How to build your own custom UI controls, powered by jQuery, and integrate them in your Rails application.
+
+Session type: 45 minute conference session
+
+h3. Abstract
+
+How to build your own custom UI controls, powered by jQuery, and integrate them in your Rails application. In doing so, you can provide a UX that will make your users forget they are using a browser, and think they are using a desktop application.
+
+Using an example of a common desktop application idiom (add-and-remove list), we’ll walk through the steps involved in creating such a control, as used in an existing Rails application – eTriever.
+
+We’ll also cover some pitfalls and performance issues that you’ll need to consider when rolling your own custom controls.
+
