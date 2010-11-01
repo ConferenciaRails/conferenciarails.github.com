@@ -1,0 +1,38 @@
+---
+title: HTML5 WebSockets, Ruby and NodeJS
+categories:
+  - conference
+  - talk
+excerpt:
+  Author's talk
+layout:
+  talk
+
+profile:
+  name: Pedro Palazón
+  twitter: kusor
+  url: http://kusor.tumblr.com/
+  avatar: http://www.gravatar.com/avatar/a50221eef2cced62d98bdac3755e655d
+  description: |
+   <!-- A couple of paragraph's as author bio.-->
+
+---
+
+WebSockets are one of the most exciting innovations provided by HTML5. While
+the "WebSocket API":http://dev.w3.org/html5/websockets/ is still a W3C's working draft, Chrome, Safari and
+Firefox beta 4 already implement it.
+
+Bi-directional, full-duplex communication channels over TCP for web clients and
+web servers will definitely change the way we think about new possibilities for
+web applications, at the same time they bring a much better resource
+utilization.
+
+During this talk we'll describe clients and servers, by creating a basic -
+but working! - example, and review some of the existing implementations for
+both Ruby and "NodeJS":http://nodejs.org/, like "Sunshowers":http://rainbows.rubyforge.org/sunshowers/
+and "Socket.IO":http://socket.io/.
+
+We'll also keep an eye into alternative implementations to Web Sockets, like
+"Faye":http://faye.jcoglan.com/, which uses the "Bayeux":http://svn.cometd.com/trunk/bayeux/bayeux.html
+protocol and it's also available for Ruby and NodeJS.
+
