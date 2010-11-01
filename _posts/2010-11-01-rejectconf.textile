@@ -1,0 +1,17 @@
+---
+title: RejectConf
+categories:
+  - conference
+excerpt:
+  It will start at 21.30 in the basement of a place called "La corriente del golfo".
+layout: post
+---
+
+!/assets/posts/reject.jpg!:https://rejectconf.jottit.com/
+
+In case you've been living in a cave and you didn't hear yet, we wanted to let you know a group of people is organizing an *unofficial rejectconf* in *the evening of wednesday*, after the workshops. It will start *at 21.30* in the basement of a place called *"La corriente del golfo"*.
+
+You can get more info visiting *"https://rejectconf.jottit.com/":https://rejectconf.jottit.com/*
+
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=felix+boix+16&amp;ie=UTF8&amp;hl=en&amp;hq=&amp;hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&amp;t=h&amp;ll=40.463405,-3.687801&amp;spn=0.010497,0.02208&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?q=felix+boix+16&amp;ie=UTF8&amp;hl=en&amp;hq=&amp;hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&amp;t=h&amp;ll=40.463405,-3.687801&amp;spn=0.010497,0.02208&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">Go to full map</a></small>
