@@ -1,5 +1,5 @@
 ---
-title:
+title: Simple Data visualization with JS
 categories:
   - conference
   - talk
