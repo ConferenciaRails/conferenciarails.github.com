@@ -32,6 +32,9 @@ a {
   text-decoration: none;
   color: #333;
 }
+article a {
+  color: blue;
+}
 
 a.current {
   font-weight: bold;
