@@ -11,7 +11,7 @@ layout:
 profile:
   name: Javier Ramirez
   twitter: supercoco9
-  url: http://www.author.com/
+  url: http://javier-ramirez.com
   avatar: http://www.gravatar.com/avatar/64daf88568a1db6a39dc9e6657e3e095
   description: |
                Since 1995 I've been earning my salt in software development, doing this and that in different places, industries and companies, including a small java-centric shop I co-founded —and then cowardly left— some years ago.
