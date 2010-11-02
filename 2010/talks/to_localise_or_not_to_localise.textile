@@ -18,13 +18,23 @@ profile:
   avatar: http://a0.twimg.com/profile_images/310174756/DSC_6348_copia_bigger.jpg
   avatar2: http://www.gravatar.com/avatar/0cd354123bc9e80ca295e2c6457af17d
   description: |
-      Elizabeth Sánchez León is a Localisation Specialist and CEO of Skoppos Global Language Solutions.
-      Elizabeth has been working as a translation professional for more than five years. She has a degree in Translation and Interpretation from the University of Las Palmas de Gran Canaria (Spain) and now she is doing a PhD in Translation to combine it with a Master in Audiovisual Translation.
-
-      Her big interest in computer, Internet and technology world has led her to specialize in localisation (software, websites and video games) and in technical (electronics, computers, graphic design and communications, among other areas).
+      During her university training in the Translation field, Elizabeth Sánchez
+      León discovered her passion for localisation. Based in Canary Islands, she
+      has collaborated with companies like Microsoft, EA, Adobe or Quark in the
+      linguistic and cultural adaptation of their products and services for the
+      Spanish market. With more than 7 years of experience in this industry, now
+      she is focused in the creation of Skoppos, a firm devoted to make
+      companies and developers' life easier when entering a market which
+      language they do not speak.
 
   description2: |
-      Carlos Hernández Medina is Developer, CEO and Co-Founder of "Endeve":http://endeve.com
+      He loves human interfaces and simple software. He is CEO of recrea, a software
+      boutique based in Canary Islands, and specialized in Software Engineering and
+      Usability since 2000. From then on, He has carried out numerous projects for
+      public institutions and private companies. He is also cofounder and developer
+      of endeve, an online invoicing web app for business and freelancers. He is
+      fascinated by technology that makes life easier, books you can never forget
+      and a city called Berlin.
 ---
 
 We live in a globalised world where companies have to sell their products and services in the international market to make the most of their investments of time, money and resources. Especially with the current economic situation, companies of all industries are forced to become internationalized. Internet gives sotfware and web developers great opportunities and advantages. The process of translating a software or web application for different target countries or markets needs to be done with the help of specialists. The reason for that is that if the development team does not have experience or knowledge in subjects like globalisation (g11n), internationalisation (i18n) and localisation (l10n), the lack of a standarised solution could lead a project to its failure in terms of quality of the localised versions, poor sales or negative branding effects.
