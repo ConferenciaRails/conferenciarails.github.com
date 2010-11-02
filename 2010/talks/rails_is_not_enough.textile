@@ -14,7 +14,13 @@ profile:
   url: http://www.author.com/
   avatar: http://www.gravatar.com/avatar/64daf88568a1db6a39dc9e6657e3e095
   description: |
-    A couple of paragraph's as author bio.
+               Since 1995 I've been earning my salt in software development, doing this and that in different places, industries and companies, including a small java-centric shop I co-founded —and then cowardly left— some years ago.
+
+               Along these years I've delivered training on things like Robotics, Software Engineering, JAVA, PHP and Ruby on Rails. I have also participated in several workshops and     conferences talking about Ruby on Rails, plug-in and games programming, XML processing, CSS frameworks, SEO or agile development.
+
+               Apart from the occasional freelancing or training gig, I'm the CTO of ASPgems, where I've been working since 2006 developing web projects with Ruby on Rails.
+
+               I'm also the author of the book “Aptana RadRails: An IDE for Rails Development” and an active member of the local Ruby scene, being a founding member of the Spanish Rails Conference, the Spanish Ruby Users Group (SRUG) and madrid-rb, the Ruby users group in Madrid. Lately I can be seen also on the Agile Madrid group activities.
 
 ---
 
@@ -23,8 +29,4 @@ We rails people tend to think of Rails as the center-piece of web development. T
 Web frameworks are just a component of web applications, and if you want to succeed you better know the miriads of other components beyond your rockstar code.
 
 In my session I will talk about things you must take into account and tools/techniques you should master if you want to make a difference in web development.
-
-I want to talk about topics like web standards, SEO, analytics, content delivery networks, caching, compressing, queuing, knowing your http, deploy automation, backup and emergency plans, clustering, dividing and scaling, graceful degradation in the event of heavy traffic, knowing your users and having a conversation with them, monitoring the health of your application, deciding what to develop and what to throw away, testing your hypothesis
-
-Obviously I wouldn't cover any of those topics deeply, and maybe I wouldn't even cover them all; I just want to put Rails in perspective and help developers remember than the web is much bigger than your framework, and that there are a lof of other things to think of when thinking of making the next-freaking-web.
 
