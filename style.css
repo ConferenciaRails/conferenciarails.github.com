@@ -218,6 +218,18 @@ header.layout div#twitter_stream blockquote {
 	color: #9C0;
 }
 
+#content ul {
+  margin-bottom: 20px; 
+  margin-left: 20px;
+}
+#content li {
+  margin-bottom: 5px;
+  list-style-type: disc;
+  list-style-position: outside;
+  padding-left: 0px;
+  line-height: 18px;
+}
+
 #content p {
 	text-align: left;
 	line-height: 18px;
