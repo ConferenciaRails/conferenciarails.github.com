@@ -18,9 +18,15 @@ profile:
   avatar: http://www.gravatar.com/avatar/4e3833aa6153050ceb457a54dab7c2d1
   avatar2: http://www.gravatar.com/avatar/8eca15a9437d0df1b3b5a5d31f3870cb
   description: |
-      I've loved Ruby on Rails since I first tried it out in 2007, mostly because it allows quick feedback, both for the developer and the client/user. I believe that working in an Agile team, as we do at Unboxed Consulting, minimises risks. Agile practices allow the team to adapt to changes that clients may want and they also encourage close communication with the client early on in the project.
+      I've loved Ruby on Rails since I first tried it out in 2007, mostly because it allows quick feedback, both for the developer and the client/user.
+
+      I believe that working in an Agile team, as we do at Unboxed Consulting, minimises risks. Agile practices allow the team to adapt to changes that clients may want and they also encourage close communication with the client early on in the project.
+
   description2: |
-      I enjoy seeking and developing solutions to programming problems. Working at Unboxed you find yourself in the middle of a continuous flow of ideas, which is great for the creative process. In my spare time I can be seen playing basketball or running at night in the streets of London.
+
+      I enjoy seeking and developing solutions to programming problems. Working at Unboxed you find yourself in the middle of a continuous flow of ideas, which is great for the creative process.
+
+      In my spare time I can be seen playing basketball or running at night in the streets of London.
 
 ---
 
