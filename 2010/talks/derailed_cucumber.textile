@@ -1,0 +1,50 @@
+---
+title: Derailed Cucumber
+categories:
+  - conference
+  - talk
+excerpt:
+  Alan Kennedy & Borja Arias's talk
+layout:
+  talk2
+
+profile:
+  name: Alan Kennedy
+  name2: Borja Arias
+  twitter: alankennedy
+  twitter2:
+  url: http://www.unboxedconsulting.com/people/alan-kennedy
+  url2: http://www.unboxedconsulting.com/people/borja-arias
+  avatar: http://www.gravatar.com/avatar/4e3833aa6153050ceb457a54dab7c2d1
+  avatar2: http://www.gravatar.com/avatar/8eca15a9437d0df1b3b5a5d31f3870cb
+  description: |
+      I've loved Ruby on Rails since I first tried it out in 2007, mostly because it allows quick feedback, both for the developer and the client/user. I believe that working in an Agile team, as we do at Unboxed Consulting, minimises risks. Agile practices allow the team to adapt to changes that clients may want and they also encourage close communication with the client early on in the project.
+  description2: |
+      I enjoy seeking and developing solutions to programming problems. Working at Unboxed you find yourself in the middle of a continuous flow of ideas, which is great for the creative process. In my spare time I can be seen playing basketball or running at night in the streets of London.
+
+---
+
+Our presentation will at first briefly explain Cucumber for attendees new to Cucumber. Then
+we will explain two use cases of Cucumber outside Rails. One will cover lessons learnt while
+using Cucumber for Smoke testing an enterprise Java application. This Java application provisions broadband and
+telephone services, such as Telefonica in Spain (Alan Kennedy). The second part of the presentation
+will be on how to use Cucumber to test iPhone applications with iCuke (Borja Arias).
+
+The part that covers Smoke testing an enterprise Java application will cover:
+
+* Introduction to smoke testing
+* Example of an application to apply this concept (this example will be used throughout the rest of this part of the presentation)
+* How to structure the project
+* Defining your testing domain model and using it in your step definitions
+* Testing the domain model
+* Using the classes extracted from the domain model to write enhanced Cucumber reports
+* Integrating with Java by using Jruby to avoid duplication of data and test setup
+
+The second part on integration testing using iCuke (Cucumber for the iPhone) will cover:
+
+* Introduction to iCuke and how it works
+* Recorded demo video showing the available steps and how to use them
+* Pros and Cons
+* Extending iCuke (with regards to one of the cons)
+* Alternatives (Brief comparative with Apple UIAutomation)
+

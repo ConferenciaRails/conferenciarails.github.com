@@ -14,8 +14,7 @@ profile:
   url: http://www.lmcavalle.com
   avatar: http://www.gravatar.com/avatar/8a8d65bb7cec6df5ee7383532145b400
   description: |
-   <!-- A couple of paragraph's as author bio. -->
-
+      Luismi Cavallé is a Ruby developer that works at BeBanjo. He is a very active member of the Madrilean Ruby and Agile communities and has been involved as a speaker and/or organizer with Conferencia Rails, Madrid Ruby Users Group and Agile Spain Conference. He contributes to several open source projects, including Rails, and is the author of Steak, the acceptance BDD library.
 ---
 
 You probably follow the motto “skinny controller, fat model”, which is a good thing. Skinny controllers are definitely the way to go but, as your domain logic grows, it's very easy to end up with a model overweight problem, which is not so good. The issue is that your ActiveRecord objects have to deal with too many different responsibilities: validation, business rules, awareness of its own persistence, filtering...
