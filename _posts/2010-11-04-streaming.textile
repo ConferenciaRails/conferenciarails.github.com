@@ -7,7 +7,7 @@ excerpt:
 layout: post
 ---
 
-h2. Hi, we are on air
+h2. Hi, we are on the air
 
 If you want to see the streaming of the conference, you can find it "right here":http://globalplaza.org/spaces/conferencia-rails/events/conferencia-rails-2010
 
