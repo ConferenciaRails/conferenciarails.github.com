@@ -236,6 +236,9 @@ header.layout div#twitter_stream blockquote {
 	margin-bottom: 20px;
 }
 
+#content article {
+  margin-bottom: 45px;
+}
 #content article p.tags {
   height: 15px;
   margin: 2px 0 2px 0; padding: 2px 0 5px 21px;
