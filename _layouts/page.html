@@ -12,36 +12,24 @@
 
       <section id="content">
       <!-- ↓ Main Content: Big, wide left column ↓ -->
-
-        {% for post in site.posts limit:5 %}
         <article>
-          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-          {{ post.content }}
-          <p class="tags">
-            {{ post.date | date: '%A %B %e, %Y' }}. In this article we'll talk about
-            {% for category in post.categories %}
-              <a href="#">{{ category }}</a>{% if forloop.rindex == 1 %}.{% elsif forloop.rindex == 2 %} and {% else %}, {% endif %}
-            {% endfor %}
-          </p>
+          {{ content }}
         </article>
-        {% endfor %}
-
-
-      <!-- ↥ #content ↥ -->
+      <!-- ↥ #content ↥ -->  
       </section>
 
-      {% include layout/side_bars.html %}
+      {% include layout/side_bars.html %}    
 
-    <!-- ↥ #wrapper ↥ -->
+    <!-- ↥ #wrapper ↥ -->  
     </div>
 
     <footer class="layout">
-      <hr />
+      <hr />    
 
       {% include blog_stuff.html %}
 
       {% include the_team.html %}
-
+      
       <hr />
 
       {% include get_in_touch.html %}
