@@ -1,0 +1,27 @@
+---
+title: CQRS Diet
+categories:
+  - conference
+  - talk
+excerpt:
+  Luismi's talk
+layout:
+  talk
+
+profile:
+  name: Luismi Cavallé
+  twitter: cavalle
+  url: http://www.lmcavalle.com
+  avatar: http://www.gravatar.com/avatar/8a8d65bb7cec6df5ee7383532145b400
+  description: |
+      Luismi Cavallé is a Ruby developer that works at BeBanjo. He is a very active member of the Madrilean Ruby and Agile communities and has been involved as a speaker and/or organizer with Conferencia Rails, Madrid Ruby Users Group and Agile Spain Conference. He contributes to several open source projects, including Rails, and is the author of Steak, the acceptance BDD library.
+---
+
+You probably follow the motto “skinny controller, fat model”, which is a good thing. Skinny controllers are definitely the way to go but, as your domain logic grows, it's very easy to end up with a model overweight problem, which is not so good. The issue is that your ActiveRecord objects have to deal with too many different responsibilities: validation, business rules, awareness of its own persistence, filtering...
+
+Command-Query Responsibility Segregation (CQRS) is an architectural pattern that promises to improve the maintainability, performance and scalability of your applications by helping to separate concerns in your system. This pattern, along with Event Sourcing and other Domain-Driven Design ideas, is gaining increased popularity, particularly among developers building solutions for rich / complex domains.
+
+This talk will introduce these concepts and show different ways we can (re)architect our Rails application in order to get their benefits. From a simple implementation using just the "tools in the room" to a implementation "in all its full glory" using NoSQL data stores and messaging queues.
+
+All those who have a Rails projects complex enough to abuse of model callbacks, de-normalize the database or use presenter objects, may get benefits in terms of simplicity and maintainability from implementing the ideas I'll present in this talk.
+

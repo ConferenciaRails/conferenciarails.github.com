@@ -1,30 +1,24 @@
 ---
-title: Places and ways to go
+title: Places and Ways to Get to the Conference
 categories:
   - conference
 excerpt:
-  Places
+  Conference locations and ways to get to them.
 layout: post
 ---
 
+h2. A quick list of the conference locations and the best ways to get to them.
 
-The best way to go to Conferencia Rails is by "Metro":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.44355,-3.726833&spn=0.00525,0.01104&z=17&iwloc=0004941883488873df39f
+* The best way to get to the conference is by "Metro":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.44355,-3.726833&spn=0.00525,0.01104&z=17&iwloc=0004941883488873df39f.
+* You can use this "public service":http://www.metromadrid.es/en/index.html?rbDestino=estacion&idDestino=622 to see the best route to take by Metro. The destination station is "Ciudad Universitaria".
+* The *Workshop day* is held in "Edificio B":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.452919,-3.726629&spn=0.002625,0.00552&t=h&z=18&iwloc=00049418787ba759a0c74, *classroom 225*.
+* Afterwards, the *rejectconf* will be held at "La corriente del golfo":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.463336,-3.685747&spn=0.002624,0.00552&t=h&z=18&iwloc=00049419329772bd9de1e ("Félix Boix, 16":http://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=F%C3%A9lix+Boix,+16&sll=40.46254,-3.681149&sspn=0.010497,0.02208&ie=UTF8&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&ll=40.463128,-3.685827&spn=0.010497,0.02208&z=16 )
+* The real conference on Thursday and Friday will be in the Auditorium of "Building C":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.453217,-3.7265&spn=0.001312,0.00276&t=h&z=19&iwloc=00049418787bc7e0ea868.
+* Dinner passes will be provided upon registering on Thursday morning. These can be used the University's "restaurant":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.452932,-3.726498&spn=0.001312,0.00276&t=h&z=19&iwloc=000494187c1598284794d.
+* Thursday's' "Tapas & Fiesta":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.433703,-3.691374&spn=0.002625,0.00552&z=18&iwloc=lyrftr:m,17619983054099209975,40.433674,-3.691379 will be in "Shabay":http://www.shabay.com/ ( "C/ Miguel Ángel, 3":http://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=Shabay,+madrid,+spain&sll=40.463128,-3.685827&sspn=0.010497,0.02208&ie=UTF8&hq=Shabay,&hnear=Madrid,+Comunidad+de+Madrid&z=14&iwloc=A )
+* We have two buses (100 seats in total) to go from the conference venue to Shabay, we'll be announcing the exact location where you can catch them during the conference.
 
-You can use the "public service":http://www.metromadrid.es/en/index.html?rbDestino=estacion&idDestino=622  to see the best way to go by Metro. The destination station is "Ciudad universitaria".
+You can see all these locations in the "Conferencia Rails 2010":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&z=16 map:
 
-The first day, *Workshop day*, will be in "Edificio B":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.452919,-3.726629&spn=0.002625,0.00552&t=h&z=18&iwloc=00049418787ba759a0c74 , at *classroom 224*.
-
-Later, *The rejectconf* will be in "La corriente del golfo":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.463336,-3.685747&spn=0.002624,0.00552&t=h&z=18&iwloc=00049419329772bd9de1e ( "Félix Boix, 16":http://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=F%C3%A9lix+Boix,+16&sll=40.46254,-3.681149&sspn=0.010497,0.02208&ie=UTF8&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&ll=40.463128,-3.685827&spn=0.010497,0.02208&z=16 )
-
-The *second, and third* days will be in the Auditorium of "Building C":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.453217,-3.7265&spn=0.001312,0.00276&t=h&z=19&iwloc=00049418787bc7e0ea868
-
-*The lunch* for Thursday/Friday will be in the University's "dining room":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.452932,-3.726498&spn=0.001312,0.00276&t=h&z=19&iwloc=000494187c1598284794d
-
-Thursday's' "Tapas & Fiesta":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&ll=40.433703,-3.691374&spn=0.002625,0.00552&z=18&iwloc=lyrftr:m,17619983054099209975,40.433674,-3.691379 will be in "Shabay":http://www.shabay.com/ ( "C/ Miguel Ángel, 3":http://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=Shabay,+madrid,+spain&sll=40.463128,-3.685827&sspn=0.010497,0.02208&ie=UTF8&hq=Shabay,&hnear=Madrid,+Comunidad+de+Madrid&z=14&iwloc=A )
-
-We have two buses (100 seats) to go from the conference venue to Shabay so hurry up, and do not run out of place on the bus.
-
-You can see all this places in the "Conferencia Rails 2010":http://maps.google.es/maps/ms?ie=UTF8&hl=es&hq=&hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&msa=0&msid=112260462327768693904.000494186c0c3b747da11&z=16
- map of the places:
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.es/maps/ms?ie=UTF8&amp;hl=es&amp;hq=&amp;hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&amp;msa=0&amp;msid=112260462327768693904.000494186c0c3b747da11&amp;ll=40.448449,-3.726603&amp;spn=0.0098,0.000469&amp;t=h&amp;iwloc=00049418787bc7e0ea868&amp;output=embed"></iframe><br /><small>Ver <a href="http://maps.google.es/maps/ms?ie=UTF8&amp;hl=es&amp;hq=&amp;hnear=Calle+de+F%C3%A9lix+Boix,+16,+28036+Madrid,+Comunidad+de+Madrid&amp;msa=0&amp;msid=112260462327768693904.000494186c0c3b747da11&amp;ll=40.448449,-3.726603&amp;spn=0.0098,0.000469&amp;t=h&amp;iwloc=00049418787bc7e0ea868&amp;source=embed" style="color:#0000FF;text-align:left">Conferencia Rails 2010</a> en un mapa más grande</small>
 

@@ -1,0 +1,21 @@
+---
+title: Swallowing the Pair Programming Pill
+categories:
+  - conference
+  - talk
+excerpt:
+  Jim ‘Big Tiger’ Remsik's talk
+layout:
+  talk
+
+profile:
+  name: Jim ‘Big Tiger’ Remsik
+  twitter: jremsikjr
+  url: http://bigtiger.github.com/
+  avatar: http://www.gravatar.com/avatar/4b0a5142bda3f26f9af3e98b0ec0d709
+  description: |
+      Jim is Developer at Hashrocket and has collaborated with New York Times for an article on Pair Programming
+---
+
+Pair programming is a helpful tool for your development toolbox when you understand how it works and what are the benefits.  We'll address common misconceptions of managers ("Two people sitting at one desk? That's going to cost twice as much!") and how to assuage these concerns.  We will delve into the common fears of developers ("I won't be able to get into 'The Zone'", "I can't read RSS.", "They find out I'm not a good developer.").  We'll examine numerous configurations, ergonomics, and available tools for both co-located and geographically distributed teams. Finally, we'll wrap up with a discussion on the utility of pairing mixed skill peoples together (Designer/Developer, Blind/Deaf, Cat/Dog) to acheive a result that is more than the sum of its parts.
+
