@@ -1,11 +1,25 @@
----
-layout: index 
-title: Conferencia Rails 2010
----
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year == '2010' %}
-    {% include blog_post.html %} 
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Conferencia Rails - July 14-15 2011 - Florida Park - Madrid</title>
+  <meta name="description" content="Conferencia Rails - July 14-15 2011 - Florida Park - Madrid">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+</head>
 
-  {% endif %}
-{% endfor %}
+<body>
+
+  <div id="container">
+    <header>
+      <strong>Conferencia Rails 2011</strong>
+      <h1>
+        July 14-15 2011 - <a href="http://bit.ly/florida_park">Florida Park</a> - Madrid
+        <span>More information coming soon... mark your calendar!</span>
+      </h1>
+    </header>
+  </div> <!-- #container -->
+
+</body>
+</html>

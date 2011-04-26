@@ -1,0 +1,11 @@
+---
+layout: index 
+title: Conferencia Rails 2010
+---
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year == '2010' %}
+    {% include blog_post.html %} 
+
+  {% endif %}
+{% endfor %}
