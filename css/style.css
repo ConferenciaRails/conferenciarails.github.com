@@ -157,7 +157,7 @@ header {
 	padding-top: 67px;
 }
 
-strong, h1 {
+header strong, header h1 {
 	display: -moz-inline-stack;
 	display: inline-block;
 	zoom: 1;
@@ -165,7 +165,7 @@ strong, h1 {
 	vertical-align: middle;
 }
 
-strong {
+header strong {
 	width: 225px;
 	height: 270px;
 	overflow: hidden;
@@ -188,3 +188,5 @@ h1 span {
 	color: #B66372;
 	font-weight: normal;
 }
+
+
