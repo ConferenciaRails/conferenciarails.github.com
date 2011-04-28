@@ -189,4 +189,36 @@ h1 span {
 	font-weight: normal;
 }
 
+/** Inicio Ñapas de Fernando, sustituir por diseño de verdad **/
+
+/* Call to action container */
+div#action_calls{
+  width: 50%;
+  min-width: 400px;
+  margin: auto;
+}
+
+/* Call to action sections */
+div#action_calls section{
+  padding: 1em;
+	font-size: 1.3em;
+  text-shadow: 0 1px 1px hsla(0, 0%, 0%, .4);
+}
+/* Twitter section */
+div#action_calls section#follow_us{
+  /* birdie_icon? */
+}
+/* Mail contact section */
+div#action_calls section#write_us{
+  /* envelope_icon ? */
+}
+
+/** Fin de Ñapas de Fernando, sustituir por diseño de verdad **/
+
+
+
+
+
+
+
 
