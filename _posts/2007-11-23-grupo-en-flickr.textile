@@ -1,9 +1,0 @@
---- 
-wordpress_id: 6
-layout: post
-title: Grupo en Flickr
-wordpress_url: http://www.conferenciarails.org/archivo/2007/11/23/grupo_en_flickr/
----
-<p>&#191;Quieres ser nuestro reportero oficial? Sube tus fotos de la Conferencia Rails 2007 al <a href="http://www.flickr.com/groups/conferenciarails/">grupo de Flickr</a> con el tag <em>conferenciarails2007</em></p>
-
-<p>Animaos y subid muchas fotos</p>

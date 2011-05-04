@@ -1,7 +1,0 @@
---- 
-wordpress_id: 49
-layout: post
-title: Reserva de hotel para la conferencia
-wordpress_url: http://www.conferenciarails.org/?p=49
----
-La gente de <a href="http://www.hotelsearch.com/">hotelsearch</a> ha preparado una <a href="http://www.hotelsearch.com/events/conferenciarails2008/">página especial</a> para poder reservar los <a href="http://www.hotelsearch.com/events/conferenciarails2008/">hoteles con descuento </a>para la conferencia.
