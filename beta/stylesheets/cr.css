@@ -1,0 +1,341 @@
+html, body, body div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+blockquote, q { quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after { content: ""; content: none; }
+
+ins { background-color: #ff9; color: #000; text-decoration: none; }
+
+mark { background-color: #ff9; color: #000; font-style: italic; font-weight: bold; }
+
+del { text-decoration: line-through; }
+
+abbr[title], dfn[title] { border-bottom: 1px dotted; cursor: help; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+
+
+body { font:13px/1.231 sans-serif; *font-size:small; } /* Hack retained to preserve specificity */
+
+pre, code, kbd, samp { font-family: monospace, sans-serif; }
+
+
+html { overflow-y: scroll; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+  
+a:link { -webkit-tap-highlight-color: #669999; }
+
+a:hover, a:active { outline: none; }
+
+a { color: #607890; }
+a:hover { color: #036; }
+
+ul, ol { margin-left: 2em; }
+ol { list-style-type: decimal; }
+
+nav ul, nav li { margin: 0; list-style:none; list-style-image: none; }
+
+small { font-size: 85%; }
+b, strong, th { font-weight: bold; }
+
+td { vertical-align: top; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+
+pre {
+  white-space: pre; white-space: pre-wrap; word-wrap: break-word;
+  padding: 15px;
+}
+
+button, input, select, textarea { width: auto; overflow: visible; margin: 0; font-size: 100%; font-family: sans-serif; vertical-align: baseline; }
+textarea { overflow: auto; vertical-align:text-top; }
+label, input[type="button"], input[type="submit"], input[type="image"], button { cursor: pointer; }
+
+input::-moz-focus-inner,
+button::-moz-focus-inner { border: 0; padding: 0; }
+
+
+input:valid, textarea:valid {  }
+input:invalid, textarea:invalid { border-radius: 1px; -moz-box-shadow: 0px 0px 5px red; -webkit-box-shadow: 0px 0px 5px red; box-shadow: 0px 0px 5px red; }
+.no-boxshadow input:invalid, .no-boxshadow textarea:invalid { background-color: #f0dddd; }
+
+body, select, input, textarea {
+  color: #444;
+}
+
+/* Headers (h1, h2, etc) have no default font-size or margin; define those yourself */
+h1, h2, h3, h4, h5, h6 { font-weight: bold; }
+
+::-moz-selection { background: #669999; color:#fff; text-shadow: none; }
+::selection { background:#669999; color:#fff; text-shadow: none; }
+
+
+
+
+
+
+body {
+	background: #FFF url('../images/bghead.png') repeat-x 0 -244px;
+}
+
+header,
+.wrapper {
+	width: 951px;
+	margin: 0 auto;
+}
+
+.wrapper section {
+	padding: 10px 0;
+	zoom: 1;
+}
+	.wrapper section h2 {
+		display: block;
+		clear: both;
+		font-size: 25px;
+		letter-spacing: -1px;
+		font-weight: normal;
+		padding: 5px 0;
+		margin: 0 0 10px;
+		border-bottom: 1px solid #ccc;
+	}
+	.wrapper section p,
+	.wrapper section ul { padding: 0 0 10px 0}
+
+	header .logo {
+		position: absolute;
+		width: 180px;
+		height: 180px;
+		text-indent: -900em;
+		overflow: hidden;
+		background: url('../images/logo.png') no-repeat center center;
+		margin: -40px 0 0 -10px;
+	}
+	
+	nav {
+		padding: 24px 0;
+		text-align: right;
+		font-size: 15px;
+	}
+		nav li { display: inline; }
+		nav a, nav a:hover { 
+			color: #FFF;
+			padding: 0 0 0 15px;
+		}
+	
+	.cfp {
+		width: 420px;
+		margin: 0 auto;
+		padding: 25px 0 80px;
+		background: url('../images/cfp.png') no-repeat bottom center;
+		text-shadow: 0px 1px 0px #000;
+		color: #C0C2C2;
+		font-size: 14px;
+		text-align: center;
+	}
+		.cfp h2 {
+			font-family: 'Raleway', sans-serif;
+			font-size: 33px;
+			color: #FFF;
+			letter-spacing: -1px;
+			font-weight: normal;
+			padding: 0 0 5px;
+		}
+		.cfp_action, .cfp_action:hover {
+			font-size: 20px;
+			display: block;
+			background: url('../images/act_button.png') no-repeat top center;
+			padding: 20px 30px 24px 20px;
+			color: #000;
+			text-shadow: 0px 1px 0px #AEC4C4;
+			text-decoration: none;
+		}
+		
+	.map {
+		float: right;
+		display: inline;
+		position: relative;
+		margin: -50px 0 0 10px;
+	}
+	.map span {
+		position: relative;
+		display: block;
+		width: 630px;
+		height: 300px;
+		position: relative;
+		border: 10px solid #F4F6F7;
+		background: url('../images/map.png') no-repeat center center;
+		z-index: 2;
+		overflow: hidden;
+		text-indent: -900em;
+	}
+	.map:after {
+		z-index: 0; 
+		position: absolute; 
+		background: transparent; 
+		width: 100px; 
+		height: 100px; 
+		content: ''; 
+		right: 12px; 
+		top: 14px; 
+		transform: skew(-15deg) rotate(-6deg);
+		-webkit-transform: skew(-15deg) rotate(-6deg);
+		-moz-transform: skew(-15deg) rotate(-6deg);
+		box-shadow: 0 -8px 16px rgba(0, 0, 0, 0.3); 
+		-webkit-box-shadow: 0 -8px 16px rgba(0, 0, 0, 0.3); 
+		-moz-box-shadow: 0 -8px 16px rgba(0, 0, 0, 0.3);
+	} 
+
+	.map:before { 
+		z-index: 0; 
+		position: absolute; 
+		background: transparent; 
+		width: 100px; 
+		height: 100px; 
+		content: ''; 
+		left: 12px; 
+		bottom: 12px; 
+		transform: skew(-15deg) rotate(-6deg);
+		-webkit-transform: skew(-15deg) rotate(-6deg);
+		-moz-transform: skew(-15deg) rotate(-6deg);
+		box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+		-webkit-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+		-moz-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+	}
+	
+footer {
+	display: block;
+	padding: 20px;
+	margin: 20px 0 0;
+	background: #1F2324 url('../images/bgfoot.png') repeat-x bottom;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 1020px) and (min-width: 768px) { /* iPad portrait and other tablet/mid-sized viewports */
+	header,
+	.wrapper {
+		width: 95%;
+		max-width: 900px;
+		margin: 0 auto;
+	}
+	.map span {
+		width: 400px;
+		height: 250px;
+	}
+}
+
+@media only screen and (max-width: 767px) and (min-width: 480px) { /* iPhone landscape and other small viewports */
+	body {
+		background: #FFF url('../images/bghead.png') repeat-x 0 -105px;
+	}
+	header,
+	.wrapper {
+		width: 95%;
+		max-width: 900px;
+		margin: 0 auto;
+	}
+	header .logo {
+		position: static;
+		margin: -40px auto 0 auto;
+	}
+	
+	nav { text-align: center; }
+	nav a, nav a:hover { 
+		color: #FFF;
+		padding: 0 5px;
+	}
+	.map span {
+		width: 350px;
+		height: 250px;
+	}
+}
+
+@media only screen and ( max-width: 479px) and (min-width: 320px) { /* Smart phones portrait */
+	body {
+		background: #FFF url('../images/bghead.png') repeat-x 0 -110px;
+	}
+	header {width:100%}
+	.wrapper {
+		width: 95%;
+		max-width: 900px;
+		margin: 0 auto;
+	}
+	header .logo {
+		position: static;
+		margin: -40px auto 0 auto;
+	}
+	nav { text-align: center; font-size: 13px; padding: 24px 0 10px;}
+	nav a, nav a:hover { 
+		color: #FFF;
+		padding: 0 3px;
+	}
+	
+	.cfp {
+		width: 95%;
+		margin: 0 auto;
+		padding: 25px 0 80px;
+		background: url('../images/cfp.png') no-repeat bottom center;
+		text-shadow: 0px 1px 0px #000;
+		color: #C0C2C2;
+		font-size: 14px;
+		text-align: center;
+	}
+	
+	.map {
+		float: none;
+		display: block;
+		position: relative;
+		margin: 0 0 20px 0;
+	}
+	.map span {
+		position: relative;
+		display: block;
+		width: 95%;
+		height: 190px;
+		position: relative;
+		border: 10px solid #F4F6F7;
+		background: url('../images/map.png') no-repeat center center;
+		z-index: 2;
+		overflow: hidden;
+		text-indent: -900em;
+	}
+	
+	
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {  /* retina graphics */
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape), only screen and (min-device-pixel-ratio: 2) and (orientation: landscape) {   /* retina graphics: landscape */
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait), only screen and (min-device-pixel-ratio: 2) and (orientation: portrait) {  /* retina graphics: portrait */
+
+}
