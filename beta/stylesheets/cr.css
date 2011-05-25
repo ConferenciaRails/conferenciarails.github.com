@@ -184,7 +184,7 @@ header,
 		height: 300px;
 		position: relative;
 		border: 10px solid #F4F6F7;
-		background: url('../images/map.png') no-repeat center center;
+		background: url('http://maps.google.com/maps/api/staticmap?center=40.418299,-3.680141&zoom=16&size=634x310&sensor=false&markers=label:C|size:mid|color:red|40.418299,-3.680141') no-repeat center center;
 		z-index: 2;
 		overflow: hidden;
 		text-indent: -900em;
