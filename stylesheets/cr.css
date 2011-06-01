@@ -164,10 +164,10 @@ header,
 		.cfp_action, .cfp_action:hover {
 			font-size: 20px;
 			display: block;
-			background: url('../images/act_button.png') no-repeat top center;
+			background: url('../images/buy_button.png') no-repeat top center;
 			padding: 20px 30px 24px 20px;
 			color: #000;
-			text-shadow: 0px 1px 0px #AEC4C4;
+			text-shadow: 0px 1px 0px #C4c4ae; /*#AEC4C4;*/
 			text-decoration: none;
 		}
 		
