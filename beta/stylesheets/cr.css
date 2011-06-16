@@ -35,7 +35,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
 
 
-body { font:14px sans-serif; *font-size:small; } /* Hack retained to preserve specificity */
+body { font:14px sans-serif; *font-size:small; line-height: 1.2em; } /* Hack retained to preserve specificity */
 
 pre, code, kbd, samp { font-family: monospace, sans-serif; }
 
@@ -121,6 +121,9 @@ header {
 	padding: 15px 0 10px;
 	background: #1A1E1F url('../images/sprite.png') repeat-x bottom center;
 }
+	header .wrapper {
+		position: relative;
+	}
 	header h1 a {
 		float: left;
 		display: inline;
@@ -129,6 +132,57 @@ header {
 		height: 230px;
 		background: #1A1E1F url('../images/sprite.png') no-repeat 0 -1212px;
 		text-indent: -900em;
+	}
+	
+nav ul {
+	float: right;
+	display: inline;
+	margin: 0;
+	padding: 5px 0;
+}
+	nav li {
+		float: left;
+		display: inline;
+	}
+	nav a {
+		display: block;
+		color: #DDD;
+		padding: 9px 10px;
+	}
+	nav a:hover {
+		color: #FFF;
+	}
+	nav li.active {
+		background: #1A1E1F url('../images/sprite.png') no-repeat 0 0;
+	}
+	nav li.active a {
+		padding: 9px 16px 9px 0;
+		margin-left: 16px;
+		background: #1A1E1F url('../images/sprite.png') no-repeat right 0;
+	}
+	
+.cfp {
+	position: absolute;
+	width: 250px;
+	top: 90px;
+	right: 80px;
+}
+
+.cfp_action, .cfp_action:hover {
+	display: block;
+	background: #870B22 url('../images/sprite.png') no-repeat right -50px;
+	text-decoration: none;
+	color: #FFF;
+	text-align: center;
+	font-size: 22px;
+	text-shadow: 0 -1px 0 #5D0716;
+	letter-spacing: -1px;
+	padding-right: 8px;
+}
+	.cfp_action span {
+		display: block;
+		padding: 18px 15px 19px 25px;
+		background: url('../images/sprite.png') no-repeat left -50px;
 	}
 
 h2 {
@@ -142,6 +196,7 @@ h2 {
 	.cfp h2 {
 		color: #FFF;
 		text-shadow: 0px 1px 0px #000;
+		padding-bottom: 10px;
 	}
 
 .subterm {
@@ -269,6 +324,7 @@ h2 {
 
 .sponsors {
 	margin-top: 35px;
+	overflow: hidden;
 }
 	.sponsors ul {
 		width: 108%;
@@ -320,95 +376,12 @@ footer {
 
 
 @media only screen and (max-width: 1020px) and (min-width: 768px) { /* iPad portrait and other tablet/mid-sized viewports */
-	header,
-	.wrapper {
-		width: 95%;
-		max-width: 900px;
-		margin: 0 auto;
-	}
-	.map span {
-		width: 400px;
-		height: 250px;
-	}
 }
 
 @media only screen and (max-width: 767px) and (min-width: 480px) { /* iPhone landscape and other small viewports */
-	body {
-		background: #FFF url('../images/bghead.png') repeat-x 0 -105px;
-	}
-	header,
-	.wrapper {
-		width: 95%;
-		max-width: 900px;
-		margin: 0 auto;
-	}
-	header .logo {
-		position: static;
-		margin: -40px auto 0 auto;
-	}
-	
-	nav { text-align: center; }
-	nav a, nav a:hover { 
-		color: #FFF;
-		padding: 0 5px;
-	}
-	.map span {
-		width: 350px;
-		height: 250px;
-	}
 }
 
 @media only screen and ( max-width: 479px) and (min-width: 320px) { /* Smart phones portrait */
-	body {
-		background: #FFF url('../images/bghead.png') repeat-x 0 -110px;
-	}
-	header {width:100%}
-	.wrapper {
-		width: 95%;
-		max-width: 900px;
-		margin: 0 auto;
-	}
-	header .logo {
-		position: static;
-		margin: -40px auto 0 auto;
-	}
-	nav { text-align: center; font-size: 13px; padding: 24px 0 10px;}
-	nav a, nav a:hover { 
-		color: #FFF;
-		padding: 0 3px;
-	}
-	
-	.cfp {
-		width: 95%;
-		margin: 0 auto;
-		padding: 25px 0 80px;
-		background: url('../images/cfp.png') no-repeat bottom center;
-		text-shadow: 0px 1px 0px #000;
-		color: #C0C2C2;
-		font-size: 14px;
-		text-align: center;
-	}
-	
-	.map {
-		float: none;
-		display: block;
-		position: relative;
-		margin: 0 0 20px 0;
-	}
-	.map span {
-		position: relative;
-		display: block;
-		width: 95%;
-		height: 190px;
-		position: relative;
-		border: 10px solid #F4F6F7;
-		background: url('../images/map.png') no-repeat center center;
-		z-index: 2;
-		overflow: hidden;
-		text-indent: -900em;
-	}
-	
-	
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {  /* retina graphics */
