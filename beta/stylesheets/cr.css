@@ -333,7 +333,9 @@ h2 {
 	.ico_email		{ background-position: -354px -478px; }
 
 .sponsors {
-	margin-top: 35px;
+	display: block;
+	clear: both;
+	padding-top: 35px;
 	overflow: hidden;
 }
 	.sponsors ul {
@@ -406,6 +408,64 @@ footer {
 		-moz-box-shadow: 0px 0px 2px #DDD; 
 		-webkit-box-shadow: 0px 0px 2px #DDD; 
 		box-shadow: 0px 0px 2px #DDD; 
+	}
+
+.location { margin-top: 35px}
+	.location h2 { padding-bottom: 25px; }
+	.location p {
+		margin-bottom: 8px;
+	}
+
+	.map {
+		float: right;
+		display: inline;
+		position: relative;
+		margin: -10px 0 0 10px;
+	}
+	.map span {
+		position: relative;
+		display: block;
+		width: 630px;
+		height: 300px;
+		position: relative;
+		border: 10px solid #F4F6F7;
+		background: url('../images/map.png') no-repeat center center;
+		z-index: 2;
+		overflow: hidden;
+		text-indent: -900em;
+	}
+	.map:after {
+		z-index: 0; 
+		position: absolute; 
+		background: transparent; 
+		width: 100px; 
+		height: 100px; 
+		content: ''; 
+		right: 12px; 
+		top: 14px; 
+		transform: skew(-15deg) rotate(-6deg);
+		-webkit-transform: skew(-15deg) rotate(-6deg);
+		-moz-transform: skew(-15deg) rotate(-6deg);
+		box-shadow: 0 -8px 16px rgba(0, 0, 0, 0.3); 
+		-webkit-box-shadow: 0 -8px 16px rgba(0, 0, 0, 0.3); 
+		-moz-box-shadow: 0 -8px 16px rgba(0, 0, 0, 0.3);
+	} 
+
+	.map:before { 
+		z-index: 0; 
+		position: absolute; 
+		background: transparent; 
+		width: 100px; 
+		height: 100px; 
+		content: ''; 
+		left: 12px; 
+		bottom: 12px; 
+		transform: skew(-15deg) rotate(-6deg);
+		-webkit-transform: skew(-15deg) rotate(-6deg);
+		-moz-transform: skew(-15deg) rotate(-6deg);
+		box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+		-webkit-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+		-moz-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 	}
 
 @media only screen and (max-width: 1020px) and (min-width: 768px) { /* iPad portrait and other tablet/mid-sized viewports */
