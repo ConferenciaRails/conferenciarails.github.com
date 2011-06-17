@@ -413,6 +413,7 @@ footer {
 	}
 	.speakers_list li { padding-bottom:30px}
 	.speakers_list p {
+		line-height: 1.2em;
 		margin-bottom: 8px;
 	}
 	.speakers_list img.item_media, .speakers_list .item_media img {
