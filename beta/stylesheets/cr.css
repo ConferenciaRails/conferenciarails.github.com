@@ -139,7 +139,7 @@ header {
 		float: left;
 		display: inline;
 		margin: 20px 100px 0 -55px;
-		width: 395px;
+		width: 525px;
 		height: 230px;
 		background: #1A1E1F url('../images/sprite.png') no-repeat 0 -1212px;
 		text-indent: -900em;
@@ -151,12 +151,13 @@ header {
 	bottom: -32px;
 	width: 48px;
 	height: 32px;
-	background: url('../images/sprite.png') no-repeat -420px -1186px;
+	background: url('../images/sprite.png') no-repeat 0 -1150px;
 }
 	
 nav ul {
-	float: right;
-	display: inline;
+	position: absolute;
+	right: 0;
+	top: 0;
 	margin: 0;
 	padding: 5px 0;
 }
