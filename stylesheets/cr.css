@@ -138,10 +138,10 @@ header {
 	header h1 a {
 		float: left;
 		display: inline;
-		margin: 20px 100px 0 -55px;
+		margin: 5px 100px 0 -55px;
 		width: 525px;
-		height: 230px;
-		background: #1A1E1F url('../images/sprite.png') no-repeat 0 -1212px;
+		height: 245px;
+		background: #1A1E1F url('../images/sprite.png') no-repeat 0 -1197px;
 		text-indent: -900em;
 	}
 	
