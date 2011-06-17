@@ -425,6 +425,7 @@ footer {
 .location { margin-top: 35px}
 	.location h2 { padding-bottom: 25px; }
 	.location p {
+		line-height: 1.2em;
 		margin-bottom: 8px;
 	}
 
