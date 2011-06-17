@@ -12,10 +12,13 @@
 		<div class="wrapper">
 
 			<h1 class="logo"><a href="/">Conferencia Rails - July 14-15 2011 - Madrid</a></h1>
+			<i class="header_arrow"></i>
 			<nav>
 				<ul>
-					<li><a href="https://autofiscal.com/aprodeweb/campaigns/conf2011/sales/new">tickets</a></li>
-					<li><a href="#location">location</a></li>
+					<li class="active"><a href="/"><span>home</span></a></li>
+					<li><a href="https://autofiscal.com/aprodeweb/campaigns/conf2011/sales/new"><span>tickets</span></a></li>
+					<li><a href="speakers.html"><span>speakers</span></a></li>
+					<li><a href="#location"><span>location</span></a></li>
 					<li><a href="http://twitter.com/conferenciaror">@conferenciaror</a></li>
 					<li><a href="#sponsors">sponsors</a></li>
 				</ul>
@@ -23,7 +26,7 @@
 
 			<section id="call_for_papers" class="cfp">
 				<h2>Do you wanna attend?</h2>
-				<p><a href="http://bit.ly/confror2011" class="cfp_action">get your tickets now</a></p>
+				<p><a href="http://bit.ly/confror2011" class="cfp_action"><span>get your tickets now »</span></a></p>
 			</section>
 
 		</div><!-- .wrapper -->
@@ -33,21 +36,25 @@
 		<div class="wrapper">
 
 		<section class="speakers_list">
+			<h2>Know the speakers</h2>
 			<ul>
-				<li>
-					<img src="#" class="item_media"/>
+				<li id="sven">
+					<div class="item_media">
+						<img src="images/speakers/svenfuchs_big.png" alt="Sven Fuchs"/>
+						<img src="images/speakers/joshkalderimis_big.png" alt="Josh Kalderimis"/>
+					</div>
 					<div class="item_body">
-						<h2>Sven Fuchs and Josh Kalderimis</h2>
+						<h3>Sven Fuchs and Josh Kalderimis</h3>
 						<p class="subterm">Travis CI - Distributed, Continous Integration for the Ruby community</p>
 						<p>Sven Fuchs is an experienced software developer and active open source contributor currently based in Berlin, Germany. He is well known among the Rails community members for leading the I18n project, a gem shipped with Rails to cover internationalization needings. With Josh Kalderimis, they both are two of the core members of the Travis CI development team.</p>
 						<p>Travis CI is an open source continuous integration service for the Ruby community and in this talk Sven and Josh will talk about what is the vision behind it and how is it implemented.</p>
 					</div>
 				</li>
 
-				<li>
-					<img src="#" class="item_media"/>
+				<li id="nusco">
+					<img src="images/speakers/nusco_big.png" alt="Paolo Perrotta" class="item_media"/>
 					<div class="item_body">
-						<h2>Paolo Perrotta</h2>
+						<h3>Paolo Perrotta</h3>
 						<p class="subterm">Java is from Mars, Ruby is from Venus</p>
 						<p>Paolo "Nusco" Perrotta has more than ten years of experience as a developer and writer. He worked for domains ranging from embedded to enterprise software, computer games, and web applications. He describes himself as an "Agile Coach, rubyist, Generic Italian Guy, author of Metaprogramming Ruby". We describe him as a powerful speaker, a nice and kind guy and an even better developer.</p>
 						<p>For Java programmers is difficult to think in Ruby. For Ruby programmers is difficult to think in Java. In this talk Paolo will show us these two different kind of language philosophies and why are not easily interchangeable.</p>
@@ -55,125 +62,125 @@
 				</li>
 
 
-				<li>
-					<img src="#" class="item_media"/>
+				<li id="albertoperdomo">
+					<img src="images/speakers/albertoperdomo_big.png" alt="Alberto Perdomo" class="item_media"/>
 					<div class="item_body">
-						<h2>Alberto Perdomo</h2>
+						<h3>Alberto Perdomo</h3>
 						<p class="subterm">Rails for mobile devices</p>
 						<p>Alberto has been coding since 1996 and writing software professionally since 2003. In 2006 he started developing web applications with Ruby on Rails and it still is his framework of choice. Other things he has done in the past include design of electronics and developing desktop applications and software for embedded devices.</p>
-            <p>He lived almost 8 years in Germany but he currently lives in his hometown Las Palmas, in the Canary Islands, Spain.</p>
-            <p>In 2007 he co-founded AENTOS, a software development company. They develop web sites in Ruby on Rails and apps for mobile devices like iPhone & iPad.</p>
-            <p>Plenty of people browse the web using very modern and powerful mobile devices but a lot of websites, startups and companies are only caring about the experience on the desktop or think native apps are the only way to go. In fact, if you have optimized your site for desktop browsers, chances are mobile users are having a worst experience than if you hadn’t. Smaller display, slow and unreliable internet connections, poor caching, … are just some of the constraints that developers have to deal with when thinking in terms of mobile browsing.</p>
-            <p>In this talk I’ll explain the typical issues, how developers can work around them and how they can leverage the fullest potential of mobile devices using Rails, HTML5, as well as other special techniques and tools.</p>
+						<p>He lived almost 8 years in Germany but he currently lives in his hometown Las Palmas, in the Canary Islands, Spain.</p>
+						<p>In 2007 he co-founded AENTOS, a software development company. They develop web sites in Ruby on Rails and apps for mobile devices like iPhone & iPad.</p>
+						<p>Plenty of people browse the web using very modern and powerful mobile devices but a lot of websites, startups and companies are only caring about the experience on the desktop or think native apps are the only way to go. In fact, if you have optimized your site for desktop browsers, chances are mobile users are having a worst experience than if you hadn’t. Smaller display, slow and unreliable internet connections, poor caching, … are just some of the constraints that developers have to deal with when thinking in terms of mobile browsing.</p>
+						<p>In this talk I’ll explain the typical issues, how developers can work around them and how they can leverage the fullest potential of mobile devices using Rails, HTML5, as well as other special techniques and tools.</p>
 					</div>
 				</li>
 
 
-				<li>
-					<img src="#" class="item_media"/>
+				<li id="porras">
+					<img src="images/speakers/porras_big.png" alt="Sergio Gil" class="item_media"/>
 					<div class="item_body">
-						<h2>Sergio Gil</h2>
+						<h3>Sergio Gil</h3>
 						<p class="subterm">Five languages in a moment</p>
 						<p>Sergio Gil (aka @porras) is a developer who once fell in love with the simplicity of the web architecture. Ever since that day, he tries to find that simplicity in everything he does, be it choosing a technology, a user experience approach, a methodology style, or a company. It's no surprise those choices are Ruby, ‘Less is More’, Agile, and BeBanjo. A regular presence in the local rubysphere events and in Conferencia Rails, he's been threatening for years to play ukulele in one of his talks. Maybe the time has come.</p>
 						<p>> “A language that doesn't affect the way you think about programming, is not worth knowing.” -- Alan Perlis</p>
-            <p>Fortunately, there are plenty of them.</p>
+						<p>Fortunately, there are plenty of them.</p>
 
-            <p>Once upon a time, Ruby blew our minds. That simple, nice, funny, almost naive Japanese little language didn't only *“affect the way we thought about programming”* but in the process changed our jobs, our industry, and in some cases almost our lives. Could it be that it is the only language that could have done it, or even do it in the future? That could be the case, but that kind of simplistic and comfortable truths aren't for rubyists. As it turns out there are a number of languages out there capable of blowing your mind once again.</p>
+						<p>Once upon a time, Ruby blew our minds. That simple, nice, funny, almost naive Japanese little language didn't only *“affect the way we thought about programming”* but in the process changed our jobs, our industry, and in some cases almost our lives. Could it be that it is the only language that could have done it, or even do it in the future? That could be the case, but that kind of simplistic and comfortable truths aren't for rubyists. As it turns out there are a number of languages out there capable of blowing your mind once again.</p>
 
-            <p>This humble developer has made a crash course into five of them, not to find The Next Big Thing™, but to find the next simple, nice, funny, and why not naive thing, and is ready to share his conclusions, and challenge his summarizing abilities and tell you something useful about all five of them in XX minutes. And of course having a good and fun time in the process. May the Source be with him.</p>
+						<p>This humble developer has made a crash course into five of them, not to find The Next Big Thing™, but to find the next simple, nice, funny, and why not naive thing, and is ready to share his conclusions, and challenge his summarizing abilities and tell you something useful about all five of them in XX minutes. And of course having a good and fun time in the process. May the Source be with him.</p>
 					</div>
 				</li>
 
-        <li>
-					<img src="#" class="item_media"/>
+				<li id="tokumin">
+					<img src="images/speakers/tokumin_big.png" alt="Simon Tokumine" class="item_media"/>
 					<div class="item_body">
-						<h2>Simon Tokumine</h2>
+						<h3>Simon Tokumine</h3>
 						<p class="subterm">Node.js for Rails developers</p>
 						<p>Simon likes using computers to solve real world problems and is a believer that a strong technical foundation should be a core competency in our rapidly developing, data rich world. At UNEP-WCMC he was the technical lead on the Ruby/Rails Protected Planet project, and is currently enjoying using Node.js to make mapping dynamic data sources as real-time and collaborative as possible for the latest Vizzuality projects. More: http://vizzuality.com/team/stokumine</p>
 						<p>In this talk, he will show key lessons and gotchas for Rails developers looking to make their first moves with server side Javascript and Node.js. He will also cover techniques for communication between Rails and Node applications, and will aim to be a good foundation for Ruby developers looking to broaden their toolset.</p>
 					</div>
 				</li>
 
-        <li>
-        	<img src="#" class="item_media"/>
-        	<div class="item_body">
-        		<h2>Jim "Big Tiger" Remsik</h2>
-        		<p class="subterm">60 to 0 MPH in 2.5 Seconds: A Retrospective</p>
-        		<p>"Big Tiger" has several years of government-sector, full life-cycle business process automation projects under his belt before joining the Ruby community via Hashrocket in 2007. Years of experience in leading a maintenance team means he has answered to angry customers and the developers, project leads, and clients responsible. A simple philosophy of building simple software that works as expected emerged from that experience. You will find him speaking at user groups, conferences, and board rooms on everything from agile development tools and techniques to deep technical dives into Ruby or other best in breed technologies.</p>
-        		<p>This talk will be a story of his experience crashing a full size stock car into the blunt end of a concrete wall. This is a true story that happened to him at Columbus 151 Speedway in Columbus, WI. It occurred in a recurring event, which has been featured on Ripley's Believe It or Not, called the Back-up Race where up to 12 cars race backwards around 1/4 mi. asphalt oval at speeds up to 65 MPH.</p>
-            <p>If you want to research this you can visit my YouTube channel: http://www.youtube.com/results?search_query=jremsikjr&aq=f
-            Using this example, he'll try to explain us the risk involved in what we do today and how to protect ourselves and when to live on the edge.
-            </p>
-        	</div>
-        </li>
+				<li id="jremsikjr">
+					<img src="images/speakers/jremsikjr_big.png" alt="Jim 'Big Tiger' Remsik" class="item_media"/>
+					<div class="item_body">
+						<h3>Jim "Big Tiger" Remsik</h3>
+						<p class="subterm">60 to 0 MPH in 2.5 Seconds: A Retrospective</p>
+						<p>"Big Tiger" has several years of government-sector, full life-cycle business process automation projects under his belt before joining the Ruby community via Hashrocket in 2007. Years of experience in leading a maintenance team means he has answered to angry customers and the developers, project leads, and clients responsible. A simple philosophy of building simple software that works as expected emerged from that experience. You will find him speaking at user groups, conferences, and board rooms on everything from agile development tools and techniques to deep technical dives into Ruby or other best in breed technologies.</p>
+						<p>This talk will be a story of his experience crashing a full size stock car into the blunt end of a concrete wall. This is a true story that happened to him at Columbus 151 Speedway in Columbus, WI. It occurred in a recurring event, which has been featured on Ripley's Believe It or Not, called the Back-up Race where up to 12 cars race backwards around 1/4 mi. asphalt oval at speeds up to 65 MPH.</p>
+						<p>If you want to research this you can visit my YouTube channel: http://www.youtube.com/results?search_query=jremsikjr&aq=f
+							Using this example, he'll try to explain us the risk involved in what we do today and how to protect ourselves and when to live on the edge.
+						</p>
+					</div>
+				</li>
 
-        <li>
-        	<img src="#" class="item_media"/>
-        	<div class="item_body">
-        		<h2>Nicolás Sanguinetti</h2>
-        		<p class="subterm">Let's Have a Cup of CoffeeScript</p>
-        		<p>Nicolás (probably better known as foca) has been working on web applications for 10 years. He started out as a front-end developer, and eventually moved into the back-end space, though he consideres himself a generalist, and likes to work on the full stack.</p>
-            <p>He usually hacks on ruby and javascript open source things at http://github.com/foca. He lives in Montevideo, Uruguay, where he works as an engineer for Cubox (http://cuboxsa.com)</p>
-        		<p>CoffeeScript is a great way to write javascript. It provides many abstractions that simplify the language, and a few syntax niceties that make it much less noisy than pure javascript.</p>
-            <p>In this is introductory talk, we will go through a few examples of code, seeing how it compares to JavaScript and presenting the language's features, and hopefully inspiring us to go and try it out!</p>
-        	</div>
-        </li>
+				<li id="godfoca">
+					<img src="images/speakers/godfoca_big.png" alt="Nicolás Sanguinetti" class="item_media"/>
+					<div class="item_body">
+						<h3>Nicolás Sanguinetti</h3>
+						<p class="subterm">Let's Have a Cup of CoffeeScript</p>
+						<p>Nicolás (probably better known as foca) has been working on web applications for 10 years. He started out as a front-end developer, and eventually moved into the back-end space, though he consideres himself a generalist, and likes to work on the full stack.</p>
+						<p>He usually hacks on ruby and javascript open source things at http://github.com/foca. He lives in Montevideo, Uruguay, where he works as an engineer for Cubox (http://cuboxsa.com)</p>
+						<p>CoffeeScript is a great way to write javascript. It provides many abstractions that simplify the language, and a few syntax niceties that make it much less noisy than pure javascript.</p>
+						<p>In this is introductory talk, we will go through a few examples of code, seeing how it compares to JavaScript and presenting the language's features, and hopefully inspiring us to go and try it out!</p>
+					</div>
+				</li>
 
-        <li>
-        	<img src="#" class="item_media"/>
-        	<div class="item_body">
-        		<h2>Renée De Voursney</h2>
-        		<p class="subterm">How I Learned to Smell Code</p>
-        		<p>Renée is the lead developer at Blue Box Group, a managed Rails hosting provider located in Seattle, Washington, USA. Renée’s skills intersect software development and business process improvement. When she is not building bug-free, infinitely scalable, and perfectly crafted software, you can find her climbing mountains or jumping off cliffs in Zimbabwe.</p>
-        		<p>In her own words, this talk will cover "my story, from apprentice-pup to journey-hound, complete with anecdotes of both fragrant and rank code. I have had to climb massive rock walls, program in .NET, and boldly go where no coder would want to go! Much of my time is spent wearing anti-noxious code gas masks slowly converting pungent code to code with a pleasant aroma. What learning scents are beginners assaulted with when embarking on their olfactory training, training to become as sharp as a bloodhounds? Let us explore how following and teaching design patterns brings out the olfactory-affability of our code. We will explore how this leads to emergent designs which heighten our senses to the scent of beautiful code."</p>
-        	</div>
-        </li>
+				<li id="blueboxrenee">
+					<img src="images/speakers/blueboxrenee_big.png" alt="Renée De Voursney" class="item_media"/>
+					<div class="item_body">
+						<h3>Renée De Voursney</h3>
+						<p class="subterm">How I Learned to Smell Code</p>
+						<p>Renée is the lead developer at Blue Box Group, a managed Rails hosting provider located in Seattle, Washington, USA. Renée’s skills intersect software development and business process improvement. When she is not building bug-free, infinitely scalable, and perfectly crafted software, you can find her climbing mountains or jumping off cliffs in Zimbabwe.</p>
+						<p>In her own words, this talk will cover "my story, from apprentice-pup to journey-hound, complete with anecdotes of both fragrant and rank code. I have had to climb massive rock walls, program in .NET, and boldly go where no coder would want to go! Much of my time is spent wearing anti-noxious code gas masks slowly converting pungent code to code with a pleasant aroma. What learning scents are beginners assaulted with when embarking on their olfactory training, training to become as sharp as a bloodhounds? Let us explore how following and teaching design patterns brings out the olfactory-affability of our code. We will explore how this leads to emergent designs which heighten our senses to the scent of beautiful code."</p>
+					</div>
+				</li>
 
-        <li>
-        	<img src="#" class="item_media"/>
-        	<div class="item_body">
-        		<h2>Felipe Talavera Armero</h2>
-        		<p class="subterm">Ruby and Rails, as secret weapon to build your service-oriented apps</p>
-        		<p>Felipe is a passionate and advocate software developer and he's been working with rails since the early days of the framework. He's taken part in some failed adventures as entrepreneur as well as worked as employee for 'strands'. These days, He is busy building financials tools to help students save some cash at peertransfer.com.</p>
-        		<p>Properly designed large applications, partitioned into cooperating services, can be far more agile than monolithic applications. Services make it easy to scale team size. As the code base of an application gets larger, it gets harder to introduce  new developers to the project. When applications are split into services, developers can be assigned to a specific service or two. They only need to be familiar with their section of the application and the working groups can remain small.Ruby malleability to work as glue and Rails easy to build API's are perfect to build those services.</p>
+				<li id="flype">
+					<img src="images/speakers/flype_big.png" alt="Felipe Talavera Armero" class="item_media"/>
+					<div class="item_body">
+						<h3>Felipe Talavera Armero</h3>
+						<p class="subterm">Ruby and Rails, as secret weapon to build your service-oriented apps</p>
+						<p>Felipe is a passionate and advocate software developer and he's been working with rails since the early days of the framework. He's taken part in some failed adventures as entrepreneur as well as worked as employee for 'strands'. These days, He is busy building financials tools to help students save some cash at peertransfer.com.</p>
+						<p>Properly designed large applications, partitioned into cooperating services, can be far more agile than monolithic applications. Services make it easy to scale team size. As the code base of an application gets larger, it gets harder to introduce  new developers to the project. When applications are split into services, developers can be assigned to a specific service or two. They only need to be familiar with their section of the application and the working groups can remain small.Ruby malleability to work as glue and Rails easy to build API's are perfect to build those services.</p>
 
-            <p>During the session he will review techniques, tools, libraries and code examples related with the construction and roll out of this kind of systems.</p>
-        	</div>
-        </li>
+						<p>During the session he will review techniques, tools, libraries and code examples related with the construction and roll out of this kind of systems.</p>
+					</div>
+				</li>
 
-        <li>
-        	<img src="#" class="item_media"/>
-        	<div class="item_body">
-        		<h2>Alex Sharp</h2>
-        		<p class="subterm">Practical Ruby Projects with MongoDB</p>
-        		<p>Alex hacks ruby, mongodb and commerce at a super-awesome company called Zaarly. Before joining Zaarly, he served as the lead developer at a health care startup based in Pacific Palisades, CA called OptimisCorp. He is particularly interested in the NoSQL movement, the art of refactoring, domain modeling, and systems automation with puppet.</p>
-            <p>Among other open source contributions, Alex is the author of Bunyan and Papermill, two libraries for working with MongoDB.</p>
-            <p>In addition to hacking, Alex enjoys shredding fresh powder, gourmet coffee and being an amateur foodie. He does not enjoy referring to himself in third person, because it sounds weird. He currently lives in sunny Los Angeles, CA, blogs at alexjsharp.com and tweets as @ajsharp.</p>
-        		<p>This talk focuses around interesting and practical uses of MongoDB in a production setting. We'll explore business domains ripe for use of MongoDB as a primary datastore, and we'll also explore practical uses of Mongo in a secondary role to support our existing applications. In doing so, we'll explore in some detail some of the advanced features of Mongo, such as map/reduce, capped collections, sharding and replication.</p>
-        	</div>
-        </li>
+				<li id="ajsharp">
+					<img src="images/speakers/ajsharp_big.png" alt="Alex Sharp" class="item_media"/>
+					<div class="item_body">
+						<h3>Alex Sharp</h3>
+						<p class="subterm">Practical Ruby Projects with MongoDB</p>
+						<p>Alex hacks ruby, mongodb and commerce at a super-awesome company called Zaarly. Before joining Zaarly, he served as the lead developer at a health care startup based in Pacific Palisades, CA called OptimisCorp. He is particularly interested in the NoSQL movement, the art of refactoring, domain modeling, and systems automation with puppet.</p>
+						<p>Among other open source contributions, Alex is the author of Bunyan and Papermill, two libraries for working with MongoDB.</p>
+						<p>In addition to hacking, Alex enjoys shredding fresh powder, gourmet coffee and being an amateur foodie. He does not enjoy referring to himself in third person, because it sounds weird. He currently lives in sunny Los Angeles, CA, blogs at alexjsharp.com and tweets as @ajsharp.</p>
+						<p>This talk focuses around interesting and practical uses of MongoDB in a production setting. We'll explore business domains ripe for use of MongoDB as a primary datastore, and we'll also explore practical uses of Mongo in a secondary role to support our existing applications. In doing so, we'll explore in some detail some of the advanced features of Mongo, such as map/reduce, capped collections, sharding and replication.</p>
+					</div>
+				</li>
 
-        <li>
-        	<img src="#" class="item_media"/>
-        	<div class="item_body">
-        		<h2>Javier Ramírez</h2>
-        		<p class="subterm">Five years of Rails, from Spain with &lt;3</p>
-        		<p>Javier perfectly describes himself: "Everybody has a past, and mine is one of 15 years developing software and teaching other people how to do it. I find myself in no man's land on the engineering versus craftsmanship debate, finding virtues and caveats on both sides. I would say I'm a creative technician with an agnostic and pragmatic approach to problem solving.</p>
-            <p>I've been using, recommending, enjoying and hating a number of different languages, tools and techniques along these years, but since 2006 Ruby on Rails and its ecosystem is my favourite platform. The flexibility of both the language and the framework lets me try new things really quick and change my mind often, without much ado.</p>
-            <p>I'm an active member of the Ruby on Rails scene, participating in -and often organizing- meetups and conferences whenever I can. I'm also the author of the book "Aptana RadRails: And IDE for Rails Development" which was not a best seller, but it was fun to write.". You can get in touch via @supercoco9 or http://javier-ramirez.com</p>
-        		<p>In this talk he will review five (wonderful) years of Rails for the Spanish community, so often undervalued by us ourselves.</p>
-        	</div>
-        </li>
+				<li id="supercoco9">
+					<img src="images/speakers/supercoco9_big.png" alt="Javier Ramírez" class="item_media"/>
+					<div class="item_body">
+						<h3>Javier Ramírez</h3>
+						<p class="subterm">Five years of Rails, from Spain with &lt;3</p>
+						<p>Javier perfectly describes himself: "Everybody has a past, and mine is one of 15 years developing software and teaching other people how to do it. I find myself in no man's land on the engineering versus craftsmanship debate, finding virtues and caveats on both sides. I would say I'm a creative technician with an agnostic and pragmatic approach to problem solving.</p>
+						<p>I've been using, recommending, enjoying and hating a number of different languages, tools and techniques along these years, but since 2006 Ruby on Rails and its ecosystem is my favourite platform. The flexibility of both the language and the framework lets me try new things really quick and change my mind often, without much ado.</p>
+						<p>I'm an active member of the Ruby on Rails scene, participating in -and often organizing- meetups and conferences whenever I can. I'm also the author of the book "Aptana RadRails: And IDE for Rails Development" which was not a best seller, but it was fun to write.". You can get in touch via @supercoco9 or http://javier-ramirez.com</p>
+						<p>In this talk he will review five (wonderful) years of Rails for the Spanish community, so often undervalued by us ourselves.</p>
+					</div>
+				</li>
 
-        <li>
-        	<img src="#" class="item_media"/>
-        	<div class="item_body">
-        		<h2>Amy Woodward</h2>
-        		<p class="subterm">Humpty-Dumpty: When the Cloud Falls Down</p>
-        		<p>Amy Woodward started coding in Ruby in 2006, after forays into C, Java, and other clunky languages. She's worked with teams at Pivotal Labs and Google, as well as a Silicon Valley startup or two. She now works at Engine Yard, making AppCloud more awesome.</p>
-        		<p>During Amazon's EC2 outage (April 21st-23rd of 2011), many companies found their sites down for hours, even days. In this session, Amy will briefly cover the outage and what made it so severe. She will talk also about how Engine Yard coped with the outage, and the steps they took to keep our dashboard up and get (and keep) our customers online. And of course about all the lessons they learned that day.</p>
-        	</div>
-        </li>
+				<li id="amywoodward">
+					<img src="images/speakers/amywoodward_big.png" alt="Amy Woodward" class="item_media"/>
+					<div class="item_body">
+						<h3>Amy Woodward</h3>
+						<p class="subterm">Humpty-Dumpty: When the Cloud Falls Down</p>
+						<p>Amy Woodward started coding in Ruby in 2006, after forays into C, Java, and other clunky languages. She's worked with teams at Pivotal Labs and Google, as well as a Silicon Valley startup or two. She now works at Engine Yard, making AppCloud more awesome.</p>
+						<p>During Amazon's EC2 outage (April 21st-23rd of 2011), many companies found their sites down for hours, even days. In this session, Amy will briefly cover the outage and what made it so severe. She will talk also about how Engine Yard coped with the outage, and the steps they took to keep our dashboard up and get (and keep) our customers online. And of course about all the lessons they learned that day.</p>
+					</div>
+				</li>
 
 			</ul>
 		</section>
