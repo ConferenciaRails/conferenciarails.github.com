@@ -141,7 +141,7 @@ header {
 		margin: 5px 100px 0 -55px;
 		width: 525px;
 		height: 245px;
-		background: #1A1E1F url('../images/sprite.png') no-repeat 0 -1197px;
+		background: #1A1E1F url('../images/sprite.png') no-repeat 0 -680px;
 		text-indent: -900em;
 	}
 	
@@ -151,7 +151,7 @@ header {
 	bottom: -32px;
 	width: 48px;
 	height: 32px;
-	background: url('../images/sprite.png') no-repeat 0 -1150px;
+	background: url('../images/sprite.png') no-repeat 0 -631px;
 }
 	
 nav ul {
@@ -227,7 +227,7 @@ h2 {
 }
 	h3.subterm { display: inline; }
 
-#content {
+.content {
 	background: #FFF;
 	padding: 10px 0;
 }
@@ -265,7 +265,7 @@ h2 {
 			-webkit-box-shadow: 0px 0px 2px #DDD; 
 			box-shadow: 0px 0px 2px #DDD; 
 			overflow: hidden;
-			background: url('../images/sprite.png') no-repeat -359px -559px;
+			background: url('../images/sprite.png') no-repeat -768px -302px;
 		}
 	.speakers .note {
 		width: 410px;
@@ -277,13 +277,16 @@ h2 {
 		letter-spacing: 0;
 		vertical-align: top;
 		color: #DDD;
+		overflow: hidden;
 		background: url('../images/sprite.png') no-repeat 0 -120px;
 		overflow: hidden;
 	}
 		.speakers .note p { margin-bottom: 8px}
 		.speakers .inner-note {
+			display: block;
 			margin-left: 25px;
-			padding: 20px 25px 35px 0;
+			padding: 20px 25px 0 0;
+			height: 140px;
 			background: url('../images/sprite.png') no-repeat right -120px;
 			
 		}
@@ -308,17 +311,10 @@ h2 {
 		margin-right: 18px;
   }
 
-.grab_badge, .the_venue {
+.grab_badge img, .the_venue img {
 	display: block;
-	width: 310px;
-	height: 195px;
-	margin: 13px 0 0 -13px;
-	overflow: hidden;
-	text-indent: -900em;
-	background: #FFFFFF url('../images/sprite.png') no-repeat 2px -348px;
-}
- .the_venue {
-	background: #FFFFFF url('../images/sprite.png') no-repeat 2px -551px;
+	max-width: 102%;
+	margin: 13px 0 0 -1%;
 }
 	
 .up_to_date {
@@ -337,11 +333,10 @@ h2 {
 	width: 58px;
 	height: 59px;
 	margin: -11px 10px 0 0;
-	background: #FFFFFF url('../images/sprite.png') no-repeat 0 0;
 }
-	.ico_twitter 	{ background-position: -354px -355px; }
-	.ico_mailing 	{ background-position: -354px -417px; }
-	.ico_email		{ background-position: -354px -478px; }
+	.ico img {
+		max-width: 100%;
+	}
 
 .sponsors {
 	display: block;
@@ -368,11 +363,12 @@ h2 {
 	.sponsors .note {
 		height: 77px;
 		margin: 40px 0 30px;
-		background: #EFEFEF url('../images/sprite.png') no-repeat 0 -841px;
+		padding-left: 25px;
+		background: #EFEFEF url('../images/sprite.png') no-repeat 0 -531px;
 	}
 		.sponsors .note p {
-			padding: 21px 25px;
-			background: url('../images/sprite.png') no-repeat right -768px;
+			padding: 21px 25px 21px 0;
+			background: url('../images/sprite.png') no-repeat right -458px;
 			color: #777;
 		}
 
@@ -441,7 +437,7 @@ footer {
 		width: 630px;
 		height: 300px;
 		position: relative;
-		border: 10px solid #F4F6F7;
+		border: 10px solid #F4F4F4;
 		background: url('../images/map.png') no-repeat center center;
 		z-index: 2;
 		overflow: hidden;
@@ -496,7 +492,30 @@ footer {
 	.badges pre { margin-top: 35px; }
 
 
-@media only screen and (max-width: 1020px) and (min-width: 768px) { /* iPad portrait and other tablet/mid-sized viewports */
+@media only screen and (max-width: 1024px) and (min-width: 768px) { /* iPad portrait and other tablet/mid-sized viewports */
+	h2 { font-size: 24px; }
+	.wrapper { width: 95%; }
+	header h1 a { margin-left: -35px}
+	.speakers { width: 100% }
+		.speakers ul { float: left; }
+		.speakers .note { width: auto; display: table; }
+		.speakers .extra { display: none; }
+	.cfp { width: 230px; right: 0; }
+		.cfp_action span { padding: 18px 5px 19px 15px; }
+	.multicolumn li { width: 32%; margin-right: 1%; }
+		.multicolumn li li { width: auto; padding: 5px 0; }
+		.ico {
+			width: 48px;
+			height: 49px;
+			margin: -5px 10px 0 0;
+		}
+	.sponsors ul { width: 104%; }
+	.sponsors li { text-align: center; }
+		.sponsors li a { width: 110%; margin-left: -5%; }
+		.sponsors li img { max-width: 95%; }
+	.map span { width: 400px; height: 200px}
+	.badges .item_media { width: 28%; overflow: hidden; }
+	.badges .item_body, .badges .pre { display: block; width: 70%; overflow: hidden; }
 }
 
 @media only screen and (max-width: 767px) and (min-width: 480px) { /* iPhone landscape and other small viewports */
