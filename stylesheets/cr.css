@@ -682,7 +682,7 @@ footer {
 		.map span { width: 97%; height: 200px}
 		.badges .item_media { width: 28%; overflow: hidden; }
 			.badges .item_media img { max-width: 100% }
-		.badges .item_body, .badges .pre { display: block; width: 70%; overflow: hidden; }
+		.badges .item_body, .badges .pre { display: block; width: 68%; overflow: hidden; }
 		.badges pre { margin-top: 15px; }
 }
 
