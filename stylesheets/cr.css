@@ -602,7 +602,7 @@ footer {
 		.wrapper { width: 95%; }
 		.more_info { margin-top: 25px; }
 		header { padding-bottom: 60px; }
-		header h1 { text-align: center }
+		header h1 { text-align: center; margin: -10px 0 5px 0; }
 			header h1 a { 
 				display: -moz-inline-stack;
 				display: inline-block;
@@ -612,7 +612,7 @@ footer {
 				width: 310px;
 				height: 160px;
 				background-position: -394px -865px;
-				margin: -10px 0 0 0;
+				margin: 0;
 			}
 		.header_arrow { bottom: -82px; left: 20px }
 		.sponsorlink, .ticketslink { display: none; }
@@ -637,7 +637,7 @@ footer {
 				.speakers li img { max-width: 100%; }
 			.speakers .note { display: block; width: 100%}
 			.speakers .inner-note { padding: 15px 25px 0 0; }
-		.cfp { position: static; margin-top: -5px; width: 100%; text-align: center; padding-bottom: 20px}
+		.cfp { position: static; margin-top: -5px; width: 100%; text-align: center; padding-bottom: 30px}
 			.cfp h2 { display: none }
 			.cfp_action { 
 				width: 200px;
