@@ -202,7 +202,7 @@ nav ul {
 }
 	.cfp_action span {
 		display: block;
-		padding: 18px 15px 19px 25px;
+		padding: 18px 0px 20px 8px;
 		background: url('../images/sprite.png') no-repeat left -50px;
 	}
 
