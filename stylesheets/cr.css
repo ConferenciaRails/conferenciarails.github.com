@@ -360,9 +360,10 @@ h2 {
 		*display: inline;
 		letter-spacing: 0px;
 		vertical-align: top;
-		width: 24.5%;
+		width: 18.5%;
 		margin: 10px 0;
 	}
+		.sponsors li img { width: 100%; }
 	.sponsors .note {
 		height: 77px;
 		margin: 40px 0 30px;
