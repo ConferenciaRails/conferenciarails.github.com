@@ -421,8 +421,9 @@ footer {
 		box-shadow: 0px 0px 2px #DDD; 
 	}
 
-.location { margin-top: 35px}
+.location { margin-top: 35px; clear: both;}
 	.location h2 { padding-bottom: 25px; }
+	.location#mor h2 { padding-top: 25px}
 	.location p {
 		line-height: 1.2em;
 		margin-bottom: 8px;
@@ -441,11 +442,14 @@ footer {
 		height: 300px;
 		position: relative;
 		border: 10px solid #F4F4F4;
-		background: url('../images/map.png') no-repeat center center;
 		z-index: 2;
 		overflow: hidden;
 		text-indent: -900em;
 	}
+	
+	.map.florida span { background: url('../images/florida_map.png') no-repeat center center; padding-bottom: 10px;}
+	.map.mor     span { background: url('../images/mor_map.png')     no-repeat center center;}
+	
 	.map:after {
 		z-index: 0; 
 		position: absolute; 
