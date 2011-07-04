@@ -1,11 +1,54 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8"/>
+	<meta charset="utf-8"/>
 	<title>Schedule - Conferencia Rails - July 13-15 2011 - Florida Park - Madrid</title>
 	<meta name="viewport" content="width=device-width; initial-scale=1"/>
 	<link rel="stylesheet" href="stylesheets/cr.css" type="text/css" media="screen"/>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:bold' rel='stylesheet' type='text/css'/>
+	<style>
+		.schedule { margin-top: 35px}
+			.schedule h2 { padding-bottom: 25px; }
+		.schedule td {
+			border: 1px solid #777;
+			border-radius: 4px;
+		}
+		.schedule td.empty_cell, .schedule td.break {
+			border: 0;
+		}
+		.schedule th.time_column {
+			width: 10%;
+		}
+		.schedule th.normal_column {
+			width: 30%;
+		}
+		.schedule td {
+			vertical-align: middle;
+			text-align: center;
+			padding: 6px;
+			border-collapse:separate;
+			border-spacing: 12px;
+		}
+		section.schedule p {
+			margin: 24px 0;
+		}
+		@media screen {
+			.schedule caption {
+				display: none;
+			}
+		}
+		.mobile {
+			display: none;
+		}
+		@media only screen and ( max-width: 479px) and (min-width: 320px) {
+			.schedule { display: none; }
+			section.mobile { display: block; }
+			.mobile p {
+				text-align: center;
+			}
+		}
+	</style>
+
 </head>
 <body>
 	<header>
@@ -31,274 +74,283 @@
 			</section>
 
 		</div><!-- .wrapper -->
-		<style>
-			.schedule { margin-top: 35px}
-		    .schedule h2 { padding-bottom: 25px; }
-			.schedule td {
-				border: 1px solid #777;
-				border-radius: 4px;
-			}
-			.schedule td.empty_cell, .schedule td.break {
-				border: 0;
-			}
-			.schedule th.time_column {
-				width: 10%;
-			}
-			.schedule th.normal_column {
-				width: 30%;
-			}
-			.schedule td {
-				vertical-align: middle;
-				text-align: center;
-				padding: 6px;
-				border-collapse:separate;
-				border-spacing: 12px;
-			}
-			
-			section.schedule p {
-				margin: 24px 0;
-			}
-			@media screen {
-				.schedule caption {
-					display: none;
-				}
-			}
-		</style>
 	</header>
 	<section class="content">
 		<div class="wrapper">
 
 		<section class="schedule">
-    <h2>Schedule</h2>
+			<h2>Schedule</h2>
+			<!-- Omit closing tags as this is html5, not a fucking xml: http://code.google.com/intl/es-ES/speed/articles/optimizing-html.html -->
+			<table>
+				<caption>Conferencia Rails 2011 Schedule</caption>
+					<thead>
+						<tr>
+							<th class="time_column">Day
+							<th class="normal_column">Wendsday 13
+							<th class="normal_column">Thuesday 14
+							<th class="normal_column">Friday 15
+						<tr>
+							<th>Place
+							<th>MadridOnRails
+							<th>Florida Park
+							<th>Florida Park
+					<tbody>
+						<tr>
+							<th>9:00
+							<td class="empty_cell">
+							<td>Registration
+							<td>Registration
+						<tr>
+							<th>9:30
+							<td rowspan="4">Welcome to Rails (Raimond García)
+							<td rowspan="2">Five years of Rails, from Spain with &lt;3 (J. Ramírez)
+							<td rowspan="2">Rails for mobile devices (Alberto Perdomo)
+						<tr><th>10:00
+						<tr>
+							<th>10:30
+							<td rowspan="2">Migrating a development company to Rails 3.x (Julian Fischer)
+							<td rowspan="2">Ruby and Rails, as secret weapon to build your service-oriented apps
+							(Felipe Talavera)
+						<tr><th>11:00
+						<tr>
+							<th>11:30
+							<td colspan="3" class="break">break
+						<tr>
+							<th>12:00
+							<td rowspan="4">Functional Programming with Ruby (Arnau Sánchez Sala)
+							<td rowspan="2">Let's Have a Cup of CoffeeScript (Nicolás Sanguinetti)
+							<td rowspan="2">A SaaS startup: lessons learned (Pablo Villalba)
+						<tr>
+							<th>12:30
+						<tr>
+							<th>13:00
+							<td rowspan="2">How I Learned to Smell Code (Renée De Voursney)
+							<td rowspan="2">Humpty-Dumpty: When the Cloud Falls Down (Amy Woodward)
+						<tr><th>13:30
+						<tr>
+							<th>14:00
+							<td rowspan="4" class="break">Lunch
+							<td rowspan="2" colspan="2" class="break">Lunch
+						<tr><th>14:30
+						<tr>
+							<th>15:00
+							<td rowspan="2">Five languages in a moment (Sergio Gil)
+							<td rowspan="2">Travis CI - Distributed, Continous Integration for the Ruby community
+							(Sven Fuchs and Josh Kalderimis)
+						<tr><th>15:30
+						<tr>
+						<tr>
+							<th>16:00
+							<td rowspan="8">Node.js, Backbone.js and Geospatial Applications for Rails Developers (Simon Tokumine and Javier Arce)
+							<td rowspan="2">Java is from Mars, Ruby is from Venus (Paolo Perrota)
+							<td rowspan="2">API-Driven Application Architecture (Alex Sharp)
+						<tr><th>16:30
+						<tr>
+							<th>17:00
+							<td rowspan="2">Lightning
+							<td rowspan="2">60 to 0 MPH in 2.5 Seconds: A Retrospective (Jim "Big Tiger" Remsik)
+						<tr><th>17:30
+						<tr><th>18:00
+						<tr><th>18:30
+						<tr><th>19:00
+						<tr><th>19:30
+						<tr><th>20:00
+						<tr><th>20:30
+						<tr><th>21:00
+						<tr>
+							<th>21:30
+							<td rowspan="2">Preconference meetup
+							<td rowspan="2">Conference Fiesta!
+							<tr><th>until late
+			</table>
 
 
-
-
-          <table>
-			<caption>Conferencia Rails 2011 Schedule</caption>
-			<thead>
-            <tr>
-              <th class="time_column">Day</th>
-              <th class="normal_column">
-                Wendsday 13
-              </th>
-              <th class="normal_column">
-                Thuesday 14
-              </th>
-              <th class="normal_column">
-                Friday 15
-              </th>
-            </tr>
-            <tr>
-              <th>
-                Place
-              </th>
-              <th>
-                MadridOnRails
-              </th>
-              <th>
-                Florida Park
-              </th>
-              <th>
-                Florida Park
-              </th>
-            </tr>
-</thead>
-<tbody>
-            <tr>
-              <th>
-                9:00
-              </th>
-              <td class="empty_cell"></td>
-              <td>
-                Registration
-              </td>
-              <td>
-                Registration
-              </td>
-            </tr>
-            <tr>
-              <th>
-                9:30
-              </th>
-              <td rowspan="4">
-                Welcome to Rails (Raimond García)
-              </td>
-              <td rowspan="2">
-                Five years of Rails, from Spain with &lt;3 (J. Ramírez)
-              </td>
-              <td rowspan="2">
-                Rails for mobile devices (Alberto Perdomo)
-              </td>
-            </tr>
-            <tr>
-              <th>
-                10:00
-              </th>
-            </tr>
-            <tr>
-              <th>
-                10:30
-              </th>
-              <td rowspan="2">
-                Migrating a development company to Rails 3.x (Julian Fischer)
-              </td>
-              <td rowspan="2">
-                Ruby and Rails, as secret weapon to build your service-oriented apps
-                (Felipe Talavera)
-              </td>
-            </tr>
-            <tr>
-              <th>
-                11:00
-              </th>
-            </tr>
-            <tr>
-              <th>
-                11:30
-              </th>
-              <td colspan="3" class="break">break</td>
-            </tr>
-            <tr>
-              <th>
-                12:00
-              </th>
-              <td rowspan="4">
-                Functional Programming with Ruby (Arnau Sánchez Sala)
-              </td>
-              <td rowspan="2">
-                Let's Have a Cup of CoffeeScript (Nicolás Sanguinetti)
-              </td>
-              <td rowspan="2">
-                A SaaS startup: lessons learned (Pablo Villalba)
-              </td>
-            </tr>
-            <tr>
-              <th>
-                12:30
-              </th>
-            </tr>
-            <tr>
-              <th>
-                13:00
-              </th>
-              <td rowspan="2">
-                How I Learned to Smell Code (Renée De Voursney)
-              </td>
-              <td rowspan="2">
-                Humpty-Dumpty: When the Cloud Falls Down (Amy Woodward)
-              </td>
-            </tr>
-            <tr>
-            	<th>
-				  13:30
-				<th>
-            </tr>
-			<tr>
-				<th>14:00</th>
-				<td rowspan="4" class="break">Lunch</td>
-				<td rowspan="2" colspan="2" class="break">Lunch</td>
-			</tr>
-			<tr>
-				<th>14:30</th>
-			</tr>
-            <tr>
-              <th>
-                15:00
-              </th>
-              <td rowspan="2">
-                Five languages in a moment (Sergio Gil)
-              </td>
-              <td rowspan="2">
-                Travis CI - Distributed, Continous Integration for the Ruby community
-                (Sven Fuchs and Josh Kalderimis)
-              </td>
-            </tr>
-            <tr>
-              <th>
-                15:30
-              </th>
-            </tr>
-            <tr>
-            </tr>
-            <tr>
-              <th>
-                16:00
-              </th>
-              <td rowspan="8">
-                Node.js, Backbone.js and Geospatial Applications for Rails Developers (Simon Tokumine and Javier Arce)
-              </td>
-              <td rowspan="2">
-                Java is from Mars, Ruby is from Venus (Paolo Perrota)
-              </td>
-              <td rowspan="2">
-                API-Driven Application Architecture (Alex Sharp)
-              </td>
-            </tr>
-            <tr>
-              <th>
-                16:30
-              </th>
-            </tr>
-            <tr>
-              <th>
-                17:00
-              </th>
-              <td rowspan="2">
-                Lightning
-              </td>
-              <td rowspan="2">
-                60 to 0 MPH in 2.5 Seconds: A Retrospective (Jim "Big Tiger" Remsik)
-              </td>
-            </tr>
-            <tr>
-              <th>17:30</th>
-            </tr>
-			<tr>
-			  <th>18:00</th>
-			</tr>
-			<tr>
-			  <th>18:30</th>
-			</tr>
-			<tr>
-			  <th>19:00</th>
-			</tr>
-			<tr>
-			  <th>19:30</th>
-			</tr>
-			<tr>
-			  <th>20:00</th>
-			</tr>
-			<tr>
-			  <th>20:30</th>
-			</tr>
-			<tr>
-			  <th>21:00</th>
-			</tr>
-
-            <tr>
-              <th>
-                21:30
-              </th>
-              <td rowspan="2">
-                Preconference meetup
-              </td>
-              <td rowspan="2">
-                Conference Fiesta!
-              </td>
-            </tr>
-			<tr>
-				<th>
-					until late
-				</th>
-			</tr>
-</tbody>
-          </table>
-
-
-		<p>You can subscribe to this schedule with the <a href="http://www.google.com/calendar/ical/aprodeweb.es_30nrbvhs864r2cv11jac1tkh88%40group.calendar.google.com/public/basic.ics">ical version</a> of this calendar or see it in <a href="https://www.google.com/calendar/b/0/embed?src=aprodeweb.es_30nrbvhs864r2cv11jac1tkh88@group.calendar.google.com&ctz=Europe/Madrid&gsessionid=OK">google calendar.</a></p>
+			<p>You can subscribe to this schedule with the <a href="http://www.google.com/calendar/ical/aprodeweb.es_30nrbvhs864r2cv11jac1tkh88%40group.calendar.google.com/public/basic.ics">ical version</a> of this calendar or see it in <a href="https://www.google.com/calendar/b/0/embed?src=aprodeweb.es_30nrbvhs864r2cv11jac1tkh88@group.calendar.google.com&ctz=Europe/Madrid&gsessionid=OK">google calendar.</a></p>
 		</section>
 
+		<section class="schedule mobile">
+			<p>Use <a href="http://www.google.com/calendar/ical/aprodeweb.es_30nrbvhs864r2cv11jac1tkh88%40group.calendar.google.com/public/basic.ics">ical version</a> or add to <a href="https://www.google.com/calendar/b/0/render?cid=aprodeweb.es_30nrbvhs864r2cv11jac1tkh88%40group.calendar.google.com">your google calendar</a>.
+			<p><a href="#day1">Wendsday 13</a>
+				 <a href="#day2">Thursday 14</a>
+				 <a href="#day3">Friday 15</a>
+
+
+			<table id="day1">
+				<caption>Wendsday 13</caption>
+					<thead>
+						<tr>
+							<th class="time_column">
+							<th class="normal_column">Wendsday 13
+						<tr>
+							<th>Place
+							<th>MadridOnRails
+					<tbody>
+						<tr>
+							<th>9:30
+							<td rowspan="4">Welcome to Rails (Raimond García)
+						<tr><th>10:00
+						<tr>
+							<th>10:30
+						<tr><th>11:00
+						<tr>
+							<th>11:30
+							<td class="break">break
+						<tr>
+							<th>12:00
+							<td rowspan="4">Functional Programming with Ruby (Arnau Sánchez Sala)
+						<tr>
+							<th>12:30
+						<tr>
+							<th>13:00
+						<tr><th>13:30
+						<tr>
+							<th>14:00
+							<td rowspan="4" class="break">Lunch
+						<tr><th>14:30
+						<tr>
+							<th>15:00
+						<tr><th>15:30
+						<tr>
+						<tr>
+							<th>16:00
+							<td rowspan="8">Node.js, Backbone.js and Geospatial Applications for Rails Developers (Simon Tokumine and Javier Arce)
+						<tr><th>16:30
+						<tr>
+							<th>17:00
+						<tr><th>17:30
+						<tr><th>18:00
+						<tr><th>18:30
+						<tr><th>19:00
+						<tr><th>19:30
+						<tr><th>20:00
+						<tr><th>20:30
+						<tr><th>21:00
+						<tr>
+							<th>21:30
+							<td rowspan="2">Preconference meetup
+						<tr><th>until late
+			</table>
+
+			<p><a href="#day1">Wendsday 13</a>
+				 <a href="#day2">Thursday 14</a>
+				 <a href="#day3">Friday 15</a>
+
+			<table id="day2">
+				<caption>Thuesday 14</caption>
+					<thead>
+						<tr>
+							<th class="time_column">
+							<th class="normal_column">Thuesday 14
+						<tr>
+							<th>Place
+							<th>Florida Park
+					<tbody>
+						<tr>
+							<th>9:00
+							<td>Registration
+						<tr>
+							<th>9:30
+							<td rowspan="2">Five years of Rails, from Spain with &lt;3 (J. Ramírez)
+						<tr><th>10:00
+						<tr>
+							<th>10:30
+							<td rowspan="2">Migrating a development company to Rails 3.x (Julian Fischer)
+						<tr><th>11:00
+						<tr>
+							<th>11:30
+							<td class="break">break
+						<tr>
+							<th>12:00
+							<td rowspan="2">Let's Have a Cup of CoffeeScript (Nicolás Sanguinetti)
+						<tr>
+							<th>12:30
+						<tr>
+							<th>13:00
+							<td rowspan="2">How I Learned to Smell Code (Renée De Voursney)
+						<tr><th>13:30
+						<tr>
+							<th>14:00
+							<td rowspan="2" class="break">Lunch
+						<tr><th>14:30
+						<tr>
+							<th>15:00
+							<td rowspan="2">Five languages in a moment (Sergio Gil)
+						<tr><th>15:30
+						<tr>
+						<tr>
+							<th>16:00
+							<td rowspan="2">Java is from Mars, Ruby is from Venus (Paolo Perrota)
+						<tr><th>16:30
+						<tr>
+							<th>17:00
+							<td rowspan="2">Lightning
+						<tr><th>17:30
+						<tr><th>...
+						<tr>
+							<th>21:30
+							<td rowspan="2">Conference Fiesta!
+							<tr><th>until late
+			</table>
+
+			<p><a href="#day1">Wendsday 13</a>
+				 <a href="#day2">Thursday 14</a>
+				 <a href="#day3">Friday 15</a>
+
+			<table id="day3">
+				<caption>Friday 15</caption>
+					<thead>
+						<tr>
+							<th class="time_column">
+							<th class="normal_column">Friday 15
+						<tr>
+							<th>Place
+							<th>Florida Park
+					<tbody>
+						<tr>
+							<th>9:00
+							<td>Registration
+						<tr>
+							<th>9:30
+							<td rowspan="2">Rails for mobile devices (Alberto Perdomo)
+						<tr><th>10:00
+						<tr>
+							<th>10:30
+							<td rowspan="2">Ruby and Rails, as secret weapon to build your service-oriented apps
+							(Felipe Talavera)
+						<tr><th>11:00
+						<tr>
+							<th>11:30
+							<td class="break">break
+						<tr>
+							<th>12:00
+							<td rowspan="2">A SaaS startup: lessons learned (Pablo Villalba)
+						<tr>
+							<th>12:30
+						<tr>
+							<th>13:00
+							<td rowspan="2">Humpty-Dumpty: When the Cloud Falls Down (Amy Woodward)
+						<tr><th>13:30
+						<tr>
+							<th>14:00
+							<td rowspan="2" class="break">Lunch
+						<tr><th>14:30
+						<tr>
+							<th>15:00
+							<td rowspan="2">Travis CI - Distributed, Continous Integration for the Ruby community
+							(Sven Fuchs and Josh Kalderimis)
+						<tr><th>15:30
+						<tr>
+						<tr>
+							<th>16:00
+							<td rowspan="2">API-Driven Application Architecture (Alex Sharp)
+						<tr><th>16:30
+						<tr>
+							<th>17:00
+							<td rowspan="2">60 to 0 MPH in 2.5 Seconds: A Retrospective (Jim "Big Tiger" Remsik)
+						<tr><th>17:30
+			</table>
+
+		</section>
 		<section id="sponsors" class="sponsors">
 			<h2>Sponsors</h2>
 			<ul>
