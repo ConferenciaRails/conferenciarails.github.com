@@ -602,7 +602,7 @@ footer {
 		h2 { font-size: 21px; }
 		.wrapper { width: 95%; }
 		.more_info { margin-top: 25px; }
-		header { padding-bottom: 60px; }
+		header { padding-bottom: 80px; }
 		header h1 { text-align: center; margin: -10px 0 5px 0; }
 			header h1 a { 
 				display: -moz-inline-stack;
@@ -615,7 +615,7 @@ footer {
 				background-position: -394px -865px;
 				margin: 0;
 			}
-		.header_arrow { bottom: -82px; left: 20px }
+		.header_arrow { bottom: -102px; left: 20px }
 		.sponsorlink, .ticketslink { display: none; }
 		nav, nav ul { text-align: center; position: absolute;}
 		nav { bottom: 0px; left: -5px; right: -5px; }
